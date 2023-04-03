@@ -1,0 +1,49 @@
+<ion-header>
+
+    <ion-navbar>
+        <button ion-button menuToggle>
+            <ion-icon name="menu"></ion-icon>
+        </button>
+        <ion-title>Birth By Sleep Stickers</ion-title>
+    </ion-navbar>
+    <ion-item>
+        <ion-label color="primary">Character</ion-label>
+        <ion-select [(ngModel)]="character" interface="popover" (ionChange)="characterChanged()">
+            <ion-option value="Terra">Terra</ion-option>
+            <ion-option value="Ventus">Ventus</ion-option>
+            <ion-option value="Aqua">Aqua</ion-option>
+        </ion-select>
+    </ion-item>
+    <div *ngIf="selected.Name !== ''" class="selection_div">
+        <div class="selection">{{selected.Name}}
+            <div class="selection_location">{{selected.Location}}</div>
+        </div>
+    </div>
+</ion-header>
+
+<ion-content padding>
+    <div class="collections">
+        <ion-card *ngFor="let g of treasureGroup" class="collection_card">
+            <div>
+                <div class="collection_title">
+                    {{g.Group}}
+                </div>
+                <div id="div{{trs.Id}}" class="command" *ngFor="let trs of g.Treasures" (click)="selectTreasure(trs)" [ngClass]="{ selected_command: trs.Selected }">
+                    <img src="./assets/imgs/bbs-treasures/{{trs.Type.toLocaleLowerCase()}}.png" [ngClass]="{ command_acquired: trs.Acquired, command_not_acquired: !trs.Acquired }">
+                </div>
+            </div>
+        </ion-card>
+    </div>
+</ion-content>
+
+<ion-footer>
+    <div class="selection_div">
+        <div class="total">
+            <span class="left_side"></span>
+            <span class="middle">Total
+                <span>{{acquiredTreasures.length}}/{{numTreasures}}</span>
+            </span>
+            <span class="right_side"></span>
+        </div>
+    </div>
+</ion-footer>

@@ -1,0 +1,254 @@
+page-khii-material {
+    ion-content {
+        //position: relative;
+        // background-color: #ff942e !important;
+        // margin-top: 50px !important;
+        // height: calc(100% - 50px);
+        background: repeating-linear-gradient(
+        0deg,
+        #045804 2px,
+        black 10px,
+        black 10px
+        );
+    }
+
+    .material_box {
+        border-radius: 10px;
+        background-color: mediumseagreen;
+        -moz-box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px #12773a;
+	-webkit-box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px #12773a;
+	box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px #12773a;
+	text-shadow:
+		1px 1px 2px rgba(000,000,000,0.7),
+        0px 1px 0px black;
+        width: calc(100% - 60px);
+        // height: calc(100% - 200px);
+        text-align: center;
+        display: table;
+        margin: 0 auto;
+        overflow-y: scroll;
+        //height: ;
+        //max-height: 500px !important;
+    }
+
+    .materials_grid {
+        height: 500px;
+        overflow-y: scroll;
+    }
+
+    .materials_grid::-webkit-scrollbar {
+        width: 20px;
+    }
+
+    .materials_grid::-webkit-scrollbar-track {
+        box-shadow: inset 0 0 5px grey; 
+        border-radius: 10px;
+    }
+     
+    /* Handle */
+    .materials_grid::-webkit-scrollbar-thumb {
+        background: darkgrey; 
+        border-radius: 10px;
+    }
+    
+    /* Handle on hover */
+    .materials_grid::-webkit-scrollbar-thumb:hover {
+        background: darkgrey; 
+    }
+
+     @media (max-width: 576px) {
+        // font-size: 25px;
+        // background-color: black;
+        // color: white;
+        // border: solid;
+        // border-width: 5px;
+        // border-color: darkgray;
+        // border-radius: 5px;
+        // width: calc(100% - 80px);
+        .material_row {
+            min-width: calc(100% - 20px);
+        }
+    }
+
+    .material_card {
+        font-size: 25px;
+        background-color: black;
+        color: white;
+        // border: solid;
+        // border-width: 5px;
+        // border-color: darkgray;
+        border-radius: 5px;
+        position: relative;
+        height: 35px;
+        margin: 2px;
+    }
+
+    .material_info {
+        position: relative;
+        margin: 2px;
+        border-radius: 5px;
+        width: 60px;
+        height: 28px;
+        top: 2px;
+        left: 2px;
+        color: black;
+        
+    }
+
+    .material_img {
+        position: absolute;
+        width: 32px;
+        height: 32px;
+        left: 25px;
+    }
+
+    .material_rank {
+        position: absolute;
+        text-align: left;
+        top: 0px;
+        left: 6px;
+    }
+
+    .material_name {
+        position: absolute;
+        top: 2px;
+        text-align: left !important;
+        width: 100%;
+        left: 72px;
+    }
+
+    .selected_material_row > .material_info {
+        margin: 0px;
+        top: 0px;
+    }
+
+    .selected_material_row > .material_name {
+        // margin: 0px;
+        top: 0px;
+    }
+
+    .material_count {
+        position: absolute;
+        top: 2px;
+        right: 6px;
+    }
+
+    .selected_material_row > .material_count {
+        // margin: 0px;
+        top: 0px;
+        right: 4px;
+    }
+
+    .material_rank_c {
+        background-color: lightgreen;
+    }
+
+    .material_rank_b {
+        background-color: red;
+    }
+
+    .material_rank_s {
+        background-color: yellow;
+    }
+
+    .material_rank_a {
+        background-color: rgb(207, 47, 207);
+    }
+
+    .drop_box {
+        border-radius: 10px;
+        background-color: black;
+        -moz-box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px black;
+	-webkit-box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px black;
+	box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px black;
+	text-shadow:
+		1px 1px 2px rgba(000,000,000,0.7),
+        0px 1px 0px black;
+        width: calc(100% - 60px);
+        // height: calc(100% - 200px);
+        text-align: center;
+        display: table;
+        // margin: 0px;
+        margin: 0 auto;
+        margin-top: 5px;
+        overflow-y: scroll;
+        //max-height: 500px !important;
+    }
+
+    .drops_grid {
+        // height: calc(100% - 100px);
+        height: 300px;
+        overflow-y: scroll;
+    }
+
+    .drops_grid::-webkit-scrollbar {
+        width: 20px;
+    }
+
+    .drops_grid::-webkit-scrollbar-track {
+        box-shadow: inset 0 0 5px grey; 
+        border-radius: 10px;
+    }
+     
+    /* Handle */
+    .drops_grid::-webkit-scrollbar-thumb {
+        background: darkgrey; 
+        border-radius: 10px;
+    }
+    
+    /* Handle on hover */
+    .drops_grid::-webkit-scrollbar-thumb:hover {
+        background: darkgrey; 
+    }
+
+    .drop_card {
+        background-color: darkcyan;
+        color: white;
+        position: relative;
+        font-size: 25px;
+        border-radius: 10px;
+        text-align: left;
+        padding-left: 15px;
+        min-height: 45px;
+        margin-top: 5px;
+    }
+
+    .drop_row_percentage {
+        position: absolute;
+        right: 5px;
+        top: 0px;
+    }
+
+    .enemy_location {
+        font-size: 15px;
+    }
+
+    .selected_material_row {
+        border-width: 1px;
+        border: solid;
+        border-color: red;
+    }
+
+    .enemy_img {
+        display: inline-block;
+        max-width: 100px;
+        float: right;
+        padding-top: 25px;
+        padding-bottom: 25px;
+        padding-right: 25px;
+    }
+
+    
+}

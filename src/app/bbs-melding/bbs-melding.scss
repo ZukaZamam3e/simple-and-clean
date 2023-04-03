@@ -1,0 +1,360 @@
+page-bbs-melding {
+    ion-content {
+        background: url(../assets/imgs/bbs-melding/bg.jpg) no-repeat center center fixed;
+        background-size: cover;
+    }
+    
+    ion-card img {
+        display: inline;
+        width: initial;
+        
+    }
+
+    .ventus_able {
+        display: inline !important;
+    }
+
+    .terra_able {
+        display: inline !important;
+    }
+
+    .aqua_able {
+        display: inline !important;
+    }
+
+    .not_able {
+        display: none !important;
+    }
+
+    .characters {
+        position: absolute;
+        right: 0px;
+        top: 0px;
+    }
+
+    .show {
+        display: inline;
+    }
+
+    .hide {
+        display: none;
+    }
+
+    .meldBox {
+        border: 1px solid green ;
+        margin-bottom: 10px;
+    }
+
+    .footer-offscreen {
+        margin-bottom: -16px;
+        margin-left: -16px;
+        margin-right: -16px;
+        position: initial !important;
+        width: 104% !important;
+    /* position: absolute; */
+    }
+
+    .footer-onscreen {
+            /* margin-bottom: -16px; */
+        margin-left: -16px;
+        margin-right: -16px;
+        width: 104%;
+    /* position: absolute; */
+    }
+
+    .footer-bbs {
+        background-color: #524aac;
+        // overflow-y: scroll;
+        // position: relative;
+    }
+
+    .footer_header {
+        font-size: larger;
+        padding-left: 5px;
+        // margin-top: -20px;
+        background-color: #19227c;
+        color: white;
+        // position: relative;
+        position: absolute;
+        height: 15%;
+        width: 100%;
+    }
+
+    .footer_header_h2 {
+        margin-top: 3px;
+    }
+
+    .footer_close {
+        float: right;
+        font-size: 21px;
+        // padding-bottom: 3px;
+        padding-right: 20px;
+        padding-left: 20px;
+        padding-bottom: 2px;
+    }
+
+    .footer_undo {
+        float: right;
+        font-size: 21px;
+        // padding-bottom: 3px;
+        padding-right: 10px;
+        padding-left: 10px;
+        padding-bottom: 2px;
+    }
+
+    .footer_redo {
+        float: right;
+        font-size: 21px;
+        // padding-bottom: 3px;
+        padding-right: 10px;
+        padding-left: 10px;
+        padding-bottom: 2px;
+    }
+
+    .footer_filter {
+        float: right;
+        font-size: 21px;
+        // padding-bottom: 3px;
+        padding-right: 20px;
+        padding-left: 20px;
+        padding-bottom: 2px;
+    }
+
+    .footer_body {
+
+    }
+
+    .outcome {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        border: solid;
+        width: 100px;
+        height: 24px;
+        margin-top: -15px;
+        margin-left: -50px;
+        text-align: center;
+    }
+
+    .line {
+        border: solid;
+        height: 1px;
+        width: 100px;
+        top: 50%;
+        left: 60%;
+        margin-top: -1px;
+        position: absolute;
+    }
+    
+    .meld-grid {
+        overflow-x: scroll;
+        overflow-y: hidden;
+        white-space: nowrap;
+        // height: 80%;
+        position: relative;
+        top: 15% !important;
+        height: 85% !important;
+        // overflow-y: scroll;
+        // overflow: scroll;
+        // white-space: nowrap;
+
+        .card {
+            display: inline-block;
+            margin: 10px;
+            width: 250px;
+            border-radius: 2px;
+            font-size: 1.4rem;
+            height: calc(100% - 19px);
+            background: #0092ff;
+            -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+            box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+          }
+
+          
+
+          .meld-header {
+            color: white; 
+            font-family: Impact, Charcoal, sans-serif; 
+            font-size: 22px;
+            font-style: italic;
+            padding-right: 13px;
+          }
+
+          .card_header {
+            // box-shadow: 10px 10px 5px #888888;
+            border-color: yellow !important;
+            border-bottom: solid;
+            border-width: 5px;
+            border-radius: 2px 2px;
+            padding: 3px !important;
+            margin-left: 5px;
+            margin-right: 5px; 
+          }
+
+          .meld-outcome {
+            color: white; 
+            font-size: 19px;
+            font-family: Arial, Helvetica sans-serif; 
+
+
+        }
+
+        .meld-info {
+            color: white; 
+            font-size: 12px;
+            font-family: Arial, Helvetica sans-serif; 
+            float: right;
+            text-align: center;
+        }
+
+        .meld_slot {
+            background-color: #004dc9;
+            color: white; 
+            font-size: 16px;
+            font-family: Arial, Helvetica sans-serif; 
+            width: 50px;
+            padding-left: 10px;
+            border-radius: 25px 0px 0px 25px;
+            height: 24px;
+
+
+        }
+
+        .meld_slot_container {
+            position: relative;
+            padding-top: 5px;
+        }
+
+        .meld_slot_corner {
+            position: absolute;
+            top: 5px;
+            left: 50px;
+            height: 24px;
+            border-top: 12px solid transparent;
+            border-left: 12px solid #004dc9;
+            border-bottom: 12px solid transparent;
+        }
+
+        .slot-header {
+            color: white; 
+            font-family: Impact, Charcoal, sans-serif; 
+            font-size: 12px;
+            font-style: italic;
+            padding-right: 8px;
+        }
+
+        .slot-number {
+            color: orange; 
+            font-family: Impact, Charcoal, sans-serif; 
+            font-size: 12px;
+        }
+
+        .meld_slot_backwards_corner {
+            position: absolute;
+            top: 5px;
+            left: 55px;
+            height: 24px;
+            border-top: 12px solid #002a9a;
+            border-left: 12px solid transparent;
+            border-bottom: 12px solid #002a9a;
+        }
+
+        .meld_slot_backwards {
+            position: absolute;
+            top: 5px;
+            left: 67px;
+            width: 50px;
+            background-color: #002a9a;
+            color: white; 
+            font-size: 16px;
+            font-family: Arial, Helvetica sans-serif; 
+            width: 145px;
+            padding-left: 10px;
+            border-radius: 0px 25px 25px 0px;
+            height: 24px;
+
+
+        }
+
+        
+    }
+
+    .item-grid {
+        overflow-x: scroll;
+        overflow-y: hidden;
+        white-space: nowrap;
+        // height: 80%;
+        // position: relative;
+        top: 40% !important;
+        height: 60% !important;
+
+        .item-card {
+            display: inline-block;
+            // margin: 10px;
+            width: 225px;
+            // border-radius: 2px;
+            // font-size: 1.4rem;
+            // height: calc(100% - 25px);
+            // background: #0092ff;
+            // -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+            // box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+          }
+    }
+
+    // .item-grid::-webkit-scrollbar {
+    //     width: 2em;
+    //     height: 2em
+    // }
+
+    .meld_slot_item {
+        background-color: rgb(38, 191, 8);
+        color: white; 
+        font-size: 16px;
+        font-family: Arial, Helvetica sans-serif; 
+        width: 50px;
+        padding-left: 10px;
+        border-radius: 25px 0px 0px 25px;
+        height: 24px;
+
+
+    }
+
+
+    .meld_slot_item_corner {
+        position: absolute;
+        top: 5px;
+        left: 50px;
+        height: 24px;
+        border-top: 12px solid transparent;
+        border-left: 12px solid rgb(38, 191, 8);
+        border-bottom: 12px solid transparent;
+    }
+
+    .meld-card {
+        overflow: unset;
+        width: 200px;
+    }
+
+    .scroll-zoom-wrapper {
+        white-space: nowrap;
+    }
+
+    ion-scroll {
+        min-height: 160px; 
+        height: auto;
+
+            .scroll-content {
+            padding: 0px !important;
+        }    
+    }
+
+    .scroll { 
+        min-width: 100%;
+      }
+
+      .scrolling-wrapper {
+        
+      
+        
+      }
+}

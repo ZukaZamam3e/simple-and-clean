@@ -1,0 +1,59 @@
+Mega-Potion	Mythril Shard x3, Power Shard x1, Blazing Shard x1, Lucid Shard x1	B	12
+Mega-Ether	Mythril Shard x3, Power Shard x1, Blazing Shard x1, Lucid Shard x1, Serenity Stone x1	B	12
+Elixir	Mythril Stone x3, Power Stone x1, Dark Stone x1	A	15
+Megalixir	Mythril Stone x3, Power Stone x1, Dark Stone x1, Serenity Gem x1	A	15
+Drive Recovery	Mythril Shard x3, Dark Shard x3, Frost Shard x1, Lightning Shard x1	C	16
+High Drive Recovery	Mythril Shard x3, Dark Shard x3, Frost Shard x1, Lightning Shard x1, Serenity Shard x1	C	16
+AP Boost	Mythril Gem x1, Power Crystal x3, Dark Crystal x3, Frost Crystal x3	S	49
+Magic Boost	Mythril Gem x1, Power Crystal x3, Dark Crystal x3, Frost Crystal x3, Serenity Crystal x1	S	49
+Defense Boost	Mythril Crystal x1, Blazing Crystal x3, Lightning Crystal x3, Lucid Crystal x3	S	50
+Power Boost	Mythril Crystal x 1, Blazing Crystal x3, Lightning Crystal x3, Lucid Crystal x3, Serenity Crystal x1	S	50
+Mythril Shard	Dense Stone x1, Dense Shard x3, Twilight Stone x1, Twilight Shard x3	C	18
+Mythril Stone	Dense Stone x1, Dense Shard x3, Twilight Stone x1, Twilight Shard x3, Serenity Shard x1	C	18
+Mythril Gem	Dense Crystal x1, Dense Gem x3, Twilight Crystal x1, Twilight Gem x3	B	34
+Mythril Crystal	Dense Crystal x1, Dense Gem x3, Twilight Crystal x1, Twilight Gem x3, Serenity Stone x1	B	34
+Serenity Crystal	Tranquil Crystal x1, Remembrance Crystal x1, Bright Crystal x10	A	55
+Found Illusion	Tranquil Crystal x1, Remembrance Crystal x1, Bright Crystal x10, Serenity Gem x1	A	55
+Firaga Bangle	Mythril Shard x5, Blazing Stone x1, Blazing Shard x1	C	15
+Firagun Bangle	Mythril Shard x5, Blazing Stone x1, Blazing Shard x1, Serenity Shard x1	C	15
+Blizzaga Armlet	Mythril Shard x5, Frost Stone x1, Frost Shard x1	C	15
+Blizzagun Armlet	Mythril Shard x5, Frost Stone x1, Frost Shard x1, Serenity Shard x1	C	15
+Thundaga Trinket	Mythril Shard x5, Lightning Stone x1, Lightning Shard x1	C	15
+Thundagun Trinket	Mythril Shard x5, Lightning Stone x1, Lightning Shard x1, Serenity Shard x1	C	15
+Midnight Anklet	Mythril Shard x5, Lucid Stone x1, Lucid Shard x1	C	15
+Chaos Anklet	Mythril Shard x5, Lucid Stone x1, Lucid Shard x1, Serenity Shard x1	C	15
+Acrisius	Mythril Stone x5, Blazing Stone x1, Frost Stone x1, Lightning Stone x1	B	24
+Acrisius+	Mythril Stone x5, Blazing Stone x1, Frost Stone x1, Lightning Stone x1, Serenity Stone x1	B	24
+Power Band	Mythril Stone x5, Power Stone x1, Dark Stone x1, Lucid Stone x1	B	24
+Buster Band	Mythril Stone x5, Power Stone x1, Dark Stone x1, Lucid Stone x1, Serenity Stone x1	B	24
+Petit Ribbon	Mythril Crystal x3, Orichalcum x1, Dense Stone x1, Dense Shard x1	A	24
+Ribbon	Mythril Crystal x3, Orichalcum x1, Dense Stone x1, Dense Shard x1, Serenity Gem x1	A	24
+Shock Charm	Lost Illusion x1, Remembrance Gem x1, Remembrance Stone x3, Tranquil Gem x1, Tranquil Stone x3	S	31
+Shock Charm+	Lost Illusion x1, Remembrance Gem x1, Remembrance Stone x3, Tranquil Gem x1, Tranquil Stone x3, Serenity Crystal x1	S	31
+Garnet Ring	Mythril Stone x3, Power Stone x1, Power Shard x1, Dark Shard x1	C	16
+Diamond Ring	Mythril Stone x3, Power Stone x1, Power Shard x1, Dark Shard x1, Serenity Shard x1	C	16
+Mythril Ring	Mythril Stone x3, Power Stone x1, Dark Stone x1, Dark Shard x1	C	17
+Orichalcum Ring	Mythril Stone x3, Power Stone x1, Dark Stone x1, Dark Shard x1, Serenity Shard x1	C	17
+Soldier Earring	Mythril Gem x3, Dark Gem x1, Frost Gem x1, Lucid Gem x1	B	24
+Fencer Earring	Mythril Gem x3, Dark Gem x1, Frost Gem x1, Lucid Gem x1, Serenity Stone x1	B	24
+Mage Earring	Mythril Gem x3, Power Gem x1, Blazing Gem x1, Lightning Gem x1	B	24
+Slayer Earring	Mythril Gem x3, Power Gem x1, Blazing Gem x1, Lightning Gem x1, Serenity Stone x1	B	24
+Expert's Ring	Mythril Crystal x3, Dark Crystal x1, Dark Gem x1, Dark Stone x1, Dark Shard x1	A	29
+Master's Ring	Mythril Crystal x3, Dark Crystal x1, Dark Gem x1, Dark Stone x1, Dark Shard x1, Serenity Gem x1	A	29
+Moon Armlet	Orichalcum x3, Mythril Crystal x1, Twilight Stone x1, Twilight Shard x1	A	22
+Star Charm	Orichalcum x3, Mythril Crystal x1, Twilight Stone x1, Twilight Shard x1, Serenity Stone x1, Serenity Gem x1	A	22
+Draw Ring	Found Illusion x1, Remembrance Shard x3, Bright Gem x3, Bright Stone x5, Bright Shard x9	S	55
+Lucky Ring	Found Illusion x1, Remembrance Shard x3, Bright Gem x3, Bright Stone x5, Bright Shard x9, Serenity Crystal x1	S	55
+Shade Archive	Lost Illusion x1, Found Illusion x1, Remembrance Crystal x1, Serenity Gem x3	S	26
+Shade Archive+	Lost Illusion x1, Found Illusion x1, Remembrance Crystal x1, Serenity Gem x3, Serenity Crystal x1	S	26
+Full Bloom	Lost Illusion x1, Found Illusion x1, Tranquil Crystal x1, Serenity Gem x3	S	26
+Full Bloom+	Lost Illusion x1, Found Illusion x1, Tranquil Crystal x1, Serenity Gem x3, Serenity Crystal x1	S	26
+Centurion	Lost Illusion x1, Remembrance Crystal x1, Remembrance Gem x3, Remembrance Stone x5, Remembrance Shard x7	S	51
+Centurion+	Lost Illusion x1, Remembrance Crystal x1, Remembrance Gem x3, Remembrance Stone x5, Remembrance Shard x7, Serenity Crystal x1	S	51
+Save The Queen	Orichalcum x1, Dense Crystal x3, Dense Gem x5, Dense Stone x7, Dense Shard x9	S	78
+Save The Queen+	Orichalcum x1, Dense Crystal x3, Dense Gem x5, Dense Stone x7, Dense Shard x9, Serenity Crystal x1	S	78
+Frozen Pride	Lost Illusion x1, Tranquil Crystal x1, Tranquil Gem x3, Tranquil Stone x5, Tranquil Shard x7	S	51
+Frozen Pride+	Lost Illusion x1, Tranquil Crystal x1, Tranquil Gem x3, Tranquil Stone x5, Tranquil Shard x7, Serenity Crystal x1	S	51
+Save The King	Orichalcum x1, Twilight Crystal x3, Twilight Gem x5, Twilight Stone x7, Twilight Shard x9	S	78
+Save The King+	Orichalcum x1, Twilight Crystal x3, Twilight Gem x5, Twilight Stone x7, Twilight Shard x9, Serenity Crystal x1	S	78
+Ultima Weapon	Orichalcum+ x13, Orichalcum x1, Mythril Crystal x1, Dense Crystal x1, Twilight Crystal x1, Serenity Crystal x3	S	99

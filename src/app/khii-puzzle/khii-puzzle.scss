@@ -1,0 +1,190 @@
+page-khii-puzzle {
+
+    .puzzle-header-column {
+        border-color: black;
+        // border-width: 1px;
+        background:inherit;
+        border-left: solid;
+        border-bottom: solid;
+        border-top: solid;
+        border-width: thin; 
+    }
+
+    .puzzle-header-column-last {
+        border-color: black;
+        // border-width: 1px;
+        border-right: solid;
+        background:inherit;
+        border-width: thin; 
+    }
+
+    .puzzle-grid {
+        min-width: 800px;
+    }
+
+    .puzzle-row-column {
+        border-color: black;
+        // border-width: 1px;
+        border-left: solid;
+        border-bottom: solid;
+        border-width: thin; 
+        background:inherit;
+    }
+
+    .puzzle-row-column-last {
+        border-color: black;
+        // border-width: 1px;
+        border-right: solid;
+        background:inherit;
+        border-width: thin; 
+    }
+
+    .puzzle-header-row {
+        background-color: lightblue;
+    }
+
+    .puzzle-row {
+        background-color: lightgray;
+        // padding-right: -18px;
+        // width: calc(100% - 18px) !important;
+    }
+
+    .puzzle-row-selected {
+        border-color: red !important;
+        background-color: lightgray;
+        border-width: 2px !important;
+        border: solid;
+        // padding-right: -18px;
+        // width: calc(100% - 18px) !important;
+    }
+
+    .puzzle-acquired {
+        background-color: lightgreen;
+        // padding-right: -18px;
+        // width: calc(100% - 18px) !important;
+    }
+
+    ion-col {
+        //margin-top: -3px !important;
+        // margin-right: -3px !important;
+        position: relative;
+    }
+
+    .grid-menu {
+        float: right;
+    }
+
+    ion-content {
+        background-color: #ff942e !important;
+        margin-top: 50px !important;
+        height: calc(100% - 50px);
+    }
+
+    .scroll-content {
+        margin-top: 141px !important;
+        
+    }
+
+    .collection_card {
+        background-color: #fffffc;
+        max-width: 384px;
+        display: table;
+        margin: 0 auto;
+        margin-top: 10px !important;
+    }
+
+    .command {
+        width: 48px;
+        height: 48px;
+        padding: 2px;
+        float: left;
+    }
+
+    .collection_title {
+        background-color: #ffdbc7;
+        font-size: 24px;
+        padding: 15px;
+        margin: 15px;
+        border-radius: 15px;
+        background: -webkit-linear-gradient(left, #ffdbc7, #ffeddc); /* For Safari 5.1 to 6.0 */
+        background: -o-linear-gradient(right, #ffdbc7, #ffeddc); /* For Opera 11.1 to 12.0 */
+        background: -moz-linear-gradient(right, #ffdbc7, #ffeddc); /* For Firefox 3.6 to 15 */
+        background: linear-gradient(to right, #ffdbc7, #ffeddc); /* Standard syntax (must be last) */
+    }
+
+    .selection_div {
+        text-align: center;
+        margin: 15px;
+    }
+
+
+    .selection {
+      display: inline-block;
+      width: calc(100% - 20px);
+      max-width: 433px;
+      background-color: #1e1c22;
+      color: white;
+      border-radius: 35px;
+      font-size: 18px;
+      height: 104px;
+      max-height: 104px;
+      padding: 30px;
+    }
+
+    .selection_location {
+      font-size: 12px;
+    }
+
+    .total {
+        // position: absolute;
+        // top: 5px;
+        // left: 50px;
+        display: inline-block;
+        width: calc(100% - 20px);
+        max-width: 433px;
+        color: white;
+        font-size: 32px;
+        padding: 15px;
+        
+    }
+
+    // .left_side {
+    //     border-top: 13px solid transparent;
+    //     border-right: 26px solid #1e1c22;
+    //     border-bottom: 13px solid transparent;
+    // }
+
+    .middle {
+        background-color: #1e1c22;
+        padding: 13px;
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+
+    // .right_side {
+    //     border-top: 32px solid transparent;
+    //     border-left: 32px solid #1e1c22;
+    //     border-bottom: 32px solid transparent;
+    // }
+
+    // .collections {
+    //     margin-top: 35px;
+    // }
+
+    .selected_command {
+        border: solid;
+        border-color: red;
+    }
+
+    .command_acquired {
+        opacity: 1.0;
+    }
+
+    .command_not_acquired {
+        opacity: .5;
+    }
+
+
+
+    
+}

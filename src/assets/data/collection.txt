@@ -1,0 +1,693 @@
+Character: Terra
+Type: Attack
+Quick Blitz
+Blitz
+Meteor Crash
+Sliding Dash
+Fire Dash
+Dark Haze
+Sonic Blade
+Chaos Blade
+Zantetsuken
+Strike Raid
+Freeze Raid
+Fire Surge
+Thunder Surge
+Aerial Slam
+Ars Solum
+Poison Edge
+Blizzard Edge
+Stun Edge
+Slot Edge
+Fire Strike
+Confusion Strike
+Binding Strike
+Brutal Blast
+Magnet Spiral
+Windcutter
+Limit Storm
+Collision Magnet
+Geo Impact
+Sacrifice
+Break Time
+
+Type: Magic
+Fire
+Fira
+Firaga
+Dark Firaga
+Fission Firaga
+Crawling Fire
+Blizzard
+Blizzara
+Blizzaga
+Thunder
+Thundara
+Thundaga
+Cure
+Cura
+Curaga
+Esuna
+Mine Shield
+Mine Square
+Zero Gravity
+Zero Gravira
+Zero Graviga
+Magnet
+Magnera
+Magnega
+Aero
+Aerora
+Aeroga
+Warp
+Deep Freeze
+Mega Flare
+Quake
+Meteor
+Transcendence
+Mini
+Blackout
+Ignite
+Confuse
+Bind
+Poison
+Slow
+Stop
+Stopra
+Stopga
+Sleep
+
+Type: Items
+Potion
+Hi-Potion
+Mega-Potion
+Ether
+Mega-Ether
+Panacea
+Elixer
+Megalixer
+Balloon Letter
+Vanilla Glitz
+Bueno Volcano
+Snow Bear
+Spark Lemon
+Royalberry
+Rockin' Crunch
+Daisy Sorbet
+Big Bad Pete
+
+Type: Friendship
+Group Cure
+Group Cura
+Group Curaga
+Confetti
+Fireworks
+Victory Pose
+Vanish
+Unison Rush
+Voltage Stack
+Trinity Limit
+Illusion-F
+Illusion-L
+Illusion-V
+Illusion-R
+Illusion-B
+
+Type: Movement
+Jump
+High Jump
+Air Slide
+Ice Slide
+Sonic Impact
+Slide
+
+Type: Defense
+Block
+Renewal Block
+Focus Block
+Stun Block
+Poison Block
+
+Type: Reprisals
+Counter Hammer
+Payback Fang
+Aerial Recovery
+
+Type: Shotlocks
+Meteor Shower
+Flame Salvo
+Chaos Snake
+Dark Volley
+Ragnarok
+Thunderstorm
+Bio Barrage
+Photon Charge
+Absolute Zero
+Lightning Ray
+Sonic Shadow
+Ultima Cannon
+
+Type: DimensionLinks
+Finish(Ven)
+Finish(Aqua)
+Dream Sparkle
+Thunderchaser
+Hero's Entrance
+Random Beam
+Swordbill
+Fruit Shot
+Air Dive
+Magic Volley
+Miracle Dance
+Dragonfire
+Hero's Pride
+Ohana Beat
+Barrel Roll
+Rumble Rave
+
+Type: Finish
+Finish
+Rising Rock 1
+Heat Slash 1
+Gold Rush
+Rising Rock 2
+Ramuh's Judgment
+Twisted Hours
+Surprise! 1
+Dark Star 1
+Heal Strike
+Random End
+Surprise! 2
+Dark Star 2
+Explosion
+Demolition
+Critical Impact
+Firestorm
+Diamond Dust
+Thunderbolt
+Bladecharge
+Rockbreaker
+Rhythm Mixer
+Dark Impulse
+Frozen Fortune
+
+Type: Abilities
+Treasure Magnet
+HP Prize Plus
+Link Prize Plus
+Lucky Strike
+HP Boost
+Zero EXP
+Fire Boost
+Blizzard Boost
+Thunder Boost
+Cure Boost
+Item Boost
+Attack Haste
+Magic Haste
+Combo F Boost
+Finish Boost
+Fire Screen
+Blizzard Screen
+Thunder Screen
+Dark Screen
+Reload Boost
+Defender
+Combo Plus
+Air Combo Plus
+EXP Chance
+EXP Walker
+Damage Syphon
+Second Chance
+Once More
+Scan
+Leaf Bracer
+
+Character: Ventus
+Type: Attack
+Quick Blitz
+Blitz
+Sliding Dash
+Fire Dash
+Sonic Blade
+Strike Raid
+Freeze Raid
+Treasure Raid
+Spark Raid
+Wind Raid
+Fire Surge
+Thunder Surge
+Aerial Slam
+Ars Arcanum
+Time Splicer
+Poison Edge
+Blizzard Edge
+Stun Edge
+Slot Edge
+Fire Strike
+Confusion Strike
+Binding Strike
+Tornado Strike
+Magnet Spiral
+Salvation
+Collision Magnet
+Break Time
+
+Type: Magic
+Fire
+Fira
+Firaga
+Fission Firaga
+Crawling Fire
+Blizzard
+Blizzara
+Blizzaga
+Thundet
+Thundara
+Thundag
+Cure
+Cura
+Curaga
+Esuna
+Mine Shield
+Mine Square
+Zero Gravity
+Zero Gravira
+Zero Graviga
+Magnet
+Magnera
+Magnega
+Aero
+Aerora
+Aeroga
+Faith
+Deep Freeze
+Mega Flare
+Tornado
+Transcendence
+Mini
+Blackout
+Ignite
+Confuse
+Bind
+Poison
+Slow
+Stop
+Stopra
+Stopga
+Sleep
+
+Type: Items
+Potion
+Hi-Potion
+Mega-Potion
+Ether
+Mega-Ether
+Panacea
+Elizer
+Megalixir
+Balloon Letter
+Honeybunny
+Bueno Volcano
+Snow Bear
+Spark Lemon
+Goofy Parfait
+Sugary Skies
+Daisy Sorbet
+Double Crunch
+
+Type: Friendship
+Group Cure
+Group Cura
+Group Curaga
+Confetti
+Fireworks
+Victory Pose
+Vanish
+Unison Rush
+Voltage Stack
+Trinity Limit
+Illusion-F
+Illusion-L
+Illusion-V
+Illusion-R
+Illusion-B
+
+Type: Movement
+Jump
+High Jump
+Dodge Roll
+Thunder Roll
+Air Slide
+Ice Slide
+Reversal
+Glide
+Superglide
+Fire Glide
+Homing Slide
+
+Type: Defense
+Block
+Renewal Block
+Focus Block
+Stun Block
+Poison Block
+
+Type: Reprisals
+Counter Rush
+Reversal Slash
+Payback Raid
+Aerial Recovery
+
+Type: Shotlocks
+Meteor Shower
+Flame Salvo
+Chaos Snake
+Ragnarok
+Thunderstorm
+Bio Barrage
+Pulse Bomb
+Photon Charge
+Absolute Zero
+Lightning Ray
+Multivortex
+
+Type: DimensionLinks
+Finish(Aqua)
+Finish(Terra)
+Lightcharge
+Donald Flare
+Goofy Spin
+Sweet Memory
+Dream Sparkle
+Hero's Entrance
+Random Beam
+Swordbill
+Fruit Shot
+Magic Volley
+Landbreaker
+Faithcharge
+Cosmic Donald
+Goofy Turbo 
+Sweet Seven
+Miracle Dance
+Hero's Pride
+Ohana Beat
+Barrel Roll
+Rumble Rave
+
+Type: Finish
+Finish
+Air Flair 1
+Heat Slash 1
+Gold Rush
+Air Flair 2
+Ramuh's Judgment
+Twisted Hours
+Surprise! 1
+Air Flair 3
+Heal Strike
+Surprise! 2
+Air Flair 4
+Explosion
+Celebration
+Stratosphere
+Fever Pitch
+Firestorm
+Diamond Dust
+Thunderbolt
+Cyclone
+Sky Climber
+Rhythm Mixer
+Wingblade
+Frozen Fortune
+
+Type: Abilities
+Treasure Magnet
+HP Prize Plus
+Link Prize Plus
+Lucky Strike
+HP Boost
+Zero EXP
+Fire Boost
+Blizzard Boost
+Thunder Boost
+Cure Boost
+Item Boost
+Attack Haste
+Magic Haste
+Combo F Boost
+Finish Boost
+Fire Screen
+Blizzard Screen
+Thunder Screen
+Dark Screen
+Reload Boost
+Defender
+Combo Plus
+Air Combo Plus
+EXP Chance
+EXP Walker
+Damage Syphon
+Second Chance
+Once More
+Scan
+Leaf Bracer
+
+Character: Aqua
+Type: Attack
+Quick Blitz
+Blitz
+Magic Hour
+Sliding Dash
+Fire Dash
+Sonic Blade
+Strike Raid
+Freeze Raid
+Fire Surge
+Barrier Surge
+Thunder Surge
+Aerial Slam
+Time Splicer
+Poison Edge
+Wishing Edge
+Blizzard Edge
+Stun Edge
+Slot Edge
+Fire Strike
+Confusion Strike
+Binding Strike
+Magnet Spiral
+Collision Magnet
+Break Time
+
+Type: Magic
+Fire
+Fira
+Firaga
+Fission Firaga
+Triple Firaga
+Crawling Fire
+Blizzard
+Blizzara
+Blizzaga
+Triple Blizzaga
+Thunder
+Thundara
+Thundaga
+Thundaga Shot
+Cure
+Cura
+Curaga
+Esuna
+Mine Shield
+Mine Square
+Seeker Mine
+Zero Gravity
+Zero Gravira
+Zero Graviga
+Magnet
+Magnera
+Magnega
+Munny Magnet
+Energy Magnet
+D-Link Magnet
+Aero
+Aerora
+Aeroga
+Deep Freeze
+Glacier
+Ice Barrage
+Firaga Burst
+Raging Storm
+Mega Flare
+Transcendence
+Mini
+Blackout
+Ignite
+Confuse
+Bind
+Poison
+Slow
+Stop
+Stopra
+Stopga
+Sleep
+
+Type: Items
+Potion
+Hi-Potion
+Mega-Potion
+Ether
+Mega-Ether
+Panacea
+Elizer
+Megalixer
+Balloon Letter
+Fabracadabra
+Bueno Volcano
+Snow Bear
+Spark Lemon
+Royalberry
+Milky Way
+Donald Fizz
+Daisy Sorbet
+
+Type: Friendship
+Group Cure
+Group Cura
+Group Curaga
+Confetti
+Fireworks
+Victory Pose
+Vanish
+Unison Rush
+Voltage Stack
+Trinity Limit
+Illusion-F
+Illusion-L
+Illusion-V
+Illusion-R
+Illusion-B
+
+Type: Movement
+Jump
+High Jump
+Cartwheel
+Firewheel
+Air Slide
+Ice Slide
+Homing Slide
+Teleport
+Doubleflight
+
+Type: Defense
+Barrier
+Renewal Barrier
+Focus Barrier
+Confuse Barrier
+Stop Barrier
+
+Type: Reprisals
+Counter Blast
+Payback Surge
+Aerial Recovery
+
+Type: Shotlocks
+Meteor Shower
+Flame Salvo
+Chaos Snake
+Bubble Blaster
+Ragnarok
+Thunderstorm
+Bio Barrage
+Prism Rain
+Photon Charge
+Absolute Zero
+Lightning Ray
+Lightbloom
+
+Type: DimensionLinks
+Finish(Ven)
+Finish(Terra)
+Lightcharge
+Donald Flare
+Goofy Spin
+Sweet Memory
+Dream Sparkle
+Hero's Entrance
+Random Beam
+Swordbill
+Fruit Shot
+Air Dive
+Landbreaker
+Faithcharge
+Cosmic Donald
+Goofy Turbo
+Sweet Seven
+Miracle Dance
+Hero's Pride
+Ohana Beat
+Barrel Roll
+Rumble Rave
+
+Type: Finish
+Finish
+Magic Pulse 1
+Heat Slash 1
+Gold Rush
+Magic Pulse 2
+Heat Slash 2
+Ramuh's Judgment
+Twisted Hours
+Surprise! 1
+Magic Pulse 3
+Heal Strike
+Surprise! 2
+Magic Pulse 4
+Explosion
+Ice Burst
+Teleport Spike
+Spellweaver
+Firestorm
+Diamond Dust
+Thunderbolt
+Bladecharge
+Sky Climber
+Ghost Drive
+Rhythm Mixer
+Frozen Fortune
+
+Type: Abilities
+Treasure Magnet
+HP Prize Plus
+Link Prize Plus
+Lucky Strike
+HP Boost
+Zero EXP
+Fire Boost
+Blizzard Boost
+Thunder Boost
+Cure Boost
+Item Boost
+Attack Haste
+Magic Haste
+Combo F Boost
+Finish Boost
+Fire Screen
+Blizzard Screen
+Thunder Screen
+Dark Screen
+Reload Boost
+Defender
+Combo Plus
+Air Combo Plus
+EXP Chance
+EXP Walker
+Damage Syphon
+Second Chance
+Once More
+Scan
+Leaf Bracer
+
+Character: Done

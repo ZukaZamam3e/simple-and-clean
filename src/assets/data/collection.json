@@ -1,0 +1,3755 @@
+[
+  {
+    "Name": "Terra",
+    "Collection": [
+      {
+        "Command": "Quick Blitz",
+        "Type": "Attack",
+        "SortOrder": 1,
+        "Icon": "a"
+      },
+      {
+        "Command": "Blitz",
+        "Type": "Attack",
+        "SortOrder": 2,
+        "Icon": "a"
+      },
+      {
+        "Command": "Meteor Crash",
+        "Type": "Attack",
+        "SortOrder": 3,
+        "Icon": "a"
+      },
+      {
+        "Command": "Sliding Dash",
+        "Type": "Attack",
+        "SortOrder": 4,
+        "Icon": "a"
+      },
+      {
+        "Command": "Fire Dash",
+        "Type": "Attack",
+        "SortOrder": 5,
+        "Icon": "a"
+      },
+      {
+        "Command": "Dark Haze",
+        "Type": "Attack",
+        "SortOrder": 6,
+        "Icon": "a"
+      },
+      {
+        "Command": "Sonic Blade",
+        "Type": "Attack",
+        "SortOrder": 7,
+        "Icon": "a"
+      },
+      {
+        "Command": "Chaos Blade",
+        "Type": "Attack",
+        "SortOrder": 8,
+        "Icon": "a"
+      },
+      {
+        "Command": "Zantetsuken",
+        "Type": "Attack",
+        "SortOrder": 9,
+        "Icon": "a"
+      },
+      {
+        "Command": "Strike Raid",
+        "Type": "Attack",
+        "SortOrder": 10,
+        "Icon": "a"
+      },
+      {
+        "Command": "Freeze Raid",
+        "Type": "Attack",
+        "SortOrder": 11,
+        "Icon": "a"
+      },
+      {
+        "Command": "Fire Surge",
+        "Type": "Attack",
+        "SortOrder": 12,
+        "Icon": "a"
+      },
+      {
+        "Command": "Thunder Surge",
+        "Type": "Attack",
+        "SortOrder": 13,
+        "Icon": "a"
+      },
+      {
+        "Command": "Aerial Slam",
+        "Type": "Attack",
+        "SortOrder": 14,
+        "Icon": "a"
+      },
+      {
+        "Command": "Ars Solum",
+        "Type": "Attack",
+        "SortOrder": 15,
+        "Icon": "a"
+      },
+      {
+        "Command": "Poison Edge",
+        "Type": "Attack",
+        "SortOrder": 16,
+        "Icon": "a"
+      },
+      {
+        "Command": "Blizzard Edge",
+        "Type": "Attack",
+        "SortOrder": 17,
+        "Icon": "a"
+      },
+      {
+        "Command": "Stun Edge",
+        "Type": "Attack",
+        "SortOrder": 18,
+        "Icon": "a"
+      },
+      {
+        "Command": "Slot Edge",
+        "Type": "Attack",
+        "SortOrder": 19,
+        "Icon": "a"
+      },
+      {
+        "Command": "Fire Strike",
+        "Type": "Attack",
+        "SortOrder": 20,
+        "Icon": "a"
+      },
+      {
+        "Command": "Confusion Strike",
+        "Type": "Attack",
+        "SortOrder": 21,
+        "Icon": "a"
+      },
+      {
+        "Command": "Binding Strike",
+        "Type": "Attack",
+        "SortOrder": 22,
+        "Icon": "a"
+      },
+      {
+        "Command": "Brutal Blast",
+        "Type": "Attack",
+        "SortOrder": 23,
+        "Icon": "a"
+      },
+      {
+        "Command": "Magnet Spiral",
+        "Type": "Attack",
+        "SortOrder": 24,
+        "Icon": "a"
+      },
+      {
+        "Command": "Windcutter",
+        "Type": "Attack",
+        "SortOrder": 25,
+        "Icon": "a"
+      },
+      {
+        "Command": "Limit Storm",
+        "Type": "Attack",
+        "SortOrder": 26,
+        "Icon": "a"
+      },
+      {
+        "Command": "Collision Magnet",
+        "Type": "Attack",
+        "SortOrder": 27,
+        "Icon": "a"
+      },
+      {
+        "Command": "Geo Impact",
+        "Type": "Attack",
+        "SortOrder": 28,
+        "Icon": "a"
+      },
+      {
+        "Command": "Sacrifice",
+        "Type": "Attack",
+        "SortOrder": 29,
+        "Icon": "a"
+      },
+      {
+        "Command": "Break Time",
+        "Type": "Attack",
+        "SortOrder": 30,
+        "Icon": "a"
+      },
+      {
+        "Command": "Fire",
+        "Type": "Magic",
+        "SortOrder": 1,
+        "Icon": "m"
+      },
+      {
+        "Command": "Fira",
+        "Type": "Magic",
+        "SortOrder": 2,
+        "Icon": "m"
+      },
+      {
+        "Command": "Firaga",
+        "Type": "Magic",
+        "SortOrder": 3,
+        "Icon": "m"
+      },
+      {
+        "Command": "Dark Firaga",
+        "Type": "Magic",
+        "SortOrder": 4,
+        "Icon": "m"
+      },
+      {
+        "Command": "Fission Firaga",
+        "Type": "Magic",
+        "SortOrder": 5,
+        "Icon": "m"
+      },
+      {
+        "Command": "Crawling Fire",
+        "Type": "Magic",
+        "SortOrder": 6,
+        "Icon": "m"
+      },
+      {
+        "Command": "Blizzard",
+        "Type": "Magic",
+        "SortOrder": 7,
+        "Icon": "m"
+      },
+      {
+        "Command": "Blizzara",
+        "Type": "Magic",
+        "SortOrder": 8,
+        "Icon": "m"
+      },
+      {
+        "Command": "Blizzaga",
+        "Type": "Magic",
+        "SortOrder": 9,
+        "Icon": "m"
+      },
+      {
+        "Command": "Thunder",
+        "Type": "Magic",
+        "SortOrder": 10,
+        "Icon": "m"
+      },
+      {
+        "Command": "Thundara",
+        "Type": "Magic",
+        "SortOrder": 11,
+        "Icon": "m"
+      },
+      {
+        "Command": "Thundaga",
+        "Type": "Magic",
+        "SortOrder": 12,
+        "Icon": "m"
+      },
+      {
+        "Command": "Cure",
+        "Type": "Magic",
+        "SortOrder": 13,
+        "Icon": "m"
+      },
+      {
+        "Command": "Cura",
+        "Type": "Magic",
+        "SortOrder": 14,
+        "Icon": "m"
+      },
+      {
+        "Command": "Curaga",
+        "Type": "Magic",
+        "SortOrder": 15,
+        "Icon": "m"
+      },
+      {
+        "Command": "Esuna",
+        "Type": "Magic",
+        "SortOrder": 16,
+        "Icon": "m"
+      },
+      {
+        "Command": "Mine Shield",
+        "Type": "Magic",
+        "SortOrder": 17,
+        "Icon": "m"
+      },
+      {
+        "Command": "Mine Square",
+        "Type": "Magic",
+        "SortOrder": 18,
+        "Icon": "m"
+      },
+      {
+        "Command": "Zero Gravity",
+        "Type": "Magic",
+        "SortOrder": 19,
+        "Icon": "m"
+      },
+      {
+        "Command": "Zero Gravira",
+        "Type": "Magic",
+        "SortOrder": 20,
+        "Icon": "m"
+      },
+      {
+        "Command": "Zero Graviga",
+        "Type": "Magic",
+        "SortOrder": 21,
+        "Icon": "m"
+      },
+      {
+        "Command": "Magnet",
+        "Type": "Magic",
+        "SortOrder": 22,
+        "Icon": "m"
+      },
+      {
+        "Command": "Magnera",
+        "Type": "Magic",
+        "SortOrder": 23,
+        "Icon": "m"
+      },
+      {
+        "Command": "Magnega",
+        "Type": "Magic",
+        "SortOrder": 24,
+        "Icon": "m"
+      },
+      {
+        "Command": "Aero",
+        "Type": "Magic",
+        "SortOrder": 25,
+        "Icon": "m"
+      },
+      {
+        "Command": "Aerora",
+        "Type": "Magic",
+        "SortOrder": 26,
+        "Icon": "m"
+      },
+      {
+        "Command": "Aeroga",
+        "Type": "Magic",
+        "SortOrder": 27,
+        "Icon": "m"
+      },
+      {
+        "Command": "Warp",
+        "Type": "Magic",
+        "SortOrder": 28,
+        "Icon": "m"
+      },
+      {
+        "Command": "Deep Freeze",
+        "Type": "Magic",
+        "SortOrder": 29,
+        "Icon": "m"
+      },
+      {
+        "Command": "Mega Flare",
+        "Type": "Magic",
+        "SortOrder": 30,
+        "Icon": "m"
+      },
+      {
+        "Command": "Quake",
+        "Type": "Magic",
+        "SortOrder": 31,
+        "Icon": "m"
+      },
+      {
+        "Command": "Meteor",
+        "Type": "Magic",
+        "SortOrder": 32,
+        "Icon": "m"
+      },
+      {
+        "Command": "Transcendence",
+        "Type": "Magic",
+        "SortOrder": 33,
+        "Icon": "m"
+      },
+      {
+        "Command": "Mini",
+        "Type": "Magic",
+        "SortOrder": 34,
+        "Icon": "m"
+      },
+      {
+        "Command": "Blackout",
+        "Type": "Magic",
+        "SortOrder": 35,
+        "Icon": "m"
+      },
+      {
+        "Command": "Ignite",
+        "Type": "Magic",
+        "SortOrder": 36,
+        "Icon": "m"
+      },
+      {
+        "Command": "Confuse",
+        "Type": "Magic",
+        "SortOrder": 37,
+        "Icon": "m"
+      },
+      {
+        "Command": "Bind",
+        "Type": "Magic",
+        "SortOrder": 38,
+        "Icon": "m"
+      },
+      {
+        "Command": "Poison",
+        "Type": "Magic",
+        "SortOrder": 39,
+        "Icon": "m"
+      },
+      {
+        "Command": "Slow",
+        "Type": "Magic",
+        "SortOrder": 40,
+        "Icon": "m"
+      },
+      {
+        "Command": "Stop",
+        "Type": "Magic",
+        "SortOrder": 41,
+        "Icon": "m"
+      },
+      {
+        "Command": "Stopra",
+        "Type": "Magic",
+        "SortOrder": 42,
+        "Icon": "m"
+      },
+      {
+        "Command": "Stopga",
+        "Type": "Magic",
+        "SortOrder": 43,
+        "Icon": "m"
+      },
+      {
+        "Command": "Sleep",
+        "Type": "Magic",
+        "SortOrder": 44,
+        "Icon": "m"
+      },
+      {
+        "Command": "Potion",
+        "Type": "Items",
+        "SortOrder": 1,
+        "Icon": "i"
+      },
+      {
+        "Command": "Hi-Potion",
+        "Type": "Items",
+        "SortOrder": 2,
+        "Icon": "i"
+      },
+      {
+        "Command": "Mega-Potion",
+        "Type": "Items",
+        "SortOrder": 3,
+        "Icon": "i"
+      },
+      {
+        "Command": "Ether",
+        "Type": "Items",
+        "SortOrder": 4,
+        "Icon": "i"
+      },
+      {
+        "Command": "Mega-Ether",
+        "Type": "Items",
+        "SortOrder": 5,
+        "Icon": "i"
+      },
+      {
+        "Command": "Panacea",
+        "Type": "Items",
+        "SortOrder": 6,
+        "Icon": "i"
+      },
+      {
+        "Command": "Elixer",
+        "Type": "Items",
+        "SortOrder": 7,
+        "Icon": "i"
+      },
+      {
+        "Command": "Megalixer",
+        "Type": "Items",
+        "SortOrder": 8,
+        "Icon": "i"
+      },
+      {
+        "Command": "Balloon Letter",
+        "Type": "Items",
+        "SortOrder": 9,
+        "Icon": "i"
+      },
+      {
+        "Command": "Vanilla Glitz",
+        "Type": "Items",
+        "SortOrder": 10,
+        "Icon": "i"
+      },
+      {
+        "Command": "Bueno Volcano",
+        "Type": "Items",
+        "SortOrder": 11,
+        "Icon": "i"
+      },
+      {
+        "Command": "Snow Bear",
+        "Type": "Items",
+        "SortOrder": 12,
+        "Icon": "i"
+      },
+      {
+        "Command": "Spark Lemon",
+        "Type": "Items",
+        "SortOrder": 13,
+        "Icon": "i"
+      },
+      {
+        "Command": "Royalberry",
+        "Type": "Items",
+        "SortOrder": 14,
+        "Icon": "i"
+      },
+      {
+        "Command": "Rockin' Crunch",
+        "Type": "Items",
+        "SortOrder": 15,
+        "Icon": "i"
+      },
+      {
+        "Command": "Daisy Sorbet",
+        "Type": "Items",
+        "SortOrder": 16,
+        "Icon": "i"
+      },
+      {
+        "Command": "Big Bad Pete",
+        "Type": "Items",
+        "SortOrder": 17,
+        "Icon": "i"
+      },
+      {
+        "Command": "Group Cure",
+        "Type": "Friendship",
+        "SortOrder": 1,
+        "Icon": "f"
+      },
+      {
+        "Command": "Group Cura",
+        "Type": "Friendship",
+        "SortOrder": 2,
+        "Icon": "f"
+      },
+      {
+        "Command": "Group Curaga",
+        "Type": "Friendship",
+        "SortOrder": 3,
+        "Icon": "f"
+      },
+      {
+        "Command": "Confetti",
+        "Type": "Friendship",
+        "SortOrder": 4,
+        "Icon": "f"
+      },
+      {
+        "Command": "Fireworks",
+        "Type": "Friendship",
+        "SortOrder": 5,
+        "Icon": "f"
+      },
+      {
+        "Command": "Victory Pose",
+        "Type": "Friendship",
+        "SortOrder": 6,
+        "Icon": "f"
+      },
+      {
+        "Command": "Vanish",
+        "Type": "Friendship",
+        "SortOrder": 7,
+        "Icon": "f"
+      },
+      {
+        "Command": "Unison Rush",
+        "Type": "Friendship",
+        "SortOrder": 8,
+        "Icon": "f"
+      },
+      {
+        "Command": "Voltage Stack",
+        "Type": "Friendship",
+        "SortOrder": 9,
+        "Icon": "f"
+      },
+      {
+        "Command": "Trinity Limit",
+        "Type": "Friendship",
+        "SortOrder": 10,
+        "Icon": "f"
+      },
+      {
+        "Command": "Illusion-F",
+        "Type": "Friendship",
+        "SortOrder": 11,
+        "Icon": "f"
+      },
+      {
+        "Command": "Illusion-L",
+        "Type": "Friendship",
+        "SortOrder": 12,
+        "Icon": "f"
+      },
+      {
+        "Command": "Illusion-V",
+        "Type": "Friendship",
+        "SortOrder": 13,
+        "Icon": "f"
+      },
+      {
+        "Command": "Illusion-R",
+        "Type": "Friendship",
+        "SortOrder": 14,
+        "Icon": "f"
+      },
+      {
+        "Command": "Illusion-B",
+        "Type": "Friendship",
+        "SortOrder": 15,
+        "Icon": "f"
+      },
+      {
+        "Command": "Jump",
+        "Type": "Movement",
+        "SortOrder": 1,
+        "Icon": "mv"
+      },
+      {
+        "Command": "High Jump",
+        "Type": "Movement",
+        "SortOrder": 2,
+        "Icon": "mv"
+      },
+      {
+        "Command": "Air Slide",
+        "Type": "Movement",
+        "SortOrder": 3,
+        "Icon": "mv"
+      },
+      {
+        "Command": "Ice Slide",
+        "Type": "Movement",
+        "SortOrder": 4,
+        "Icon": "mv"
+      },
+      {
+        "Command": "Sonic Impact",
+        "Type": "Movement",
+        "SortOrder": 5,
+        "Icon": "mv"
+      },
+      {
+        "Command": "Slide",
+        "Type": "Movement",
+        "SortOrder": 6,
+        "Icon": "mv"
+      },
+      {
+        "Command": "Block",
+        "Type": "Defense",
+        "SortOrder": 1,
+        "Icon": "d"
+      },
+      {
+        "Command": "Renewal Block",
+        "Type": "Defense",
+        "SortOrder": 2,
+        "Icon": "d"
+      },
+      {
+        "Command": "Focus Block",
+        "Type": "Defense",
+        "SortOrder": 3,
+        "Icon": "d"
+      },
+      {
+        "Command": "Stun Block",
+        "Type": "Defense",
+        "SortOrder": 4,
+        "Icon": "d"
+      },
+      {
+        "Command": "Poison Block",
+        "Type": "Defense",
+        "SortOrder": 5,
+        "Icon": "d"
+      },
+      {
+        "Command": "Counter Hammer",
+        "Type": "Reprisals",
+        "SortOrder": 1,
+        "Icon": "r"
+      },
+      {
+        "Command": "Payback Fang",
+        "Type": "Reprisals",
+        "SortOrder": 2,
+        "Icon": "r"
+      },
+      {
+        "Command": "Aerial Recovery",
+        "Type": "Reprisals",
+        "SortOrder": 3,
+        "Icon": "r"
+      },
+      {
+        "Command": "Meteor Shower",
+        "Type": "Shotlocks",
+        "SortOrder": 1,
+        "Icon": "s"
+      },
+      {
+        "Command": "Flame Salvo",
+        "Type": "Shotlocks",
+        "SortOrder": 2,
+        "Icon": "s"
+      },
+      {
+        "Command": "Chaos Snake",
+        "Type": "Shotlocks",
+        "SortOrder": 3,
+        "Icon": "s"
+      },
+      {
+        "Command": "Dark Volley",
+        "Type": "Shotlocks",
+        "SortOrder": 4,
+        "Icon": "s"
+      },
+      {
+        "Command": "Ragnarok",
+        "Type": "Shotlocks",
+        "SortOrder": 5,
+        "Icon": "s"
+      },
+      {
+        "Command": "Thunderstorm",
+        "Type": "Shotlocks",
+        "SortOrder": 6,
+        "Icon": "s"
+      },
+      {
+        "Command": "Bio Barrage",
+        "Type": "Shotlocks",
+        "SortOrder": 7,
+        "Icon": "s"
+      },
+      {
+        "Command": "Photon Charge",
+        "Type": "Shotlocks",
+        "SortOrder": 8,
+        "Icon": "s"
+      },
+      {
+        "Command": "Absolute Zero",
+        "Type": "Shotlocks",
+        "SortOrder": 9,
+        "Icon": "s"
+      },
+      {
+        "Command": "Lightning Ray",
+        "Type": "Shotlocks",
+        "SortOrder": 10,
+        "Icon": "s"
+      },
+      {
+        "Command": "Sonic Shadow",
+        "Type": "Shotlocks",
+        "SortOrder": 11,
+        "Icon": "s"
+      },
+      {
+        "Command": "Ultima Cannon",
+        "Type": "Shotlocks",
+        "SortOrder": 12,
+        "Icon": "s"
+      },
+      {
+        "Command": "Finish(Ven)",
+        "Type": "DimensionLinks",
+        "SortOrder": 1,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Finish(Aqua)",
+        "Type": "DimensionLinks",
+        "SortOrder": 2,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Dream Sparkle",
+        "Type": "DimensionLinks",
+        "SortOrder": 3,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Thunderchaser",
+        "Type": "DimensionLinks",
+        "SortOrder": 4,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Hero's Entrance",
+        "Type": "DimensionLinks",
+        "SortOrder": 5,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Random Beam",
+        "Type": "DimensionLinks",
+        "SortOrder": 6,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Swordbill",
+        "Type": "DimensionLinks",
+        "SortOrder": 7,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Fruit Shot",
+        "Type": "DimensionLinks",
+        "SortOrder": 8,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Air Dive",
+        "Type": "DimensionLinks",
+        "SortOrder": 9,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Magic Volley",
+        "Type": "DimensionLinks",
+        "SortOrder": 10,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Miracle Dance",
+        "Type": "DimensionLinks",
+        "SortOrder": 11,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Dragonfire",
+        "Type": "DimensionLinks",
+        "SortOrder": 12,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Hero's Pride",
+        "Type": "DimensionLinks",
+        "SortOrder": 13,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Ohana Beat",
+        "Type": "DimensionLinks",
+        "SortOrder": 14,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Barrel Roll",
+        "Type": "DimensionLinks",
+        "SortOrder": 15,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Rumble Rave",
+        "Type": "DimensionLinks",
+        "SortOrder": 16,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Finish",
+        "Type": "Finish",
+        "SortOrder": 1,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Rising Rock 1",
+        "Type": "Finish",
+        "SortOrder": 2,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Heat Slash 1",
+        "Type": "Finish",
+        "SortOrder": 3,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Gold Rush",
+        "Type": "Finish",
+        "SortOrder": 4,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Rising Rock 2",
+        "Type": "Finish",
+        "SortOrder": 5,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Ramuh's Judgment",
+        "Type": "Finish",
+        "SortOrder": 6,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Twisted Hours",
+        "Type": "Finish",
+        "SortOrder": 7,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Surprise! 1",
+        "Type": "Finish",
+        "SortOrder": 8,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Dark Star 1",
+        "Type": "Finish",
+        "SortOrder": 9,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Heal Strike",
+        "Type": "Finish",
+        "SortOrder": 10,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Random End",
+        "Type": "Finish",
+        "SortOrder": 11,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Surprise! 2",
+        "Type": "Finish",
+        "SortOrder": 12,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Dark Star 2",
+        "Type": "Finish",
+        "SortOrder": 13,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Explosion",
+        "Type": "Finish",
+        "SortOrder": 14,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Demolition",
+        "Type": "Finish",
+        "SortOrder": 15,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Critical Impact",
+        "Type": "Finish",
+        "SortOrder": 16,
+        "Icon": "f2"
+      },
+      {
+        "Command": "Firestorm",
+        "Type": "Finish",
+        "SortOrder": 17,
+        "Icon": "f2"
+      },
+      {
+        "Command": "Diamond Dust",
+        "Type": "Finish",
+        "SortOrder": 18,
+        "Icon": "f2"
+      },
+      {
+        "Command": "Thunderbolt",
+        "Type": "Finish",
+        "SortOrder": 19,
+        "Icon": "f2"
+      },
+      {
+        "Command": "Bladecharge",
+        "Type": "Finish",
+        "SortOrder": 20,
+        "Icon": "f3"
+      },
+      {
+        "Command": "Rockbreaker",
+        "Type": "Finish",
+        "SortOrder": 21,
+        "Icon": "f3"
+      },
+      {
+        "Command": "Rhythm Mixer",
+        "Type": "Finish",
+        "SortOrder": 22,
+        "Icon": "f3"
+      },
+      {
+        "Command": "Dark Impulse",
+        "Type": "Finish",
+        "SortOrder": 23,
+        "Icon": "f3"
+      },
+      {
+        "Command": "Frozen Fortune",
+        "Type": "Finish",
+        "SortOrder": 24,
+        "Icon": "f4"
+      },
+      {
+        "Command": "Treasure Magnet",
+        "Type": "Abilities",
+        "SortOrder": 1,
+        "Icon": "ab"
+      },
+      {
+        "Command": "HP Prize Plus",
+        "Type": "Abilities",
+        "SortOrder": 2,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Link Prize Plus",
+        "Type": "Abilities",
+        "SortOrder": 3,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Lucky Strike",
+        "Type": "Abilities",
+        "SortOrder": 4,
+        "Icon": "ab"
+      },
+      {
+        "Command": "HP Boost",
+        "Type": "Abilities",
+        "SortOrder": 5,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Zero EXP",
+        "Type": "Abilities",
+        "SortOrder": 6,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Fire Boost",
+        "Type": "Abilities",
+        "SortOrder": 7,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Blizzard Boost",
+        "Type": "Abilities",
+        "SortOrder": 8,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Thunder Boost",
+        "Type": "Abilities",
+        "SortOrder": 9,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Cure Boost",
+        "Type": "Abilities",
+        "SortOrder": 10,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Item Boost",
+        "Type": "Abilities",
+        "SortOrder": 11,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Attack Haste",
+        "Type": "Abilities",
+        "SortOrder": 12,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Magic Haste",
+        "Type": "Abilities",
+        "SortOrder": 13,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Combo F Boost",
+        "Type": "Abilities",
+        "SortOrder": 14,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Finish Boost",
+        "Type": "Abilities",
+        "SortOrder": 15,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Combo Plus",
+        "Type": "Abilities",
+        "SortOrder": 16,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Air Combo Plus",
+        "Type": "Abilities",
+        "SortOrder": 17,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Fire Screen",
+        "Type": "Abilities",
+        "SortOrder": 18,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Blizzard Screen",
+        "Type": "Abilities",
+        "SortOrder": 19,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Thunder Screen",
+        "Type": "Abilities",
+        "SortOrder": 20,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Dark Screen",
+        "Type": "Abilities",
+        "SortOrder": 21,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Reload Boost",
+        "Type": "Abilities",
+        "SortOrder": 22,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Defender",
+        "Type": "Abilities",
+        "SortOrder": 23,
+        "Icon": "ab"
+      },
+      {
+        "Command": "EXP Chance",
+        "Type": "Abilities",
+        "SortOrder": 24,
+        "Icon": "ab"
+      },
+      {
+        "Command": "EXP Walker",
+        "Type": "Abilities",
+        "SortOrder": 25,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Damage Syphon",
+        "Type": "Abilities",
+        "SortOrder": 26,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Second Chance",
+        "Type": "Abilities",
+        "SortOrder": 27,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Once More",
+        "Type": "Abilities",
+        "SortOrder": 28,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Scan",
+        "Type": "Abilities",
+        "SortOrder": 29,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Leaf Bracer",
+        "Type": "Abilities",
+        "SortOrder": 30,
+        "Icon": "ab"
+      }
+    ]
+  },
+  {
+    "Name": "Ventus",
+    "Collection": [
+      {
+        "Command": "Quick Blitz",
+        "Type": "Attack",
+        "SortOrder": 1,
+        "Icon": "a"
+      },
+      {
+        "Command": "Blitz",
+        "Type": "Attack",
+        "SortOrder": 2,
+        "Icon": "a"
+      },
+      {
+        "Command": "Sliding Dash",
+        "Type": "Attack",
+        "SortOrder": 3,
+        "Icon": "a"
+      },
+      {
+        "Command": "Fire Dash",
+        "Type": "Attack",
+        "SortOrder": 4,
+        "Icon": "a"
+      },
+      {
+        "Command": "Sonic Blade",
+        "Type": "Attack",
+        "SortOrder": 5,
+        "Icon": "a"
+      },
+      {
+        "Command": "Strike Raid",
+        "Type": "Attack",
+        "SortOrder": 6,
+        "Icon": "a"
+      },
+      {
+        "Command": "Freeze Raid",
+        "Type": "Attack",
+        "SortOrder": 7,
+        "Icon": "a"
+      },
+      {
+        "Command": "Treasure Raid",
+        "Type": "Attack",
+        "SortOrder": 8,
+        "Icon": "a"
+      },
+      {
+        "Command": "Spark Raid",
+        "Type": "Attack",
+        "SortOrder": 9,
+        "Icon": "a"
+      },
+      {
+        "Command": "Wind Raid",
+        "Type": "Attack",
+        "SortOrder": 10,
+        "Icon": "a"
+      },
+      {
+        "Command": "Fire Surge",
+        "Type": "Attack",
+        "SortOrder": 11,
+        "Icon": "a"
+      },
+      {
+        "Command": "Thunder Surge",
+        "Type": "Attack",
+        "SortOrder": 12,
+        "Icon": "a"
+      },
+      {
+        "Command": "Aerial Slam",
+        "Type": "Attack",
+        "SortOrder": 13,
+        "Icon": "a"
+      },
+      {
+        "Command": "Ars Arcanum",
+        "Type": "Attack",
+        "SortOrder": 14,
+        "Icon": "a"
+      },
+      {
+        "Command": "Time Splicer",
+        "Type": "Attack",
+        "SortOrder": 15,
+        "Icon": "a"
+      },
+      {
+        "Command": "Poison Edge",
+        "Type": "Attack",
+        "SortOrder": 16,
+        "Icon": "a"
+      },
+      {
+        "Command": "Blizzard Edge",
+        "Type": "Attack",
+        "SortOrder": 17,
+        "Icon": "a"
+      },
+      {
+        "Command": "Stun Edge",
+        "Type": "Attack",
+        "SortOrder": 18,
+        "Icon": "a"
+      },
+      {
+        "Command": "Slot Edge",
+        "Type": "Attack",
+        "SortOrder": 19,
+        "Icon": "a"
+      },
+      {
+        "Command": "Fire Strike",
+        "Type": "Attack",
+        "SortOrder": 20,
+        "Icon": "a"
+      },
+      {
+        "Command": "Confusion Strike",
+        "Type": "Attack",
+        "SortOrder": 21,
+        "Icon": "a"
+      },
+      {
+        "Command": "Binding Strike",
+        "Type": "Attack",
+        "SortOrder": 22,
+        "Icon": "a"
+      },
+      {
+        "Command": "Tornado Strike",
+        "Type": "Attack",
+        "SortOrder": 23,
+        "Icon": "a"
+      },
+      {
+        "Command": "Magnet Spiral",
+        "Type": "Attack",
+        "SortOrder": 24,
+        "Icon": "a"
+      },
+      {
+        "Command": "Salvation",
+        "Type": "Attack",
+        "SortOrder": 25,
+        "Icon": "a"
+      },
+      {
+        "Command": "Collision Magnet",
+        "Type": "Attack",
+        "SortOrder": 26,
+        "Icon": "a"
+      },
+      {
+        "Command": "Break Time",
+        "Type": "Attack",
+        "SortOrder": 27,
+        "Icon": "a"
+      },
+      {
+        "Command": "Fire",
+        "Type": "Magic",
+        "SortOrder": 1,
+        "Icon": "m"
+      },
+      {
+        "Command": "Fira",
+        "Type": "Magic",
+        "SortOrder": 2,
+        "Icon": "m"
+      },
+      {
+        "Command": "Firaga",
+        "Type": "Magic",
+        "SortOrder": 3,
+        "Icon": "m"
+      },
+      {
+        "Command": "Fission Firaga",
+        "Type": "Magic",
+        "SortOrder": 4,
+        "Icon": "m"
+      },
+      {
+        "Command": "Crawling Fire",
+        "Type": "Magic",
+        "SortOrder": 5,
+        "Icon": "m"
+      },
+      {
+        "Command": "Blizzard",
+        "Type": "Magic",
+        "SortOrder": 6,
+        "Icon": "m"
+      },
+      {
+        "Command": "Blizzara",
+        "Type": "Magic",
+        "SortOrder": 7,
+        "Icon": "m"
+      },
+      {
+        "Command": "Blizzaga",
+        "Type": "Magic",
+        "SortOrder": 8,
+        "Icon": "m"
+      },
+      {
+        "Command": "Thunder",
+        "Type": "Magic",
+        "SortOrder": 9,
+        "Icon": "m"
+      },
+      {
+        "Command": "Thundara",
+        "Type": "Magic",
+        "SortOrder": 10,
+        "Icon": "m"
+      },
+      {
+        "Command": "Thundaga",
+        "Type": "Magic",
+        "SortOrder": 11,
+        "Icon": "m"
+      },
+      {
+        "Command": "Cure",
+        "Type": "Magic",
+        "SortOrder": 12,
+        "Icon": "m"
+      },
+      {
+        "Command": "Cura",
+        "Type": "Magic",
+        "SortOrder": 13,
+        "Icon": "m"
+      },
+      {
+        "Command": "Curaga",
+        "Type": "Magic",
+        "SortOrder": 14,
+        "Icon": "m"
+      },
+      {
+        "Command": "Esuna",
+        "Type": "Magic",
+        "SortOrder": 15,
+        "Icon": "m"
+      },
+      {
+        "Command": "Mine Shield",
+        "Type": "Magic",
+        "SortOrder": 16,
+        "Icon": "m"
+      },
+      {
+        "Command": "Mine Square",
+        "Type": "Magic",
+        "SortOrder": 17,
+        "Icon": "m"
+      },
+      {
+        "Command": "Zero Gravity",
+        "Type": "Magic",
+        "SortOrder": 18,
+        "Icon": "m"
+      },
+      {
+        "Command": "Zero Gravira",
+        "Type": "Magic",
+        "SortOrder": 19,
+        "Icon": "m"
+      },
+      {
+        "Command": "Zero Graviga",
+        "Type": "Magic",
+        "SortOrder": 20,
+        "Icon": "m"
+      },
+      {
+        "Command": "Magnet",
+        "Type": "Magic",
+        "SortOrder": 21,
+        "Icon": "m"
+      },
+      {
+        "Command": "Magnera",
+        "Type": "Magic",
+        "SortOrder": 22,
+        "Icon": "m"
+      },
+      {
+        "Command": "Magnega",
+        "Type": "Magic",
+        "SortOrder": 23,
+        "Icon": "m"
+      },
+      {
+        "Command": "Aero",
+        "Type": "Magic",
+        "SortOrder": 24,
+        "Icon": "m"
+      },
+      {
+        "Command": "Aerora",
+        "Type": "Magic",
+        "SortOrder": 25,
+        "Icon": "m"
+      },
+      {
+        "Command": "Aeroga",
+        "Type": "Magic",
+        "SortOrder": 26,
+        "Icon": "m"
+      },
+      {
+        "Command": "Faith",
+        "Type": "Magic",
+        "SortOrder": 27,
+        "Icon": "m"
+      },
+      {
+        "Command": "Deep Freeze",
+        "Type": "Magic",
+        "SortOrder": 28,
+        "Icon": "m"
+      },
+      {
+        "Command": "Mega Flare",
+        "Type": "Magic",
+        "SortOrder": 29,
+        "Icon": "m"
+      },
+      {
+        "Command": "Tornado",
+        "Type": "Magic",
+        "SortOrder": 30,
+        "Icon": "m"
+      },
+      {
+        "Command": "Transcendence",
+        "Type": "Magic",
+        "SortOrder": 31,
+        "Icon": "m"
+      },
+      {
+        "Command": "Mini",
+        "Type": "Magic",
+        "SortOrder": 32,
+        "Icon": "m"
+      },
+      {
+        "Command": "Blackout",
+        "Type": "Magic",
+        "SortOrder": 33,
+        "Icon": "m"
+      },
+      {
+        "Command": "Ignite",
+        "Type": "Magic",
+        "SortOrder": 34,
+        "Icon": "m"
+      },
+      {
+        "Command": "Confuse",
+        "Type": "Magic",
+        "SortOrder": 35,
+        "Icon": "m"
+      },
+      {
+        "Command": "Bind",
+        "Type": "Magic",
+        "SortOrder": 36,
+        "Icon": "m"
+      },
+      {
+        "Command": "Poison",
+        "Type": "Magic",
+        "SortOrder": 37,
+        "Icon": "m"
+      },
+      {
+        "Command": "Slow",
+        "Type": "Magic",
+        "SortOrder": 38,
+        "Icon": "m"
+      },
+      {
+        "Command": "Stop",
+        "Type": "Magic",
+        "SortOrder": 39,
+        "Icon": "m"
+      },
+      {
+        "Command": "Stopra",
+        "Type": "Magic",
+        "SortOrder": 40,
+        "Icon": "m"
+      },
+      {
+        "Command": "Stopga",
+        "Type": "Magic",
+        "SortOrder": 41,
+        "Icon": "m"
+      },
+      {
+        "Command": "Sleep",
+        "Type": "Magic",
+        "SortOrder": 42,
+        "Icon": "m"
+      },
+      {
+        "Command": "Potion",
+        "Type": "Items",
+        "SortOrder": 1,
+        "Icon": "i"
+      },
+      {
+        "Command": "Hi-Potion",
+        "Type": "Items",
+        "SortOrder": 2,
+        "Icon": "i"
+      },
+      {
+        "Command": "Mega-Potion",
+        "Type": "Items",
+        "SortOrder": 3,
+        "Icon": "i"
+      },
+      {
+        "Command": "Ether",
+        "Type": "Items",
+        "SortOrder": 4,
+        "Icon": "i"
+      },
+      {
+        "Command": "Mega-Ether",
+        "Type": "Items",
+        "SortOrder": 5,
+        "Icon": "i"
+      },
+      {
+        "Command": "Panacea",
+        "Type": "Items",
+        "SortOrder": 6,
+        "Icon": "i"
+      },
+      {
+        "Command": "Elizer",
+        "Type": "Items",
+        "SortOrder": 7,
+        "Icon": "i"
+      },
+      {
+        "Command": "Megalixir",
+        "Type": "Items",
+        "SortOrder": 8,
+        "Icon": "i"
+      },
+      {
+        "Command": "Balloon Letter",
+        "Type": "Items",
+        "SortOrder": 9,
+        "Icon": "i"
+      },
+      {
+        "Command": "Honeybunny",
+        "Type": "Items",
+        "SortOrder": 10,
+        "Icon": "i"
+      },
+      {
+        "Command": "Bueno Volcano",
+        "Type": "Items",
+        "SortOrder": 11,
+        "Icon": "i"
+      },
+      {
+        "Command": "Snow Bear",
+        "Type": "Items",
+        "SortOrder": 12,
+        "Icon": "i"
+      },
+      {
+        "Command": "Spark Lemon",
+        "Type": "Items",
+        "SortOrder": 13,
+        "Icon": "i"
+      },
+      {
+        "Command": "Goofy Parfait",
+        "Type": "Items",
+        "SortOrder": 14,
+        "Icon": "i"
+      },
+      {
+        "Command": "Sugary Skies",
+        "Type": "Items",
+        "SortOrder": 15,
+        "Icon": "i"
+      },
+      {
+        "Command": "Daisy Sorbet",
+        "Type": "Items",
+        "SortOrder": 16,
+        "Icon": "i"
+      },
+      {
+        "Command": "Double Crunch",
+        "Type": "Items",
+        "SortOrder": 17,
+        "Icon": "i"
+      },
+      {
+        "Command": "Group Cure",
+        "Type": "Friendship",
+        "SortOrder": 1,
+        "Icon": "f"
+      },
+      {
+        "Command": "Group Cura",
+        "Type": "Friendship",
+        "SortOrder": 2,
+        "Icon": "f"
+      },
+      {
+        "Command": "Group Curaga",
+        "Type": "Friendship",
+        "SortOrder": 3,
+        "Icon": "f"
+      },
+      {
+        "Command": "Confetti",
+        "Type": "Friendship",
+        "SortOrder": 4,
+        "Icon": "f"
+      },
+      {
+        "Command": "Fireworks",
+        "Type": "Friendship",
+        "SortOrder": 5,
+        "Icon": "f"
+      },
+      {
+        "Command": "Victory Pose",
+        "Type": "Friendship",
+        "SortOrder": 6,
+        "Icon": "f"
+      },
+      {
+        "Command": "Vanish",
+        "Type": "Friendship",
+        "SortOrder": 7,
+        "Icon": "f"
+      },
+      {
+        "Command": "Unison Rush",
+        "Type": "Friendship",
+        "SortOrder": 8,
+        "Icon": "f"
+      },
+      {
+        "Command": "Voltage Stack",
+        "Type": "Friendship",
+        "SortOrder": 9,
+        "Icon": "f"
+      },
+      {
+        "Command": "Trinity Limit",
+        "Type": "Friendship",
+        "SortOrder": 10,
+        "Icon": "f"
+      },
+      {
+        "Command": "Illusion-F",
+        "Type": "Friendship",
+        "SortOrder": 11,
+        "Icon": "f"
+      },
+      {
+        "Command": "Illusion-L",
+        "Type": "Friendship",
+        "SortOrder": 12,
+        "Icon": "f"
+      },
+      {
+        "Command": "Illusion-V",
+        "Type": "Friendship",
+        "SortOrder": 13,
+        "Icon": "f"
+      },
+      {
+        "Command": "Illusion-R",
+        "Type": "Friendship",
+        "SortOrder": 14,
+        "Icon": "f"
+      },
+      {
+        "Command": "Illusion-B",
+        "Type": "Friendship",
+        "SortOrder": 15,
+        "Icon": "f"
+      },
+      {
+        "Command": "Jump",
+        "Type": "Movement",
+        "SortOrder": 1,
+        "Icon": "mv"
+      },
+      {
+        "Command": "High Jump",
+        "Type": "Movement",
+        "SortOrder": 2,
+        "Icon": "mv"
+      },
+      {
+        "Command": "Dodge Roll",
+        "Type": "Movement",
+        "SortOrder": 3,
+        "Icon": "mv"
+      },
+      {
+        "Command": "Thunder Roll",
+        "Type": "Movement",
+        "SortOrder": 4,
+        "Icon": "mv"
+      },
+      {
+        "Command": "Air Slide",
+        "Type": "Movement",
+        "SortOrder": 5,
+        "Icon": "mv"
+      },
+      {
+        "Command": "Ice Slide",
+        "Type": "Movement",
+        "SortOrder": 6,
+        "Icon": "mv"
+      },
+      {
+        "Command": "Reversal",
+        "Type": "Movement",
+        "SortOrder": 7,
+        "Icon": "mv"
+      },
+      {
+        "Command": "Glide",
+        "Type": "Movement",
+        "SortOrder": 8,
+        "Icon": "mv"
+      },
+      {
+        "Command": "Superglide",
+        "Type": "Movement",
+        "SortOrder": 9,
+        "Icon": "mv"
+      },
+      {
+        "Command": "Fire Glide",
+        "Type": "Movement",
+        "SortOrder": 10,
+        "Icon": "mv"
+      },
+      {
+        "Command": "Homing Slide",
+        "Type": "Movement",
+        "SortOrder": 11,
+        "Icon": "mv"
+      },
+      {
+        "Command": "Block",
+        "Type": "Defense",
+        "SortOrder": 1,
+        "Icon": "d"
+      },
+      {
+        "Command": "Renewal Block",
+        "Type": "Defense",
+        "SortOrder": 2,
+        "Icon": "d"
+      },
+      {
+        "Command": "Focus Block",
+        "Type": "Defense",
+        "SortOrder": 3,
+        "Icon": "d"
+      },
+      {
+        "Command": "Stun Block",
+        "Type": "Defense",
+        "SortOrder": 4,
+        "Icon": "d"
+      },
+      {
+        "Command": "Poison Block",
+        "Type": "Defense",
+        "SortOrder": 5,
+        "Icon": "d"
+      },
+      {
+        "Command": "Counter Rush",
+        "Type": "Reprisals",
+        "SortOrder": 1,
+        "Icon": "r"
+      },
+      {
+        "Command": "Reversal Slash",
+        "Type": "Reprisals",
+        "SortOrder": 2,
+        "Icon": "r"
+      },
+      {
+        "Command": "Payback Raid",
+        "Type": "Reprisals",
+        "SortOrder": 3,
+        "Icon": "r"
+      },
+      {
+        "Command": "Aerial Recovery",
+        "Type": "Reprisals",
+        "SortOrder": 4,
+        "Icon": "r"
+      },
+      {
+        "Command": "Meteor Shower",
+        "Type": "Shotlocks",
+        "SortOrder": 1,
+        "Icon": "s"
+      },
+      {
+        "Command": "Flame Salvo",
+        "Type": "Shotlocks",
+        "SortOrder": 2,
+        "Icon": "s"
+      },
+      {
+        "Command": "Chaos Snake",
+        "Type": "Shotlocks",
+        "SortOrder": 3,
+        "Icon": "s"
+      },
+      {
+        "Command": "Ragnarok",
+        "Type": "Shotlocks",
+        "SortOrder": 4,
+        "Icon": "s"
+      },
+      {
+        "Command": "Thunderstorm",
+        "Type": "Shotlocks",
+        "SortOrder": 5,
+        "Icon": "s"
+      },
+      {
+        "Command": "Bio Barrage",
+        "Type": "Shotlocks",
+        "SortOrder": 6,
+        "Icon": "s"
+      },
+      {
+        "Command": "Pulse Bomb",
+        "Type": "Shotlocks",
+        "SortOrder": 7,
+        "Icon": "s"
+      },
+      {
+        "Command": "Photon Charge",
+        "Type": "Shotlocks",
+        "SortOrder": 8,
+        "Icon": "s"
+      },
+      {
+        "Command": "Absolute Zero",
+        "Type": "Shotlocks",
+        "SortOrder": 9,
+        "Icon": "s"
+      },
+      {
+        "Command": "Lightning Ray",
+        "Type": "Shotlocks",
+        "SortOrder": 10,
+        "Icon": "s"
+      },
+      {
+        "Command": "Multivortex",
+        "Type": "Shotlocks",
+        "SortOrder": 11,
+        "Icon": "s"
+      },
+      {
+        "Command": "Finish(Aqua)",
+        "Type": "DimensionLinks",
+        "SortOrder": 1,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Finish(Terra)",
+        "Type": "DimensionLinks",
+        "SortOrder": 2,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Lightcharge",
+        "Type": "DimensionLinks",
+        "SortOrder": 3,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Donald Flare",
+        "Type": "DimensionLinks",
+        "SortOrder": 4,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Goofy Spin",
+        "Type": "DimensionLinks",
+        "SortOrder": 5,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Sweet Memory",
+        "Type": "DimensionLinks",
+        "SortOrder": 6,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Dream Sparkle",
+        "Type": "DimensionLinks",
+        "SortOrder": 7,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Hero's Entrance",
+        "Type": "DimensionLinks",
+        "SortOrder": 8,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Random Beam",
+        "Type": "DimensionLinks",
+        "SortOrder": 9,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Swordbill",
+        "Type": "DimensionLinks",
+        "SortOrder": 10,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Fruit Shot",
+        "Type": "DimensionLinks",
+        "SortOrder": 11,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Magic Volley",
+        "Type": "DimensionLinks",
+        "SortOrder": 12,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Landbreaker",
+        "Type": "DimensionLinks",
+        "SortOrder": 13,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Faithcharge",
+        "Type": "DimensionLinks",
+        "SortOrder": 14,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Cosmic Donald",
+        "Type": "DimensionLinks",
+        "SortOrder": 15,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Goofy Turbo ",
+        "Type": "DimensionLinks",
+        "SortOrder": 16,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Sweet Seven",
+        "Type": "DimensionLinks",
+        "SortOrder": 17,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Miracle Dance",
+        "Type": "DimensionLinks",
+        "SortOrder": 18,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Hero's Pride",
+        "Type": "DimensionLinks",
+        "SortOrder": 19,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Ohana Beat",
+        "Type": "DimensionLinks",
+        "SortOrder": 20,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Barrel Roll",
+        "Type": "DimensionLinks",
+        "SortOrder": 21,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Rumble Rave",
+        "Type": "DimensionLinks",
+        "SortOrder": 22,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Finish",
+        "Type": "Finish",
+        "SortOrder": 1,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Air Flair 1",
+        "Type": "Finish",
+        "SortOrder": 2,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Heat Slash 1",
+        "Type": "Finish",
+        "SortOrder": 3,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Gold Rush",
+        "Type": "Finish",
+        "SortOrder": 4,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Air Flair 2",
+        "Type": "Finish",
+        "SortOrder": 5,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Ramuh's Judgment",
+        "Type": "Finish",
+        "SortOrder": 6,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Twisted Hours",
+        "Type": "Finish",
+        "SortOrder": 7,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Surprise! 1",
+        "Type": "Finish",
+        "SortOrder": 8,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Air Flair 3",
+        "Type": "Finish",
+        "SortOrder": 9,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Heal Strike",
+        "Type": "Finish",
+        "SortOrder": 10,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Surprise! 2",
+        "Type": "Finish",
+        "SortOrder": 11,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Air Flair 4",
+        "Type": "Finish",
+        "SortOrder": 12,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Explosion",
+        "Type": "Finish",
+        "SortOrder": 13,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Celebration",
+        "Type": "Finish",
+        "SortOrder": 14,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Stratosphere",
+        "Type": "Finish",
+        "SortOrder": 15,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Fever Pitch",
+        "Type": "Finish",
+        "SortOrder": 16,
+        "Icon": "f2"
+      },
+      {
+        "Command": "Firestorm",
+        "Type": "Finish",
+        "SortOrder": 17,
+        "Icon": "f2"
+      },
+      {
+        "Command": "Diamond Dust",
+        "Type": "Finish",
+        "SortOrder": 18,
+        "Icon": "f2"
+      },
+      {
+        "Command": "Thunderbolt",
+        "Type": "Finish",
+        "SortOrder": 19,
+        "Icon": "f2"
+      },
+      {
+        "Command": "Cyclone",
+        "Type": "Finish",
+        "SortOrder": 20,
+        "Icon": "f3"
+      },
+      {
+        "Command": "Sky Climber",
+        "Type": "Finish",
+        "SortOrder": 21,
+        "Icon": "f3"
+      },
+      {
+        "Command": "Rhythm Mixer",
+        "Type": "Finish",
+        "SortOrder": 22,
+        "Icon": "f3"
+      },
+      {
+        "Command": "Wingblade",
+        "Type": "Finish",
+        "SortOrder": 23,
+        "Icon": "f3"
+      },
+      {
+        "Command": "Frozen Fortune",
+        "Type": "Finish",
+        "SortOrder": 24,
+        "Icon": "f4"
+      },
+      {
+        "Command": "Treasure Magnet",
+        "Type": "Abilities",
+        "SortOrder": 1,
+        "Icon": "ab"
+      },
+      {
+        "Command": "HP Prize Plus",
+        "Type": "Abilities",
+        "SortOrder": 2,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Link Prize Plus",
+        "Type": "Abilities",
+        "SortOrder": 3,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Lucky Strike",
+        "Type": "Abilities",
+        "SortOrder": 4,
+        "Icon": "ab"
+      },
+      {
+        "Command": "HP Boost",
+        "Type": "Abilities",
+        "SortOrder": 5,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Zero EXP",
+        "Type": "Abilities",
+        "SortOrder": 6,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Fire Boost",
+        "Type": "Abilities",
+        "SortOrder": 7,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Blizzard Boost",
+        "Type": "Abilities",
+        "SortOrder": 8,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Thunder Boost",
+        "Type": "Abilities",
+        "SortOrder": 9,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Cure Boost",
+        "Type": "Abilities",
+        "SortOrder": 10,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Item Boost",
+        "Type": "Abilities",
+        "SortOrder": 11,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Attack Haste",
+        "Type": "Abilities",
+        "SortOrder": 12,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Magic Haste",
+        "Type": "Abilities",
+        "SortOrder": 13,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Combo F Boost",
+        "Type": "Abilities",
+        "SortOrder": 14,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Finish Boost",
+        "Type": "Abilities",
+        "SortOrder": 15,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Fire Screen",
+        "Type": "Abilities",
+        "SortOrder": 16,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Blizzard Screen",
+        "Type": "Abilities",
+        "SortOrder": 17,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Thunder Screen",
+        "Type": "Abilities",
+        "SortOrder": 18,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Dark Screen",
+        "Type": "Abilities",
+        "SortOrder": 19,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Reload Boost",
+        "Type": "Abilities",
+        "SortOrder": 20,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Defender",
+        "Type": "Abilities",
+        "SortOrder": 21,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Combo Plus",
+        "Type": "Abilities",
+        "SortOrder": 22,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Air Combo Plus",
+        "Type": "Abilities",
+        "SortOrder": 23,
+        "Icon": "ab"
+      },
+      {
+        "Command": "EXP Chance",
+        "Type": "Abilities",
+        "SortOrder": 24,
+        "Icon": "ab"
+      },
+      {
+        "Command": "EXP Walker",
+        "Type": "Abilities",
+        "SortOrder": 25,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Damage Syphon",
+        "Type": "Abilities",
+        "SortOrder": 26,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Second Chance",
+        "Type": "Abilities",
+        "SortOrder": 27,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Once More",
+        "Type": "Abilities",
+        "SortOrder": 28,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Scan",
+        "Type": "Abilities",
+        "SortOrder": 29,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Leaf Bracer",
+        "Type": "Abilities",
+        "SortOrder": 30,
+        "Icon": "ab"
+      }
+    ]
+  },
+  {
+    "Name": "Aqua",
+    "Collection": [
+      {
+        "Command": "Quick Blitz",
+        "Type": "Attack",
+        "SortOrder": 1,
+        "Icon": "a"
+      },
+      {
+        "Command": "Blitz",
+        "Type": "Attack",
+        "SortOrder": 2,
+        "Icon": "a"
+      },
+      {
+        "Command": "Magic Hour",
+        "Type": "Attack",
+        "SortOrder": 3,
+        "Icon": "a"
+      },
+      {
+        "Command": "Sliding Dash",
+        "Type": "Attack",
+        "SortOrder": 4,
+        "Icon": "a"
+      },
+      {
+        "Command": "Fire Dash",
+        "Type": "Attack",
+        "SortOrder": 5,
+        "Icon": "a"
+      },
+      {
+        "Command": "Sonic Blade",
+        "Type": "Attack",
+        "SortOrder": 6,
+        "Icon": "a"
+      },
+      {
+        "Command": "Strike Raid",
+        "Type": "Attack",
+        "SortOrder": 7,
+        "Icon": "a"
+      },
+      {
+        "Command": "Freeze Raid",
+        "Type": "Attack",
+        "SortOrder": 8,
+        "Icon": "a"
+      },
+      {
+        "Command": "Fire Surge",
+        "Type": "Attack",
+        "SortOrder": 9,
+        "Icon": "a"
+      },
+      {
+        "Command": "Barrier Surge",
+        "Type": "Attack",
+        "SortOrder": 10,
+        "Icon": "a"
+      },
+      {
+        "Command": "Thunder Surge",
+        "Type": "Attack",
+        "SortOrder": 11,
+        "Icon": "a"
+      },
+      {
+        "Command": "Aerial Slam",
+        "Type": "Attack",
+        "SortOrder": 12,
+        "Icon": "a"
+      },
+      {
+        "Command": "Time Splicer",
+        "Type": "Attack",
+        "SortOrder": 13,
+        "Icon": "a"
+      },
+      {
+        "Command": "Poison Edge",
+        "Type": "Attack",
+        "SortOrder": 14,
+        "Icon": "a"
+      },
+      {
+        "Command": "Wishing Edge",
+        "Type": "Attack",
+        "SortOrder": 15,
+        "Icon": "a"
+      },
+      {
+        "Command": "Blizzard Edge",
+        "Type": "Attack",
+        "SortOrder": 16,
+        "Icon": "a"
+      },
+      {
+        "Command": "Stun Edge",
+        "Type": "Attack",
+        "SortOrder": 17,
+        "Icon": "a"
+      },
+      {
+        "Command": "Slot Edge",
+        "Type": "Attack",
+        "SortOrder": 18,
+        "Icon": "a"
+      },
+      {
+        "Command": "Fire Strike",
+        "Type": "Attack",
+        "SortOrder": 19,
+        "Icon": "a"
+      },
+      {
+        "Command": "Confusion Strike",
+        "Type": "Attack",
+        "SortOrder": 20,
+        "Icon": "a"
+      },
+      {
+        "Command": "Binding Strike",
+        "Type": "Attack",
+        "SortOrder": 21,
+        "Icon": "a"
+      },
+      {
+        "Command": "Magnet Spiral",
+        "Type": "Attack",
+        "SortOrder": 22,
+        "Icon": "a"
+      },
+      {
+        "Command": "Collision Magnet",
+        "Type": "Attack",
+        "SortOrder": 23,
+        "Icon": "a"
+      },
+      {
+        "Command": "Break Time",
+        "Type": "Attack",
+        "SortOrder": 24,
+        "Icon": "a"
+      },
+      {
+        "Command": "Fire",
+        "Type": "Magic",
+        "SortOrder": 1,
+        "Icon": "m"
+      },
+      {
+        "Command": "Fira",
+        "Type": "Magic",
+        "SortOrder": 2,
+        "Icon": "m"
+      },
+      {
+        "Command": "Firaga",
+        "Type": "Magic",
+        "SortOrder": 3,
+        "Icon": "m"
+      },
+      {
+        "Command": "Fission Firaga",
+        "Type": "Magic",
+        "SortOrder": 4,
+        "Icon": "m"
+      },
+      {
+        "Command": "Triple Firaga",
+        "Type": "Magic",
+        "SortOrder": 5,
+        "Icon": "m"
+      },
+      {
+        "Command": "Crawling Fire",
+        "Type": "Magic",
+        "SortOrder": 6,
+        "Icon": "m"
+      },
+      {
+        "Command": "Blizzard",
+        "Type": "Magic",
+        "SortOrder": 7,
+        "Icon": "m"
+      },
+      {
+        "Command": "Blizzara",
+        "Type": "Magic",
+        "SortOrder": 8,
+        "Icon": "m"
+      },
+      {
+        "Command": "Blizzaga",
+        "Type": "Magic",
+        "SortOrder": 9,
+        "Icon": "m"
+      },
+      {
+        "Command": "Triple Blizzaga",
+        "Type": "Magic",
+        "SortOrder": 10,
+        "Icon": "m"
+      },
+      {
+        "Command": "Thunder",
+        "Type": "Magic",
+        "SortOrder": 11,
+        "Icon": "m"
+      },
+      {
+        "Command": "Thundara",
+        "Type": "Magic",
+        "SortOrder": 12,
+        "Icon": "m"
+      },
+      {
+        "Command": "Thundaga",
+        "Type": "Magic",
+        "SortOrder": 13,
+        "Icon": "m"
+      },
+      {
+        "Command": "Thundaga Shot",
+        "Type": "Magic",
+        "SortOrder": 14,
+        "Icon": "m"
+      },
+      {
+        "Command": "Cure",
+        "Type": "Magic",
+        "SortOrder": 15,
+        "Icon": "m"
+      },
+      {
+        "Command": "Cura",
+        "Type": "Magic",
+        "SortOrder": 16,
+        "Icon": "m"
+      },
+      {
+        "Command": "Curaga",
+        "Type": "Magic",
+        "SortOrder": 17,
+        "Icon": "m"
+      },
+      {
+        "Command": "Esuna",
+        "Type": "Magic",
+        "SortOrder": 18,
+        "Icon": "m"
+      },
+      {
+        "Command": "Mine Shield",
+        "Type": "Magic",
+        "SortOrder": 19,
+        "Icon": "m"
+      },
+      {
+        "Command": "Mine Square",
+        "Type": "Magic",
+        "SortOrder": 20,
+        "Icon": "m"
+      },
+      {
+        "Command": "Seeker Mine",
+        "Type": "Magic",
+        "SortOrder": 21,
+        "Icon": "m"
+      },
+      {
+        "Command": "Zero Gravity",
+        "Type": "Magic",
+        "SortOrder": 22,
+        "Icon": "m"
+      },
+      {
+        "Command": "Zero Gravira",
+        "Type": "Magic",
+        "SortOrder": 23,
+        "Icon": "m"
+      },
+      {
+        "Command": "Zero Graviga",
+        "Type": "Magic",
+        "SortOrder": 24,
+        "Icon": "m"
+      },
+      {
+        "Command": "Magnet",
+        "Type": "Magic",
+        "SortOrder": 25,
+        "Icon": "m"
+      },
+      {
+        "Command": "Magnera",
+        "Type": "Magic",
+        "SortOrder": 26,
+        "Icon": "m"
+      },
+      {
+        "Command": "Magnega",
+        "Type": "Magic",
+        "SortOrder": 27,
+        "Icon": "m"
+      },
+      {
+        "Command": "Munny Magnet",
+        "Type": "Magic",
+        "SortOrder": 28,
+        "Icon": "m"
+      },
+      {
+        "Command": "Energy Magnet",
+        "Type": "Magic",
+        "SortOrder": 29,
+        "Icon": "m"
+      },
+      {
+        "Command": "D-Link Magnet",
+        "Type": "Magic",
+        "SortOrder": 30,
+        "Icon": "m"
+      },
+      {
+        "Command": "Aero",
+        "Type": "Magic",
+        "SortOrder": 31,
+        "Icon": "m"
+      },
+      {
+        "Command": "Aerora",
+        "Type": "Magic",
+        "SortOrder": 32,
+        "Icon": "m"
+      },
+      {
+        "Command": "Aeroga",
+        "Type": "Magic",
+        "SortOrder": 33,
+        "Icon": "m"
+      },
+      {
+        "Command": "Deep Freeze",
+        "Type": "Magic",
+        "SortOrder": 34,
+        "Icon": "m"
+      },
+      {
+        "Command": "Glacier",
+        "Type": "Magic",
+        "SortOrder": 35,
+        "Icon": "m"
+      },
+      {
+        "Command": "Ice Barrage",
+        "Type": "Magic",
+        "SortOrder": 36,
+        "Icon": "m"
+      },
+      {
+        "Command": "Firaga Burst",
+        "Type": "Magic",
+        "SortOrder": 37,
+        "Icon": "m"
+      },
+      {
+        "Command": "Raging Storm",
+        "Type": "Magic",
+        "SortOrder": 38,
+        "Icon": "m"
+      },
+      {
+        "Command": "Mega Flare",
+        "Type": "Magic",
+        "SortOrder": 39,
+        "Icon": "m"
+      },
+      {
+        "Command": "Transcendence",
+        "Type": "Magic",
+        "SortOrder": 40,
+        "Icon": "m"
+      },
+      {
+        "Command": "Mini",
+        "Type": "Magic",
+        "SortOrder": 41,
+        "Icon": "m"
+      },
+      {
+        "Command": "Blackout",
+        "Type": "Magic",
+        "SortOrder": 42,
+        "Icon": "m"
+      },
+      {
+        "Command": "Ignite",
+        "Type": "Magic",
+        "SortOrder": 43,
+        "Icon": "m"
+      },
+      {
+        "Command": "Confuse",
+        "Type": "Magic",
+        "SortOrder": 44,
+        "Icon": "m"
+      },
+      {
+        "Command": "Bind",
+        "Type": "Magic",
+        "SortOrder": 45,
+        "Icon": "m"
+      },
+      {
+        "Command": "Poison",
+        "Type": "Magic",
+        "SortOrder": 46,
+        "Icon": "m"
+      },
+      {
+        "Command": "Slow",
+        "Type": "Magic",
+        "SortOrder": 47,
+        "Icon": "m"
+      },
+      {
+        "Command": "Stop",
+        "Type": "Magic",
+        "SortOrder": 48,
+        "Icon": "m"
+      },
+      {
+        "Command": "Stopra",
+        "Type": "Magic",
+        "SortOrder": 49,
+        "Icon": "m"
+      },
+      {
+        "Command": "Stopga",
+        "Type": "Magic",
+        "SortOrder": 50,
+        "Icon": "m"
+      },
+      {
+        "Command": "Sleep",
+        "Type": "Magic",
+        "SortOrder": 51,
+        "Icon": "m"
+      },
+      {
+        "Command": "Potion",
+        "Type": "Items",
+        "SortOrder": 1,
+        "Icon": "i"
+      },
+      {
+        "Command": "Hi-Potion",
+        "Type": "Items",
+        "SortOrder": 2,
+        "Icon": "i"
+      },
+      {
+        "Command": "Mega-Potion",
+        "Type": "Items",
+        "SortOrder": 3,
+        "Icon": "i"
+      },
+      {
+        "Command": "Ether",
+        "Type": "Items",
+        "SortOrder": 4,
+        "Icon": "i"
+      },
+      {
+        "Command": "Mega-Ether",
+        "Type": "Items",
+        "SortOrder": 5,
+        "Icon": "i"
+      },
+      {
+        "Command": "Panacea",
+        "Type": "Items",
+        "SortOrder": 6,
+        "Icon": "i"
+      },
+      {
+        "Command": "Elizer",
+        "Type": "Items",
+        "SortOrder": 7,
+        "Icon": "i"
+      },
+      {
+        "Command": "Megalixer",
+        "Type": "Items",
+        "SortOrder": 8,
+        "Icon": "i"
+      },
+      {
+        "Command": "Balloon Letter",
+        "Type": "Items",
+        "SortOrder": 9,
+        "Icon": "i"
+      },
+      {
+        "Command": "Fabracadabra",
+        "Type": "Items",
+        "SortOrder": 10,
+        "Icon": "i"
+      },
+      {
+        "Command": "Bueno Volcano",
+        "Type": "Items",
+        "SortOrder": 11,
+        "Icon": "i"
+      },
+      {
+        "Command": "Snow Bear",
+        "Type": "Items",
+        "SortOrder": 12,
+        "Icon": "i"
+      },
+      {
+        "Command": "Spark Lemon",
+        "Type": "Items",
+        "SortOrder": 13,
+        "Icon": "i"
+      },
+      {
+        "Command": "Royalberry",
+        "Type": "Items",
+        "SortOrder": 14,
+        "Icon": "i"
+      },
+      {
+        "Command": "Milky Way",
+        "Type": "Items",
+        "SortOrder": 15,
+        "Icon": "i"
+      },
+      {
+        "Command": "Donald Fizz",
+        "Type": "Items",
+        "SortOrder": 16,
+        "Icon": "i"
+      },
+      {
+        "Command": "Daisy Sorbet",
+        "Type": "Items",
+        "SortOrder": 17,
+        "Icon": "i"
+      },
+      {
+        "Command": "Group Cure",
+        "Type": "Friendship",
+        "SortOrder": 1,
+        "Icon": "f"
+      },
+      {
+        "Command": "Group Cura",
+        "Type": "Friendship",
+        "SortOrder": 2,
+        "Icon": "f"
+      },
+      {
+        "Command": "Group Curaga",
+        "Type": "Friendship",
+        "SortOrder": 3,
+        "Icon": "f"
+      },
+      {
+        "Command": "Confetti",
+        "Type": "Friendship",
+        "SortOrder": 4,
+        "Icon": "f"
+      },
+      {
+        "Command": "Fireworks",
+        "Type": "Friendship",
+        "SortOrder": 5,
+        "Icon": "f"
+      },
+      {
+        "Command": "Victory Pose",
+        "Type": "Friendship",
+        "SortOrder": 6,
+        "Icon": "f"
+      },
+      {
+        "Command": "Vanish",
+        "Type": "Friendship",
+        "SortOrder": 7,
+        "Icon": "f"
+      },
+      {
+        "Command": "Unison Rush",
+        "Type": "Friendship",
+        "SortOrder": 8,
+        "Icon": "f"
+      },
+      {
+        "Command": "Voltage Stack",
+        "Type": "Friendship",
+        "SortOrder": 9,
+        "Icon": "f"
+      },
+      {
+        "Command": "Trinity Limit",
+        "Type": "Friendship",
+        "SortOrder": 10,
+        "Icon": "f"
+      },
+      {
+        "Command": "Illusion-F",
+        "Type": "Friendship",
+        "SortOrder": 11,
+        "Icon": "f"
+      },
+      {
+        "Command": "Illusion-L",
+        "Type": "Friendship",
+        "SortOrder": 12,
+        "Icon": "f"
+      },
+      {
+        "Command": "Illusion-V",
+        "Type": "Friendship",
+        "SortOrder": 13,
+        "Icon": "f"
+      },
+      {
+        "Command": "Illusion-R",
+        "Type": "Friendship",
+        "SortOrder": 14,
+        "Icon": "f"
+      },
+      {
+        "Command": "Illusion-B",
+        "Type": "Friendship",
+        "SortOrder": 15,
+        "Icon": "f"
+      },
+      {
+        "Command": "Jump",
+        "Type": "Movement",
+        "SortOrder": 1,
+        "Icon": "mv"
+      },
+      {
+        "Command": "High Jump",
+        "Type": "Movement",
+        "SortOrder": 2,
+        "Icon": "mv"
+      },
+      {
+        "Command": "Cartwheel",
+        "Type": "Movement",
+        "SortOrder": 3,
+        "Icon": "mv"
+      },
+      {
+        "Command": "Firewheel",
+        "Type": "Movement",
+        "SortOrder": 4,
+        "Icon": "mv"
+      },
+      {
+        "Command": "Air Slide",
+        "Type": "Movement",
+        "SortOrder": 5,
+        "Icon": "mv"
+      },
+      {
+        "Command": "Ice Slide",
+        "Type": "Movement",
+        "SortOrder": 6,
+        "Icon": "mv"
+      },
+      {
+        "Command": "Homing Slide",
+        "Type": "Movement",
+        "SortOrder": 7,
+        "Icon": "mv"
+      },
+      {
+        "Command": "Teleport",
+        "Type": "Movement",
+        "SortOrder": 8,
+        "Icon": "mv"
+      },
+      {
+        "Command": "Doubleflight",
+        "Type": "Movement",
+        "SortOrder": 9,
+        "Icon": "mv"
+      },
+      {
+        "Command": "Barrier",
+        "Type": "Defense",
+        "SortOrder": 1,
+        "Icon": "d"
+      },
+      {
+        "Command": "Renewal Barrier",
+        "Type": "Defense",
+        "SortOrder": 2,
+        "Icon": "d"
+      },
+      {
+        "Command": "Focus Barrier",
+        "Type": "Defense",
+        "SortOrder": 3,
+        "Icon": "d"
+      },
+      {
+        "Command": "Confuse Barrier",
+        "Type": "Defense",
+        "SortOrder": 4,
+        "Icon": "d"
+      },
+      {
+        "Command": "Stop Barrier",
+        "Type": "Defense",
+        "SortOrder": 5,
+        "Icon": "d"
+      },
+      {
+        "Command": "Counter Blast",
+        "Type": "Reprisals",
+        "SortOrder": 1,
+        "Icon": "r"
+      },
+      {
+        "Command": "Payback Surge",
+        "Type": "Reprisals",
+        "SortOrder": 2,
+        "Icon": "r"
+      },
+      {
+        "Command": "Aerial Recovery",
+        "Type": "Reprisals",
+        "SortOrder": 3,
+        "Icon": "r"
+      },
+      {
+        "Command": "Meteor Shower",
+        "Type": "Shotlocks",
+        "SortOrder": 1,
+        "Icon": "s"
+      },
+      {
+        "Command": "Flame Salvo",
+        "Type": "Shotlocks",
+        "SortOrder": 2,
+        "Icon": "s"
+      },
+      {
+        "Command": "Chaos Snake",
+        "Type": "Shotlocks",
+        "SortOrder": 3,
+        "Icon": "s"
+      },
+      {
+        "Command": "Bubble Blaster",
+        "Type": "Shotlocks",
+        "SortOrder": 4,
+        "Icon": "s"
+      },
+      {
+        "Command": "Ragnarok",
+        "Type": "Shotlocks",
+        "SortOrder": 5,
+        "Icon": "s"
+      },
+      {
+        "Command": "Thunderstorm",
+        "Type": "Shotlocks",
+        "SortOrder": 6,
+        "Icon": "s"
+      },
+      {
+        "Command": "Bio Barrage",
+        "Type": "Shotlocks",
+        "SortOrder": 7,
+        "Icon": "s"
+      },
+      {
+        "Command": "Prism Rain",
+        "Type": "Shotlocks",
+        "SortOrder": 8,
+        "Icon": "s"
+      },
+      {
+        "Command": "Photon Charge",
+        "Type": "Shotlocks",
+        "SortOrder": 9,
+        "Icon": "s"
+      },
+      {
+        "Command": "Absolute Zero",
+        "Type": "Shotlocks",
+        "SortOrder": 10,
+        "Icon": "s"
+      },
+      {
+        "Command": "Lightning Ray",
+        "Type": "Shotlocks",
+        "SortOrder": 11,
+        "Icon": "s"
+      },
+      {
+        "Command": "Lightbloom",
+        "Type": "Shotlocks",
+        "SortOrder": 12,
+        "Icon": "s"
+      },
+      {
+        "Command": "Finish(Ven)",
+        "Type": "DimensionLinks",
+        "SortOrder": 1,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Finish(Terra)",
+        "Type": "DimensionLinks",
+        "SortOrder": 2,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Lightcharge",
+        "Type": "DimensionLinks",
+        "SortOrder": 3,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Donald Flare",
+        "Type": "DimensionLinks",
+        "SortOrder": 4,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Goofy Spin",
+        "Type": "DimensionLinks",
+        "SortOrder": 5,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Sweet Memory",
+        "Type": "DimensionLinks",
+        "SortOrder": 6,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Dream Sparkle",
+        "Type": "DimensionLinks",
+        "SortOrder": 7,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Hero's Entrance",
+        "Type": "DimensionLinks",
+        "SortOrder": 8,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Random Beam",
+        "Type": "DimensionLinks",
+        "SortOrder": 9,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Swordbill",
+        "Type": "DimensionLinks",
+        "SortOrder": 10,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Fruit Shot",
+        "Type": "DimensionLinks",
+        "SortOrder": 11,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Air Dive",
+        "Type": "DimensionLinks",
+        "SortOrder": 12,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Landbreaker",
+        "Type": "DimensionLinks",
+        "SortOrder": 13,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Faithcharge",
+        "Type": "DimensionLinks",
+        "SortOrder": 14,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Cosmic Donald",
+        "Type": "DimensionLinks",
+        "SortOrder": 15,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Goofy Turbo",
+        "Type": "DimensionLinks",
+        "SortOrder": 16,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Sweet Seven",
+        "Type": "DimensionLinks",
+        "SortOrder": 17,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Miracle Dance",
+        "Type": "DimensionLinks",
+        "SortOrder": 18,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Hero's Pride",
+        "Type": "DimensionLinks",
+        "SortOrder": 19,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Ohana Beat",
+        "Type": "DimensionLinks",
+        "SortOrder": 20,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Barrel Roll",
+        "Type": "DimensionLinks",
+        "SortOrder": 21,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Rumble Rave",
+        "Type": "DimensionLinks",
+        "SortOrder": 22,
+        "Icon": "dl"
+      },
+      {
+        "Command": "Finish",
+        "Type": "Finish",
+        "SortOrder": 1,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Magic Pulse 1",
+        "Type": "Finish",
+        "SortOrder": 2,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Heat Slash 1",
+        "Type": "Finish",
+        "SortOrder": 3,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Gold Rush",
+        "Type": "Finish",
+        "SortOrder": 4,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Magic Pulse 2",
+        "Type": "Finish",
+        "SortOrder": 5,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Heat Slash 2",
+        "Type": "Finish",
+        "SortOrder": 6,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Ramuh's Judgment",
+        "Type": "Finish",
+        "SortOrder": 7,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Twisted Hours",
+        "Type": "Finish",
+        "SortOrder": 8,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Surprise! 1",
+        "Type": "Finish",
+        "SortOrder": 9,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Magic Pulse 3",
+        "Type": "Finish",
+        "SortOrder": 10,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Heal Strike",
+        "Type": "Finish",
+        "SortOrder": 11,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Surprise! 2",
+        "Type": "Finish",
+        "SortOrder": 12,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Magic Pulse 4",
+        "Type": "Finish",
+        "SortOrder": 13,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Explosion",
+        "Type": "Finish",
+        "SortOrder": 14,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Ice Burst",
+        "Type": "Finish",
+        "SortOrder": 15,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Teleport Spike",
+        "Type": "Finish",
+        "SortOrder": 16,
+        "Icon": "f1"
+      },
+      {
+        "Command": "Spellweaver",
+        "Type": "Finish",
+        "SortOrder": 17,
+        "Icon": "f2"
+      },
+      {
+        "Command": "Firestorm",
+        "Type": "Finish",
+        "SortOrder": 18,
+        "Icon": "f2"
+      },
+      {
+        "Command": "Diamond Dust",
+        "Type": "Finish",
+        "SortOrder": 19,
+        "Icon": "f2"
+      },
+      {
+        "Command": "Thunderbolt",
+        "Type": "Finish",
+        "SortOrder": 20,
+        "Icon": "f2"
+      },
+      {
+        "Command": "Bladecharge",
+        "Type": "Finish",
+        "SortOrder": 21,
+        "Icon": "f3"
+      },
+      {
+        "Command": "Sky Climber",
+        "Type": "Finish",
+        "SortOrder": 22,
+        "Icon": "f3"
+      },
+      {
+        "Command": "Ghost Drive",
+        "Type": "Finish",
+        "SortOrder": 23,
+        "Icon": "f3"
+      },
+      {
+        "Command": "Rhythm Mixer",
+        "Type": "Finish",
+        "SortOrder": 24,
+        "Icon": "f3"
+      },
+      {
+        "Command": "Frozen Fortune",
+        "Type": "Finish",
+        "SortOrder": 25,
+        "Icon": "f4"
+      },
+      {
+        "Command": "Treasure Magnet",
+        "Type": "Abilities",
+        "SortOrder": 1,
+        "Icon": "ab"
+      },
+      {
+        "Command": "HP Prize Plus",
+        "Type": "Abilities",
+        "SortOrder": 2,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Link Prize Plus",
+        "Type": "Abilities",
+        "SortOrder": 3,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Lucky Strike",
+        "Type": "Abilities",
+        "SortOrder": 4,
+        "Icon": "ab"
+      },
+      {
+        "Command": "HP Boost",
+        "Type": "Abilities",
+        "SortOrder": 5,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Zero EXP",
+        "Type": "Abilities",
+        "SortOrder": 6,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Fire Boost",
+        "Type": "Abilities",
+        "SortOrder": 7,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Blizzard Boost",
+        "Type": "Abilities",
+        "SortOrder": 8,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Thunder Boost",
+        "Type": "Abilities",
+        "SortOrder": 9,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Cure Boost",
+        "Type": "Abilities",
+        "SortOrder": 10,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Item Boost",
+        "Type": "Abilities",
+        "SortOrder": 11,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Attack Haste",
+        "Type": "Abilities",
+        "SortOrder": 12,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Magic Haste",
+        "Type": "Abilities",
+        "SortOrder": 13,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Combo F Boost",
+        "Type": "Abilities",
+        "SortOrder": 14,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Finish Boost",
+        "Type": "Abilities",
+        "SortOrder": 15,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Fire Screen",
+        "Type": "Abilities",
+        "SortOrder": 16,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Blizzard Screen",
+        "Type": "Abilities",
+        "SortOrder": 17,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Thunder Screen",
+        "Type": "Abilities",
+        "SortOrder": 18,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Dark Screen",
+        "Type": "Abilities",
+        "SortOrder": 19,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Reload Boost",
+        "Type": "Abilities",
+        "SortOrder": 20,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Defender",
+        "Type": "Abilities",
+        "SortOrder": 21,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Combo Plus",
+        "Type": "Abilities",
+        "SortOrder": 22,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Air Combo Plus",
+        "Type": "Abilities",
+        "SortOrder": 23,
+        "Icon": "ab"
+      },
+      {
+        "Command": "EXP Chance",
+        "Type": "Abilities",
+        "SortOrder": 24,
+        "Icon": "ab"
+      },
+      {
+        "Command": "EXP Walker",
+        "Type": "Abilities",
+        "SortOrder": 25,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Damage Syphon",
+        "Type": "Abilities",
+        "SortOrder": 26,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Second Chance",
+        "Type": "Abilities",
+        "SortOrder": 27,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Once More",
+        "Type": "Abilities",
+        "SortOrder": 28,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Scan",
+        "Type": "Abilities",
+        "SortOrder": 29,
+        "Icon": "ab"
+      },
+      {
+        "Command": "Leaf Bracer",
+        "Type": "Abilities",
+        "SortOrder": 30,
+        "Icon": "ab"
+      }
+    ]
+  }
+]

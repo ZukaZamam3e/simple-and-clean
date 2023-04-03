@@ -1,0 +1,185 @@
+Product	Rank	Exp	Upgrade	Materials	Effect
+Drive Recovery	C	16	High Drive Recovery	
+[03] Mythril Shard
+[03] Dark Shard
+[01] Frost Shard
+[01] Lightning Shard
+Restores 1 Drive gauge
+Restores 3 Drive gauge
+Elixir	A	15	Megalixir	
+[03] Mythril Stone
+[01] Power Stone
+[01] Dark Stone
+Restores HP/MP of one ally
+Restores HP/MP of all allies
+Mega-Potion	B	12	Mega Ether	
+[03] Mythril Shard
+[01] Power Shard
+[01] Blazing Shard
+[01] Lucid Shard
+Restore 60% HP, all allies
+Restores all MP to all allies
+AP Boost	S	49	Magic Boost	
+[01] Mythril Gem
+[03] Power Crystal
+[03] Dark Crystal
+[03] Frost Crystal
+Raises max AP by 1.
+Raises max Magic by 1.
+Defense Boost	S	50	Power Boost	
+[01] Mythril Crystal
+[03] Blazing Crystal
+[03] Lightning Crystal
+[03] Lucid Crystal
+Raises max Defense by 1.
+Raises max Strength by 1.
+Moon Amulet	A	22	Star Charm	
+[03] Orichalcum
+[01] Mythril Crystal
+[01] Twilight Stone
+[01] Twilight Shard
+3 AP, 2 Str, 2 Magic
+5 AP, 2 Str, 2 Magic
+Petit Ribbon	A	24	Ribbon	
+[03] Mythril Crystal
+[01] Orichalcum
+[01] Dense Stone
+[01] Dense Shard
+10% def all elements, 4 Def
+20% def all elements, 4 Def.
+Save the Queen	S	78	Save the Queen +	
+[01] Orichalcum
+[03] Dense Crystal
+[05] Dense Gem
+[07] Dense Stone
+[09] Dense Shard
+Hyper Healing, 5 Str, 6 Mag
+MP Hastega, 5 Str, 6 Mag
+Centurion*	S	78	Centurion +	
+[01] Lost Illusion
+[01] Remembrance Crystal
+[03] Remembrance Gem
+[05] Remembrance Stone
+[07] Remembrance Shard
+5 Str, 6 Mag
+Damage Control, 5 Str, 6 Mag
+Frozen Pride*	S	78	Frozen Pride +	
+[01] Lost Illusion
+[01] Tranquil Crystal
+[03] Tranquil Gem
+[05] Tranquil Stone
+[07] Tranquil Shard
+5 Str
+MP Hastega, 5 Str
+Save the King	S	78	Save the King+	
+[01] Orichalcum
+[03] Twilight Crystal
+[05] Twilight Gem
+[07] Twilight Stone
+[09] Twilight Shard
+Item Boost, 9 Str
+MP Rage, 9 Str
+Ultima Weapon	S	119	N/A	
+[13] Orichalcum+
+[01] Orichalcum
+[01] Mythril Crystal
+[01] Dense Crystal
+[01] Twilight Crystal
+[07] Serenity Shard
+MP Hastega, 6 Str, 4 Mag
+Firaga Bangle	C	15	Firagun Bangle	
+[05] Mythril Shard
+[01] Blazing Stone
+[01] Blazing Shard
+20% Fire Defense, 3 Def
+25% Fire Defense, 3 Def
+Blizzaga Armlet	C	15	Blizzagun Armlet	
+[05] Mythril Shard
+[01] Frost Stone
+[01] Frost Shard
+20% Ice Defense, 3 Def
+25% Ice Defense, 3 Def
+Thundaga Armlet	S	15	Thundagun Trinket	
+[05] Mythril Shard
+[01] Lightning Stone
+[01] Lightning Shard
+20% Thunder Def, 3 Def
+25% Thunder Def, 3 Def
+Shock Charm*	S	15	Shock Charm +	
+[01] Lost Illusion
+[01] Remembrance Stone
+[03] Remembrance Gem
+[01] Tranquil Stone
+[03] Tranquil Gem
+40% Thunder Def, 3 Def
+40% Thunder Def, 3 Def
+Full Bloom*	S	26	Full Bloom +	
+[01] Lost Illusion
+[01] Manifest Illusion
+[01] Tranquil Crystal
+[03] Serenity Gem
+5 AP, 3 Strength
+5 AP, 3 Strength
+Shade Archive*	S	26	Shade Archive +	
+[01] Lost Illusion
+[01] Manifest Illusion
+[01] Remembrance Crystal
+[03] Serenity Gem
+5 AP, 3 Magic
+5 AP, 3 Magic
+Garnet Ring	C	16	Diamond Ring	
+[03] Mythril Stone
+[01] Power Stone
+[01] Power Shard
+[01] Dark Shard
+4 AP, 1 Strength
+5 AP, 1 Strength
+Mythril Ring	C	17	Orichalcum Ring	
+[03] Mythril Stone
+[01] Power Stone
+[01] Dark Stone
+[01] Dark Shard
+4 AP, 1 Magic
+5 AP, 1 Magic
+Midnight Anklet	C	15	Chaos Anklet	
+[05] Mythril Shard
+[01] Lucid Stone
+[01] Lucid Shard
+20% Dark Defense, 3 Def
+25% Dark Defense, 3 Def
+Arcisius	B	24	Arcisius +	
+[05] Mythril Stone
+[01] Blazing Stone
+[01] Frost Stone
+[01] Lightning Stone
+20% elemental def, 3 Def
+25% elemental def, 3 Def
+Power Band	B	24	Buster Band	
+[05] Mythril Stone
+[01] Power Stone
+[01] Dark Stone
+[01] Lucid Stone
+4 Defense
+5 Defense
+Soldier Earring	B	24	Fencer Earring	
+[03] Mythril Gem
+[01] Dark Gem
+[01] Frost Gem
+[01] Lucid Gem
+4 AP, 2 Strength
+5 AP, 2 Strength, 1 Magic
+Mage Earring	B	24	Slayer Earring	
+[03] Mythril Gem
+[01] Power Gem
+[01] Blazing Gem
+[01] Lightning Gem
+4 AP, 2 Magic
+5 AP, 1 Strength, 2 Magic
+Expert's Ring	A	29	Master's Ring	
+[03] Mythril Crystal
+[01] Dark Crystal
+[01] Dark Gem
+[01] Dark Stone
+[01] Dark Shard
+6 AP
+7 AP

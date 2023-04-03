@@ -1,0 +1,3553 @@
+[
+  {
+    "Name": "Terra",
+    "Treasures": [
+      {
+        "Id": 0,
+        "Name": "Pulsing Crystal",
+        "Location": "Mountain Path, upper nook near Summit exit",
+        "World": "Land of Departure",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 1,
+        "Name": "Hi-Potion",
+        "Location": "Mountain Path, upper nook near Summit exit",
+        "World": "Land of Departure",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 2,
+        "Name": "Stop",
+        "Location": "Mountain Path, ground level near �table and chair things�?",
+        "World": "Land of Departure",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 3,
+        "Name": "Soothing Crystal",
+        "Location": "Summit, nook looking out to the abyss",
+        "World": "Land of Departure",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 4,
+        "Name": "Potion",
+        "Location": "Waterside, on left",
+        "World": "Enchanted Dominion",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 5,
+        "Name": "Pulsing Crystal",
+        "Location": "Waterside, on right up on ledge near Forest Clearing entrance",
+        "World": "Enchanted Dominion",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 6,
+        "Name": "Blizzard",
+        "Location": "Forest Clearing, upper left ledge opposite from save",
+        "World": "Enchanted Dominion",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 7,
+        "Name": "Zero Gravity",
+        "Location": "Audience Chamber, lower left corner",
+        "World": "Enchanted Dominion",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 8,
+        "Name": "Ether",
+        "Location": "Audience Chamber, near stairs",
+        "World": "Enchanted Dominion",
+        "SortOrder": 4,
+        "Type": "T"
+      },
+      {
+        "Id": 9,
+        "Name": "Potion",
+        "Location": "Audience Chamber, upper right side of throne",
+        "World": "Enchanted Dominion",
+        "SortOrder": 5,
+        "Type": "T"
+      },
+      {
+        "Id": 10,
+        "Name": "Ether",
+        "Location": "Hallway. left side near stairs",
+        "World": "Enchanted Dominion",
+        "SortOrder": 6,
+        "Type": "T"
+      },
+      {
+        "Id": 11,
+        "Name": "Map",
+        "Location": "Aurora�s Chamber",
+        "World": "Enchanted Dominion",
+        "SortOrder": 7,
+        "Type": "T"
+      },
+      {
+        "Id": 12,
+        "Name": "Sleep",
+        "Location": "Tower Room",
+        "World": "Enchanted Dominion",
+        "SortOrder": 8,
+        "Type": "T"
+      },
+      {
+        "Id": 13,
+        "Name": "Attack Recipe",
+        "Location": "Tower Toom",
+        "World": "Enchanted Dominion",
+        "SortOrder": 9,
+        "Type": "T"
+      },
+      {
+        "Id": 14,
+        "Name": "Balloon Letter",
+        "Location": "Vault, lower level near off boiler",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 15,
+        "Name": "Ether",
+        "Location": "Vault, lower level next to fake treasure chest",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 16,
+        "Name": "Potion",
+        "Location": "Vault, upper level to the side of Waterway entrance",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 17,
+        "Name": "Flame Salvo",
+        "Location": "Vault, upper level after turning on boiler with Fire",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 18,
+        "Name": "Potion",
+        "Location": "Waterway, upper level nook after first wooden wheel turn",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 4,
+        "Type": "T"
+      },
+      {
+        "Id": 19,
+        "Name": "Block Recipe",
+        "Location": "Waterway, upper level nook after second wooden wheel turn",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 5,
+        "Type": "T"
+      },
+      {
+        "Id": 20,
+        "Name": "Poison Edge",
+        "Location": "Waterway, upper level corner after third wooden wheel turn",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 6,
+        "Type": "T"
+      },
+      {
+        "Id": 21,
+        "Name": "Fire",
+        "Location": "Waterway, upper level corner after third wooden wheel turn",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 7,
+        "Type": "T"
+      },
+      {
+        "Id": 22,
+        "Name": "Fission Firaga",
+        "Location": "Courtyard, up on a pillar on the left, need High Jump",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 8,
+        "Type": "T"
+      },
+      {
+        "Id": 23,
+        "Name": "Potion",
+        "Location": "Courtyard, next to Waterway exit",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 9,
+        "Type": "T"
+      },
+      {
+        "Id": 24,
+        "Name": "Map",
+        "Location": "Courtyard, in nook near stairs",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 10,
+        "Type": "T"
+      },
+      {
+        "Id": 25,
+        "Name": "Soothing Crystal",
+        "Location": "Courtyard, left corner on top of stairs",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 11,
+        "Type": "T"
+      },
+      {
+        "Id": 26,
+        "Name": "Hungry Crystal",
+        "Location": "Flower Glade, upper left",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 12,
+        "Type": "T"
+      },
+      {
+        "Id": 27,
+        "Name": "Thunderstorm",
+        "Location": "The Chateau",
+        "World": "Castle of Dreams",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 28,
+        "Name": "Pulsing Crystal",
+        "Location": "Courtyard, upper right between bushes and staircase",
+        "World": "Castle of Dreams",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 29,
+        "Name": "Wellspring Crystal",
+        "Location": "Courtyard, upper left side up stairs",
+        "World": "Castle of Dreams",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 30,
+        "Name": "Slow",
+        "Location": "Courtyard, lower right corner",
+        "World": "Castle of Dreams",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 31,
+        "Name": "Map",
+        "Location": "Courtyard, left side near save",
+        "World": "Castle of Dreams",
+        "SortOrder": 4,
+        "Type": "T"
+      },
+      {
+        "Id": 32,
+        "Name": "Fleeting Crystal",
+        "Location": "Ballroom, enter through Antechamber",
+        "World": "Castle of Dreams",
+        "SortOrder": 5,
+        "Type": "T"
+      },
+      {
+        "Id": 33,
+        "Name": "Strike Raid",
+        "Location": "Foyer, left side lower level",
+        "World": "Castle of Dreams",
+        "SortOrder": 6,
+        "Type": "T"
+      },
+      {
+        "Id": 34,
+        "Name": "Potion",
+        "Location": "Foyer, right side lower level",
+        "World": "Castle of Dreams",
+        "SortOrder": 7,
+        "Type": "T"
+      },
+      {
+        "Id": 35,
+        "Name": "Hi-Potion",
+        "Location": "Foyer, upper left corner upper level",
+        "World": "Castle of Dreams",
+        "SortOrder": 8,
+        "Type": "T"
+      },
+      {
+        "Id": 36,
+        "Name": "Soothing Crystal",
+        "Location": "Foyer, right side upper level",
+        "World": "Castle of Dreams",
+        "SortOrder": 9,
+        "Type": "T"
+      },
+      {
+        "Id": 37,
+        "Name": "Thunder",
+        "Location": "Antechamber, upper level near save point, must leave and return through Passage",
+        "World": "Castle of Dreams",
+        "SortOrder": 10,
+        "Type": "T"
+      },
+      {
+        "Id": 38,
+        "Name": "Pulsing Crystal",
+        "Location": "Tower, back nook",
+        "World": "The Mysterious Tower",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 39,
+        "Name": "Balloon Letter",
+        "Location": "Tower, to the left of the tower itself",
+        "World": "The Mysterious Tower",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 40,
+        "Name": "Cure",
+        "Location": "Tower, to the right of the tower itself",
+        "World": "The Mysterious Tower",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 41,
+        "Name": "Magic Recipe",
+        "Location": "Sorcerer�s Chamber",
+        "World": "The Mysterious Tower",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 42,
+        "Name": "Fira",
+        "Location": "Outer Gardens, upper right spikey corner",
+        "World": "Radiant Garden",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 43,
+        "Name": "Pulsing Crystal",
+        "Location": "Outer Gardens, lower left spikey corner",
+        "World": "Radiant Garden",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 44,
+        "Name": "Potion",
+        "Location": "Central Square",
+        "World": "Radiant Garden",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 45,
+        "Name": "Hi-Potion",
+        "Location": "Central Square",
+        "World": "Radiant Garden",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 46,
+        "Name": "Esuna",
+        "Location": "Aqueduct, mid-level stairway nook",
+        "World": "Radiant Garden",
+        "SortOrder": 4,
+        "Type": "T"
+      },
+      {
+        "Id": 47,
+        "Name": "Blackout",
+        "Location": "Aqueduct, upper area in back (turn right from stairs)",
+        "World": "Radiant Garden",
+        "SortOrder": 5,
+        "Type": "T"
+      },
+      {
+        "Id": 48,
+        "Name": "Hi-Potion",
+        "Location": "Aqueduct, middle nook of river path",
+        "World": "Radiant Garden",
+        "SortOrder": 6,
+        "Type": "T"
+      },
+      {
+        "Id": 49,
+        "Name": "Map",
+        "Location": "Castle Town, in front of Merlins house",
+        "World": "Radiant Garden",
+        "SortOrder": 7,
+        "Type": "T"
+      },
+      {
+        "Id": 50,
+        "Name": "Panacea",
+        "Location": "Fountain Court, lower left corner",
+        "World": "Radiant Garden",
+        "SortOrder": 8,
+        "Type": "T"
+      },
+      {
+        "Id": 51,
+        "Name": "Thunder Surge",
+        "Location": "Fountain Court, upper right corner",
+        "World": "Radiant Garden",
+        "SortOrder": 9,
+        "Type": "T"
+      },
+      {
+        "Id": 52,
+        "Name": "Fleeting Crystal",
+        "Location": "Fountain Court, upper right corner",
+        "World": "Radiant Garden",
+        "SortOrder": 10,
+        "Type": "T"
+      },
+      {
+        "Id": 53,
+        "Name": "Shimmering Crystal",
+        "Location": "Merlin�s House",
+        "World": "Radiant Garden",
+        "SortOrder": 11,
+        "Type": "T"
+      },
+      {
+        "Id": 54,
+        "Name": "Mega-Potion",
+        "Location": "Purification Facility, left corner",
+        "World": "Radiant Garden",
+        "SortOrder": 12,
+        "Type": "T"
+      },
+      {
+        "Id": 55,
+        "Name": "Chaos Crystal",
+        "Location": "Purification Facility, right of circular area",
+        "World": "Radiant Garden",
+        "SortOrder": 13,
+        "Type": "T"
+      },
+      {
+        "Id": 56,
+        "Name": "Map",
+        "Location": "Main Plaza, on left",
+        "World": "Disney Town",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 57,
+        "Name": "Potion",
+        "Location": "Main Plaza, behind popcorn machine on left",
+        "World": "Disney Town",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 58,
+        "Name": "Abounding Crystal",
+        "Location": "Raceway, upper level",
+        "World": "Disney Town",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 59,
+        "Name": "Payback Fang",
+        "Location": "Raceway, almost beneath the bridge",
+        "World": "Disney Town",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 60,
+        "Name": "Slot Edge",
+        "Location": "Raceway, right side upper level, enter from Pete�s Rec Room",
+        "World": "Disney Town",
+        "SortOrder": 4,
+        "Type": "T"
+      },
+      {
+        "Id": 61,
+        "Name": "Panacea",
+        "Location": "Gizmo Gallery, south upper level in front of Pete�s Rec Room",
+        "World": "Disney Town",
+        "SortOrder": 5,
+        "Type": "T"
+      },
+      {
+        "Id": 62,
+        "Name": "Action Recipe",
+        "Location": "Gizmo Gallery, upper left corner upper level",
+        "World": "Disney Town",
+        "SortOrder": 6,
+        "Type": "T"
+      },
+      {
+        "Id": 63,
+        "Name": "Chaos Crystal",
+        "Location": "Gizmo Gallery, upper left corner upper level",
+        "World": "Disney Town",
+        "SortOrder": 7,
+        "Type": "T"
+      },
+      {
+        "Id": 64,
+        "Name": "Thunder",
+        "Location": "Gizmo Gallery, upper left corner lower level",
+        "World": "Disney Town",
+        "SortOrder": 8,
+        "Type": "T"
+      },
+      {
+        "Id": 65,
+        "Name": "Thunder",
+        "Location": "Gizmo Gallery, lower left corner lower level",
+        "World": "Disney Town",
+        "SortOrder": 9,
+        "Type": "T"
+      },
+      {
+        "Id": 66,
+        "Name": "Absolute Zero",
+        "Location": "Gizmo Gallery, lower right nook middle level",
+        "World": "Disney Town",
+        "SortOrder": 10,
+        "Type": "T"
+      },
+      {
+        "Id": 67,
+        "Name": "Mega-Potion",
+        "Location": "Gizmo gallery, lower right nook middle level",
+        "World": "Disney Town",
+        "SortOrder": 11,
+        "Type": "T"
+      },
+      {
+        "Id": 68,
+        "Name": "Zero Gravira",
+        "Location": "Pete�s Rec Room, south upper level",
+        "World": "Disney Town",
+        "SortOrder": 12,
+        "Type": "T"
+      },
+      {
+        "Id": 69,
+        "Name": "Aerial Slam",
+        "Location": "Pete�s Rec Room, north upper level",
+        "World": "Disney Town",
+        "SortOrder": 13,
+        "Type": "T"
+      },
+      {
+        "Id": 70,
+        "Name": "Break Time",
+        "Location": "Pete�s Rec Room, center nook (hit all four green Crown bumpers)",
+        "World": "Disney Town",
+        "SortOrder": 14,
+        "Type": "T"
+      },
+      {
+        "Id": 71,
+        "Name": "Chaos Crystal",
+        "Location": "Pete�s Rec Room, near Raceway entrance",
+        "World": "Disney Town",
+        "SortOrder": 15,
+        "Type": "T"
+      },
+      {
+        "Id": 72,
+        "Name": "Fire Strike",
+        "Location": "Gates, behind columbs near door to Vestibule",
+        "World": "Olympus Coliseum",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 73,
+        "Name": "Mega Attack Recipe",
+        "Location": "Gates, near statues foot",
+        "World": "Olympus Coliseum",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 74,
+        "Name": "Mega-Potion",
+        "Location": "Gates, underneath tapestries",
+        "World": "Olympus Coliseum",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 75,
+        "Name": "Map",
+        "Location": "Vestibule",
+        "World": "Olympus Coliseum",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 76,
+        "Name": "High Jump",
+        "Location": "Turo Prison Block, left middle, middle level",
+        "World": "Deep Space",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 77,
+        "Name": "Brutal Blast",
+        "Location": "Turo Prison Block, lower right corner highest level",
+        "World": "Deep Space",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 78,
+        "Name": "Pulsing Crystal",
+        "Location": "Turo Prison Block, upper left corner, highest level",
+        "World": "Deep Space",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 79,
+        "Name": "Mega-Ether",
+        "Location": "Turo Prison Block, middle right, highest level",
+        "World": "Deep Space",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 80,
+        "Name": "Mega-Potion",
+        "Location": "Turo Prison Block, lower left corner, highest level",
+        "World": "Deep Space",
+        "SortOrder": 4,
+        "Type": "T"
+      },
+      {
+        "Id": 81,
+        "Name": "Map",
+        "Location": "Turo Transporter",
+        "World": "Deep Space",
+        "SortOrder": 5,
+        "Type": "T"
+      },
+      {
+        "Id": 82,
+        "Name": "Hi-Potion",
+        "Location": "Durgon Transporter, middle",
+        "World": "Deep Space",
+        "SortOrder": 6,
+        "Type": "T"
+      },
+      {
+        "Id": 83,
+        "Name": "Ether",
+        "Location": "Ship Corridor, top part of circle",
+        "World": "Deep Space",
+        "SortOrder": 7,
+        "Type": "T"
+      },
+      {
+        "Id": 84,
+        "Name": "Hi-Potion",
+        "Location": "Ship Corridor, lower part of circle on right",
+        "World": "Deep Space",
+        "SortOrder": 8,
+        "Type": "T"
+      },
+      {
+        "Id": 85,
+        "Name": "Pulsing Crystal",
+        "Location": "Ship Corridor, left side of small circle area",
+        "World": "Deep Space",
+        "SortOrder": 9,
+        "Type": "T"
+      },
+      {
+        "Id": 86,
+        "Name": "Warp",
+        "Location": "Ship Corridor, lower left edge of circle, near small circle area",
+        "World": "Deep Space",
+        "SortOrder": 10,
+        "Type": "T"
+      },
+      {
+        "Id": 87,
+        "Name": "Hi-Potion",
+        "Location": "Control Room",
+        "World": "Deep Space",
+        "SortOrder": 11,
+        "Type": "T"
+      },
+      {
+        "Id": 88,
+        "Name": "Hungry Crystal",
+        "Location": "Ship Hub, third level on right",
+        "World": "Deep Space",
+        "SortOrder": 12,
+        "Type": "T"
+      },
+      {
+        "Id": 89,
+        "Name": "Mega-Potion",
+        "Location": "Ship Hub, lower level on right",
+        "World": "Deep Space",
+        "SortOrder": 13,
+        "Type": "T"
+      },
+      {
+        "Id": 90,
+        "Name": "Fleeting Crystal",
+        "Location": "Ship Hub, fourth level on right",
+        "World": "Deep Space",
+        "SortOrder": 14,
+        "Type": "T"
+      },
+      {
+        "Id": 91,
+        "Name": "Thundara",
+        "Location": "Launch Deck, upper right ledge, turn off gravity to jump over",
+        "World": "Deep Space",
+        "SortOrder": 15,
+        "Type": "T"
+      },
+      {
+        "Id": 92,
+        "Name": "Abounding Crystal",
+        "Location": "Launch Deck, lower right corner of square area",
+        "World": "Deep Space",
+        "SortOrder": 16,
+        "Type": "T"
+      },
+      {
+        "Id": 93,
+        "Name": "Wellspring Crystal",
+        "Location": "Launch Deck, upper left corner of square area, beneath pewpew guns",
+        "World": "Deep Space",
+        "SortOrder": 17,
+        "Type": "T"
+      },
+      {
+        "Id": 94,
+        "Name": "Mine Square",
+        "Location": "Machinery Bay Access",
+        "World": "Deep Space",
+        "SortOrder": 18,
+        "Type": "T"
+      },
+      {
+        "Id": 95,
+        "Name": "Hi-Potion",
+        "Location": "Cove, near boat to Skull Rock Entrance",
+        "World": "Neverland",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 96,
+        "Name": "Ether",
+        "Location": "Cove, near save point",
+        "World": "Neverland",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 97,
+        "Name": "Hi-Potion",
+        "Location": "Cliff Path, lower area",
+        "World": "Neverland",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 98,
+        "Name": "Mega-Potion",
+        "Location": "Cliff Path, top of rock structure, need Air Slide",
+        "World": "Neverland",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 99,
+        "Name": "Firaga",
+        "Location": "Cliff Path, break rocks on upper left side",
+        "World": "Neverland",
+        "SortOrder": 4,
+        "Type": "T"
+      },
+      {
+        "Id": 100,
+        "Name": "Dark Haze",
+        "Location": "Mermaid Lagoon, upper right nook (swim in)",
+        "World": "Neverland",
+        "SortOrder": 5,
+        "Type": "T"
+      },
+      {
+        "Id": 101,
+        "Name": "Geo Impact",
+        "Location": "Mermaid Lagoon, left side upper level ***Enter from Cliff Path, using the hole in the wall with Air Slide",
+        "World": "Neverland",
+        "SortOrder": 6,
+        "Type": "T"
+      },
+      {
+        "Id": 102,
+        "Name": "Elixir",
+        "Location": "Mermaid Lagoon, on island",
+        "World": "Neverland",
+        "SortOrder": 7,
+        "Type": "T"
+      },
+      {
+        "Id": 103,
+        "Name": "Hi-Potion",
+        "Location": "Jungle Clearing",
+        "World": "Neverland",
+        "SortOrder": 8,
+        "Type": "T"
+      },
+      {
+        "Id": 104,
+        "Name": "Shimmering Crystal",
+        "Location": "Peter�s Hideout, right nook",
+        "World": "Neverland",
+        "SortOrder": 9,
+        "Type": "T"
+      },
+      {
+        "Id": 105,
+        "Name": "Mega Magic Recipe",
+        "Location": "Peter�s Hideout, right nook",
+        "World": "Neverland",
+        "SortOrder": 10,
+        "Type": "T"
+      },
+      {
+        "Id": 106,
+        "Name": "Map",
+        "Location": "Gully, left side",
+        "World": "Neverland",
+        "SortOrder": 11,
+        "Type": "T"
+      },
+      {
+        "Id": 107,
+        "Name": "Hi-Potion",
+        "Location": "Gully, opposite of save",
+        "World": "Neverland",
+        "SortOrder": 12,
+        "Type": "T"
+      },
+      {
+        "Id": 108,
+        "Name": "Megalixir",
+        "Location": "Rainbow Falls: Base, middle on left",
+        "World": "Neverland",
+        "SortOrder": 13,
+        "Type": "T"
+      },
+      {
+        "Id": 109,
+        "Name": "Zero Graviga",
+        "Location": "Rainbow Falls: Base, upper right nook",
+        "World": "Neverland",
+        "SortOrder": 14,
+        "Type": "T"
+      },
+      {
+        "Id": 110,
+        "Name": "Abounding Crystal",
+        "Location": "Rainbow Falls: Crest",
+        "World": "Neverland",
+        "SortOrder": 15,
+        "Type": "T"
+      },
+      {
+        "Id": 111,
+        "Name": "Panacea",
+        "Location": "Skull Rock Entrance, far left nook",
+        "World": "Neverland",
+        "SortOrder": 16,
+        "Type": "T"
+      },
+      {
+        "Id": 112,
+        "Name": "Megalixir",
+        "Location": "Skull Rock Cavern, climb rocks up Entrance and go inside",
+        "World": "Neverland",
+        "SortOrder": 17,
+        "Type": "T"
+      },
+      {
+        "Id": 113,
+        "Name": "Ars Solum",
+        "Location": "Skull Rock:Cavern, lower right nook upper level, climb rocks and go inside",
+        "World": "Neverland",
+        "SortOrder": 18,
+        "Type": "T"
+      },
+      {
+        "Id": 114,
+        "Name": "Chaos Crystal",
+        "Location": "Skull Rock:Cavern, lower right nook upper level, climb rocks and go inside",
+        "World": "Neverland",
+        "SortOrder": 19,
+        "Type": "T"
+      },
+      {
+        "Id": 115,
+        "Name": "Elixir",
+        "Location": "Seat of War, upper right in large nook",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 116,
+        "Name": "Mega-Potion",
+        "Location": "Seat of War, right side",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 117,
+        "Name": "Map",
+        "Location": "Seat of War, near Twister Trench area",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 118,
+        "Name": "Windcutter",
+        "Location": "Twister Trench, near middle rock column on left side",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 119,
+        "Name": "Mega-Potion",
+        "Location": "Twister Trench, near middle rock column on right/top side",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 4,
+        "Type": "T"
+      },
+      {
+        "Id": 120,
+        "Name": "Mega-Ether",
+        "Location": "Twister Trench, upper area in front of Fissure exit",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 5,
+        "Type": "T"
+      },
+      {
+        "Id": 121,
+        "Name": "Megalixir",
+        "Location": "Twister Trench, upper left side near Fissure exit",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 6,
+        "Type": "T"
+      },
+      {
+        "Id": 0,
+        "Name": "Huey Sticker",
+        "Location": "Audience Chamber. In center. Air Slide/Sonic Impact combo REQUIRED",
+        "World": "Enchanted Dominion",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 1,
+        "Name": "Flying Balloon Sticker",
+        "Location": "Tower Room. Near window.",
+        "World": "Enchanted Dominion",
+        "SortOrder": 1,
+        "Type": "S"
+      },
+      {
+        "Id": 2,
+        "Name": "Balloon Sticker",
+        "Location": "Forest Clearing. Near chest.",
+        "World": "Enchanted Dominion",
+        "SortOrder": 2,
+        "Type": "S"
+      },
+      {
+        "Id": 3,
+        "Name": "Louie Sticker",
+        "Location": "Underground Waterway. Up in the air. High Jump REQUIRED",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 4,
+        "Name": "Balloon Sticker",
+        "Location": "Flower Glade. Appears after clearing world.",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 1,
+        "Type": "S"
+      },
+      {
+        "Id": 5,
+        "Name": "Flying Balloon Sticker",
+        "Location": "Passage. In the center of the room. High Jump REQUIRED",
+        "World": "Castle of Dreams",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 6,
+        "Name": "Traffic Cone Sticker",
+        "Location": "Chateau. Near chest.",
+        "World": "Castle of Dreams",
+        "SortOrder": 1,
+        "Type": "S"
+      },
+      {
+        "Id": 7,
+        "Name": "Balloon Sticker",
+        "Location": "Sorcerer�s Chamber. Up in the air. Swing keyblade at highest point, or use high jump.",
+        "World": "The Mysterious Tower",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 8,
+        "Name": "Airplane Sticker",
+        "Location": "Outer Gardens. Up in the air. High jump REQUIRED",
+        "World": "Radiant Garden",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 9,
+        "Name": "Dale Sticker",
+        "Location": "Fountain Court. Up in the air. High Jump REQUIRED",
+        "World": "Radiant Garden",
+        "SortOrder": 1,
+        "Type": "S"
+      },
+      {
+        "Id": 10,
+        "Name": "Flying Balloon Sticker",
+        "Location": "Central Square. In doorway.",
+        "World": "Radiant Garden",
+        "SortOrder": 2,
+        "Type": "S"
+      },
+      {
+        "Id": 11,
+        "Name": "Pete Sticker",
+        "Location": "Gizmo Gallery. Up in the air. Air Slide REQUIRED",
+        "World": "Disney Town",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 12,
+        "Name": "Traffic Cone Sticker",
+        "Location": "Raceway. Second floor, near stairs. Air Slide/Sonic Impact combo REQUIRED",
+        "World": "Disney Town",
+        "SortOrder": 1,
+        "Type": "S"
+      },
+      {
+        "Id": 13,
+        "Name": "Balloon Sticker",
+        "Location": "Gates. Behind right column.",
+        "World": "Olympus Coliseum",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 14,
+        "Name": "Flying Balloon Sticker",
+        "Location": "Turo Prison Block. Up in the air. High Jump and Air Slide REQUIRED",
+        "World": "Deep Space",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 15,
+        "Name": "UFO Sticker",
+        "Location": "Ship Corridor. Appears after clearing world.",
+        "World": "Deep Space",
+        "SortOrder": 1,
+        "Type": "S"
+      },
+      {
+        "Id": 16,
+        "Name": "Dewey Sticker",
+        "Location": "Peter�s Hideout. Appears after clearing world",
+        "World": "Neverland",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 17,
+        "Name": "Rainbow Sticker",
+        "Location": "Rainbow Falls Base. Up in the air. High Jump REQUIRED",
+        "World": "Neverland",
+        "SortOrder": 1,
+        "Type": "S"
+      },
+      {
+        "Id": 18,
+        "Name": "Chip Sticker",
+        "Location": "Skull Rock Entrance. Up in the air. Air Slide and High Jump REQUIRED",
+        "World": "Neverland",
+        "SortOrder": 2,
+        "Type": "S"
+      },
+      {
+        "Id": 19,
+        "Name": "Traffic Cone Sticker",
+        "Location": "Twister Trench. Gotta beat the twisters.",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 0,
+        "Type": "S"
+      }
+    ]
+  },
+  {
+    "Name": "Ventus",
+    "Treasures": [
+      {
+        "Id": 0,
+        "Name": "Payback Raid",
+        "Location": "Mine, middle area surrounded by boxes",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 1,
+        "Name": "Panacea",
+        "Location": "Mine, ground level beneath Mini chest near middle",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 2,
+        "Name": "Mini",
+        "Location": "Mine, upper level in the middle",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 3,
+        "Name": "Soothing Crystal",
+        "Location": "Flower Glade, across from Deep Woods exit",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 4,
+        "Name": "Shimmering Crystal",
+        "Location": "Deep Woods, near Flower Glade entrance",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 4,
+        "Type": "T"
+      },
+      {
+        "Id": 5,
+        "Name": "Potion",
+        "Location": "Deep Woods, near Cottage Clearing exit",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 5,
+        "Type": "T"
+      },
+      {
+        "Id": 6,
+        "Name": "Ether",
+        "Location": "Deep Woods, near Cottage Clearing exit",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 6,
+        "Type": "T"
+      },
+      {
+        "Id": 7,
+        "Name": "Fire",
+        "Location": "Cottage Clearing, behind cottage",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 7,
+        "Type": "T"
+      },
+      {
+        "Id": 8,
+        "Name": "Poison",
+        "Location": "Cottage Clearing, lower right nook through river",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 8,
+        "Type": "T"
+      },
+      {
+        "Id": 9,
+        "Name": "Map",
+        "Location": "Cottage Clearing, upper right",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 9,
+        "Type": "T"
+      },
+      {
+        "Id": 10,
+        "Name": "Attack Recipe",
+        "Location": "Cottage, upper right corner",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 10,
+        "Type": "T"
+      },
+      {
+        "Id": 11,
+        "Name": "Potion",
+        "Location": "Mountain Trail, back of map near Cottage Clearing entrance",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 11,
+        "Type": "T"
+      },
+      {
+        "Id": 12,
+        "Name": "Ether",
+        "Location": "Mountain Trail, next to Mine entrance",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 12,
+        "Type": "T"
+      },
+      {
+        "Id": 13,
+        "Name": "Potion",
+        "Location": "Mountain Trail, up on ledge",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 13,
+        "Type": "T"
+      },
+      {
+        "Id": 14,
+        "Name": "Map",
+        "Location": "Cinderella�s Room, next to Jaq",
+        "World": "Castle of Dreams",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 15,
+        "Name": "Stun Edge",
+        "Location": "Cinderella�s Room, on nightstand, jump from bed or use ball",
+        "World": "Castle of Dreams",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 16,
+        "Name": "Magic Recipe",
+        "Location": "Cinderella�s Room, up on dresser, use ball to roll and jump",
+        "World": "Castle of Dreams",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 17,
+        "Name": "Potion",
+        "Location": "Mousehole, first area upper level near Wardrobe Room entrance",
+        "World": "Castle of Dreams",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 18,
+        "Name": "Thunderstorm",
+        "Location": "Mousehole, upper right corner on beam",
+        "World": "Castle of Dreams",
+        "SortOrder": 4,
+        "Type": "T"
+      },
+      {
+        "Id": 19,
+        "Name": "Ether",
+        "Location": "Mousehole, upper right area near fork and high Wardrobe Room entrance",
+        "World": "Castle of Dreams",
+        "SortOrder": 5,
+        "Type": "T"
+      },
+      {
+        "Id": 20,
+        "Name": "Pulsing Crystal",
+        "Location": "Mousehole, lower left on top of bucket (hit cheese in spiderweb above)",
+        "World": "Castle of Dreams",
+        "SortOrder": 6,
+        "Type": "T"
+      },
+      {
+        "Id": 21,
+        "Name": "Potion",
+        "Location": "Mousehole, upper left area, upper level",
+        "World": "Castle of Dreams",
+        "SortOrder": 7,
+        "Type": "T"
+      },
+      {
+        "Id": 22,
+        "Name": "Hungry Crystal",
+        "Location": "Mousehole, bottom left corner, behind fork",
+        "World": "Castle of Dreams",
+        "SortOrder": 8,
+        "Type": "T"
+      },
+      {
+        "Id": 23,
+        "Name": "Zero Gravity",
+        "Location": "Wardrobe Room, lower left on top of books, must enter from Mousehole on top of dresser",
+        "World": "Castle of Dreams",
+        "SortOrder": 9,
+        "Type": "T"
+      },
+      {
+        "Id": 24,
+        "Name": "Balloon Letter",
+        "Location": "Wardrobe Room, upper left on table with flower (use ball)",
+        "World": "Castle of Dreams",
+        "SortOrder": 10,
+        "Type": "T"
+      },
+      {
+        "Id": 25,
+        "Name": "Blizzard",
+        "Location": "Wardrobe Room, upper right beneath table with books (use ball)",
+        "World": "Castle of Dreams",
+        "SortOrder": 11,
+        "Type": "T"
+      },
+      {
+        "Id": 26,
+        "Name": "Fleeting Crystal",
+        "Location": "Wardrobe Room, lower left on top of boxes (use ball)",
+        "World": "Castle of Dreams",
+        "SortOrder": 12,
+        "Type": "T"
+      },
+      {
+        "Id": 27,
+        "Name": "Balloon Letter",
+        "Location": "Gates, upper level right",
+        "World": "Enchanted Dominion",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 28,
+        "Name": "Soothing Crystal",
+        "Location": "Gates, upper level right",
+        "World": "Enchanted Dominion",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 29,
+        "Name": "Cure",
+        "Location": "Gates, left of Maleficent�s Throne entrance",
+        "World": "Enchanted Dominion",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 30,
+        "Name": "Wellspring Crystal",
+        "Location": "Gates, upper level across from Maleficent�s Throne entrance",
+        "World": "Enchanted Dominion",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 31,
+        "Name": "Absolute Zero",
+        "Location": "Gates, upper level left",
+        "World": "Enchanted Dominion",
+        "SortOrder": 4,
+        "Type": "T"
+      },
+      {
+        "Id": 32,
+        "Name": "Hi-Potion",
+        "Location": "Maleficent�s Throne",
+        "World": "Enchanted Dominion",
+        "SortOrder": 5,
+        "Type": "T"
+      },
+      {
+        "Id": 33,
+        "Name": "Fleeting Crystal",
+        "Location": "Dungeon, upper level near Hall entrance",
+        "World": "Enchanted Dominion",
+        "SortOrder": 6,
+        "Type": "T"
+      },
+      {
+        "Id": 34,
+        "Name": "Tornado Strike",
+        "Location": "Dungeon, upper level Glide Required!",
+        "World": "Enchanted Dominion",
+        "SortOrder": 7,
+        "Type": "T"
+      },
+      {
+        "Id": 35,
+        "Name": "Wellspring Crystal",
+        "Location": "Hall, left of Maleficent�s Throne entrance",
+        "World": "Enchanted Dominion",
+        "SortOrder": 8,
+        "Type": "T"
+      },
+      {
+        "Id": 36,
+        "Name": "Hungry Crystal",
+        "Location": "Hall, left of Maleficent�s Throne entrance",
+        "World": "Enchanted Dominion",
+        "SortOrder": 9,
+        "Type": "T"
+      },
+      {
+        "Id": 37,
+        "Name": "Magnet",
+        "Location": "Hall, take purple warp",
+        "World": "Enchanted Dominion",
+        "SortOrder": 10,
+        "Type": "T"
+      },
+      {
+        "Id": 38,
+        "Name": "Hi-Potion",
+        "Location": "Hall, near Gates entrance",
+        "World": "Enchanted Dominion",
+        "SortOrder": 11,
+        "Type": "T"
+      },
+      {
+        "Id": 39,
+        "Name": "Ether",
+        "Location": "Forbidden Mountain, left of creepy rock bridge thing",
+        "World": "Enchanted Dominion",
+        "SortOrder": 12,
+        "Type": "T"
+      },
+      {
+        "Id": 40,
+        "Name": "Potion",
+        "Location": "Waterside, on ledge",
+        "World": "Enchanted Dominion",
+        "SortOrder": 13,
+        "Type": "T"
+      },
+      {
+        "Id": 41,
+        "Name": "Map",
+        "Location": "Forest Clearing",
+        "World": "Enchanted Dominion",
+        "SortOrder": 14,
+        "Type": "T"
+      },
+      {
+        "Id": 42,
+        "Name": "Hi-Potion",
+        "Location": "Audience Chamber, upper left",
+        "World": "Enchanted Dominion",
+        "SortOrder": 15,
+        "Type": "T"
+      },
+      {
+        "Id": 43,
+        "Name": "Thunder",
+        "Location": "Audience Chamber, next to throne",
+        "World": "Enchanted Dominion",
+        "SortOrder": 16,
+        "Type": "T"
+      },
+      {
+        "Id": 44,
+        "Name": "Hi-Potion",
+        "Location": "Hallway, in front of window",
+        "World": "Enchanted Dominion",
+        "SortOrder": 17,
+        "Type": "T"
+      },
+      {
+        "Id": 45,
+        "Name": "Sleep",
+        "Location": "Tower Room (next to Aurora�s Chamber)",
+        "World": "Enchanted Dominion",
+        "SortOrder": 18,
+        "Type": "T"
+      },
+      {
+        "Id": 46,
+        "Name": "Soothing Crystal",
+        "Location": "Outer Gardens, right",
+        "World": "Radiant Garden",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 47,
+        "Name": "Pulsing Crystal",
+        "Location": "Outer Gardens, left",
+        "World": "Radiant Garden",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 48,
+        "Name": "Ether",
+        "Location": "Central Square",
+        "World": "Radiant Garden",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 49,
+        "Name": "Potion",
+        "Location": "Central Square",
+        "World": "Radiant Garden",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 50,
+        "Name": "Panacea",
+        "Location": "Aqueduct",
+        "World": "Radiant Garden",
+        "SortOrder": 4,
+        "Type": "T"
+      },
+      {
+        "Id": 51,
+        "Name": "Fira",
+        "Location": "Aqueduct, behind big ass pipe filter thing",
+        "World": "Radiant Garden",
+        "SortOrder": 5,
+        "Type": "T"
+      },
+      {
+        "Id": 52,
+        "Name": "Hi-Potion",
+        "Location": "Aqueduct, right side of bridge",
+        "World": "Radiant Garden",
+        "SortOrder": 6,
+        "Type": "T"
+      },
+      {
+        "Id": 53,
+        "Name": "Map",
+        "Location": "Castle Town, in front of Merlin�s house",
+        "World": "Radiant Garden",
+        "SortOrder": 7,
+        "Type": "T"
+      },
+      {
+        "Id": 54,
+        "Name": "Counter Rush",
+        "Location": "Fountain Court, upper left corner",
+        "World": "Radiant Garden",
+        "SortOrder": 8,
+        "Type": "T"
+      },
+      {
+        "Id": 55,
+        "Name": "Block Recipe",
+        "Location": "Merlin�s House",
+        "World": "Radiant Garden",
+        "SortOrder": 9,
+        "Type": "T"
+      },
+      {
+        "Id": 56,
+        "Name": "Hi-Potion",
+        "Location": "Gardens, lower level",
+        "World": "Radiant Garden",
+        "SortOrder": 10,
+        "Type": "T"
+      },
+      {
+        "Id": 57,
+        "Name": "Binding Strike",
+        "Location": "Gardens, upper level near fountain",
+        "World": "Radiant Garden",
+        "SortOrder": 11,
+        "Type": "T"
+      },
+      {
+        "Id": 58,
+        "Name": "Wellspring Crystal",
+        "Location": "Gardens, upper ledge",
+        "World": "Radiant Garden",
+        "SortOrder": 12,
+        "Type": "T"
+      },
+      {
+        "Id": 59,
+        "Name": "Slow",
+        "Location": "Gardens, top level left of Front Doors",
+        "World": "Radiant Garden",
+        "SortOrder": 13,
+        "Type": "T"
+      },
+      {
+        "Id": 60,
+        "Name": "Hi-Potion",
+        "Location": "Front Doors",
+        "World": "Radiant Garden",
+        "SortOrder": 14,
+        "Type": "T"
+      },
+      {
+        "Id": 61,
+        "Name": "Freeze Raid",
+        "Location": "Front Doors, upper left",
+        "World": "Radiant Garden",
+        "SortOrder": 15,
+        "Type": "T"
+      },
+      {
+        "Id": 62,
+        "Name": "Map",
+        "Location": "Main Plaza, left",
+        "World": "Disney Town",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 63,
+        "Name": "Potion",
+        "Location": "Main Plaza",
+        "World": "Disney Town",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 64,
+        "Name": "Superglide",
+        "Location": "Raceway, tallest left side. Go through Pete�s Rec Room and Glde/Air Slide over",
+        "World": "Disney Town",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 65,
+        "Name": "Reversal Slash",
+        "Location": "Raceway, upper left side",
+        "World": "Disney Town",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 66,
+        "Name": "Slot Edge",
+        "Location": "Raceway, up near Pete�s Rec Room entrance",
+        "World": "Disney Town",
+        "SortOrder": 4,
+        "Type": "T"
+      },
+      {
+        "Id": 67,
+        "Name": "Shimmering Crystal",
+        "Location": "Raceway, upper left middle level",
+        "World": "Disney Town",
+        "SortOrder": 5,
+        "Type": "T"
+      },
+      {
+        "Id": 68,
+        "Name": "Stop",
+        "Location": "Raceway, lower left near Fruitball Court entrance",
+        "World": "Disney Town",
+        "SortOrder": 6,
+        "Type": "T"
+      },
+      {
+        "Id": 69,
+        "Name": "Mega-Ether",
+        "Location": "Gizmo Gallery, bottom of map near middle Raceway entrance",
+        "World": "Disney Town",
+        "SortOrder": 7,
+        "Type": "T"
+      },
+      {
+        "Id": 70,
+        "Name": "Mega-Potion",
+        "Location": "Gizmo Gallery, upper left top level",
+        "World": "Disney Town",
+        "SortOrder": 8,
+        "Type": "T"
+      },
+      {
+        "Id": 71,
+        "Name": "Chaos Crystal",
+        "Location": "Gizmo Gallery, upper left top level",
+        "World": "Disney Town",
+        "SortOrder": 9,
+        "Type": "T"
+      },
+      {
+        "Id": 72,
+        "Name": "Thunder",
+        "Location": "Gizmo Gallery, lower left",
+        "World": "Disney Town",
+        "SortOrder": 10,
+        "Type": "T"
+      },
+      {
+        "Id": 73,
+        "Name": "Thunder",
+        "Location": "Gizmo Gallery, upper left",
+        "World": "Disney Town",
+        "SortOrder": 11,
+        "Type": "T"
+      },
+      {
+        "Id": 74,
+        "Name": "Mega-Potion",
+        "Location": "Gizmo Gallery, lower right in nook",
+        "World": "Disney Town",
+        "SortOrder": 12,
+        "Type": "T"
+      },
+      {
+        "Id": 75,
+        "Name": "Panacea",
+        "Location": "Pete�s Rec Room, bottom nook",
+        "World": "Disney Town",
+        "SortOrder": 13,
+        "Type": "T"
+      },
+      {
+        "Id": 76,
+        "Name": "Action Recipe",
+        "Location": "Pete�s Rec Room, bottom nook",
+        "World": "Disney Town",
+        "SortOrder": 14,
+        "Type": "T"
+      },
+      {
+        "Id": 77,
+        "Name": "Aerial Slam",
+        "Location": "Pete�s Rec Room",
+        "World": "Disney Town",
+        "SortOrder": 15,
+        "Type": "T"
+      },
+      {
+        "Id": 78,
+        "Name": "Break Time",
+        "Location": "Pete�s Rec Room, middle of pinpall game ***Hit all four green Crown bumpers! There�s one at the very top!",
+        "World": "Disney Town",
+        "SortOrder": 16,
+        "Type": "T"
+      },
+      {
+        "Id": 79,
+        "Name": "Wellspring Crystal",
+        "Location": "Pete�s Rec Room, up near raceway entrance",
+        "World": "Disney Town",
+        "SortOrder": 17,
+        "Type": "T"
+      },
+      {
+        "Id": 80,
+        "Name": "Fire Strike",
+        "Location": "Gates, upper right",
+        "World": "Olympus Coliseum",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 81,
+        "Name": "Cura",
+        "Location": "Gates, upper left (in columns)",
+        "World": "Olympus Coliseum",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 82,
+        "Name": "Mega-Potion",
+        "Location": "Gates, lower left",
+        "World": "Olympus Coliseum",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 83,
+        "Name": "Map",
+        "Location": "Vestibule",
+        "World": "Olympus Coliseum",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 84,
+        "Name": "Abounding Crystal",
+        "Location": "Durgon Transporter (behind starting point), middle of room",
+        "World": "Deep Space",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 85,
+        "Name": "Hi-Potion",
+        "Location": "Ship Corridor, starting area",
+        "World": "Deep Space",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 86,
+        "Name": "Pulsing Crystal",
+        "Location": "Ship Corridor, starting area",
+        "World": "Deep Space",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 87,
+        "Name": "Mega-Ether",
+        "Location": "Ship Corridor, middle corridor",
+        "World": "Deep Space",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 88,
+        "Name": "Hi-Potion",
+        "Location": "Ship Corridor, middle corridor",
+        "World": "Deep Space",
+        "SortOrder": 4,
+        "Type": "T"
+      },
+      {
+        "Id": 89,
+        "Name": "Map",
+        "Location": "Control Room",
+        "World": "Deep Space",
+        "SortOrder": 5,
+        "Type": "T"
+      },
+      {
+        "Id": 90,
+        "Name": "Thundara",
+        "Location": "Ship Hub, second floor up",
+        "World": "Deep Space",
+        "SortOrder": 6,
+        "Type": "T"
+      },
+      {
+        "Id": 91,
+        "Name": "Zero Gravira",
+        "Location": "Ship Hub, bottom",
+        "World": "Deep Space",
+        "SortOrder": 7,
+        "Type": "T"
+      },
+      {
+        "Id": 92,
+        "Name": "Pulse Bomb",
+        "Location": "Ship Hub, near upper computer",
+        "World": "Deep Space",
+        "SortOrder": 8,
+        "Type": "T"
+      },
+      {
+        "Id": 93,
+        "Name": "Chaos Crystal",
+        "Location": "Machinery Bay, upper nook",
+        "World": "Deep Space",
+        "SortOrder": 9,
+        "Type": "T"
+      },
+      {
+        "Id": 94,
+        "Name": "Mine Shield",
+        "Location": "Machinery Bay, upper central level (after boss battle)",
+        "World": "Deep Space",
+        "SortOrder": 10,
+        "Type": "T"
+      },
+      {
+        "Id": 95,
+        "Name": "Xehanort�s Report 1",
+        "Location": "Launch Deck, upper level, use anti-grav",
+        "World": "Deep Space",
+        "SortOrder": 11,
+        "Type": "T"
+      },
+      {
+        "Id": 96,
+        "Name": "Mega Attack Recipe",
+        "Location": "Launch Deck, upper left",
+        "World": "Deep Space",
+        "SortOrder": 12,
+        "Type": "T"
+      },
+      {
+        "Id": 97,
+        "Name": "Fire Surge",
+        "Location": "Launch Deck, lower right",
+        "World": "Deep Space",
+        "SortOrder": 13,
+        "Type": "T"
+      },
+      {
+        "Id": 98,
+        "Name": "Fleeting Crystal",
+        "Location": "Launch Deck, lower right",
+        "World": "Deep Space",
+        "SortOrder": 14,
+        "Type": "T"
+      },
+      {
+        "Id": 99,
+        "Name": "Mega-Potion",
+        "Location": "Machinery Bay Access (right exit from Launch Deck)",
+        "World": "Deep Space",
+        "SortOrder": 15,
+        "Type": "T"
+      },
+      {
+        "Id": 100,
+        "Name": "Megalixir",
+        "Location": "Cove, other side of save (after Hook fight)",
+        "World": "Neverland",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 101,
+        "Name": "Mega-Potion",
+        "Location": "Cove, other side of save (after Hook fight)",
+        "World": "Neverland",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 102,
+        "Name": "Ether",
+        "Location": "Cove, next to save point",
+        "World": "Neverland",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 103,
+        "Name": "Hi-Potion",
+        "Location": "Cliff Path, lower right dip in ground",
+        "World": "Neverland",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 104,
+        "Name": "Firaga",
+        "Location": "Cliff Path, top of rock (Air Slide/Glide over)",
+        "World": "Neverland",
+        "SortOrder": 4,
+        "Type": "T"
+      },
+      {
+        "Id": 105,
+        "Name": "Treasure Raid",
+        "Location": "Cliff Path, behind rock in upper left (blow up with cannon fire)",
+        "World": "Neverland",
+        "SortOrder": 5,
+        "Type": "T"
+      },
+      {
+        "Id": 106,
+        "Name": "Aeroga",
+        "Location": "Mermaid Lagoon, upper right nook (swim in)",
+        "World": "Neverland",
+        "SortOrder": 6,
+        "Type": "T"
+      },
+      {
+        "Id": 107,
+        "Name": "Blitz",
+        "Location": "Mermaid Lagoon, left side upper level ***enter from Cliff Side; run up the rocks and glide through the hole in the wall above",
+        "World": "Neverland",
+        "SortOrder": 7,
+        "Type": "T"
+      },
+      {
+        "Id": 108,
+        "Name": "Elixir",
+        "Location": "Mermaid Lagoon, island",
+        "World": "Neverland",
+        "SortOrder": 8,
+        "Type": "T"
+      },
+      {
+        "Id": 109,
+        "Name": "Hi-Potion",
+        "Location": "Seacoast, right side",
+        "World": "Neverland",
+        "SortOrder": 9,
+        "Type": "T"
+      },
+      {
+        "Id": 110,
+        "Name": "Panacea",
+        "Location": "Seacoast, left side behind rock pillar",
+        "World": "Neverland",
+        "SortOrder": 10,
+        "Type": "T"
+      },
+      {
+        "Id": 111,
+        "Name": "Balloon Letter",
+        "Location": "Jungle Clearing, ",
+        "World": "Neverland",
+        "SortOrder": 11,
+        "Type": "T"
+      },
+      {
+        "Id": 112,
+        "Name": "Mega-Ether",
+        "Location": "Peter�s Hideout, nook in the back",
+        "World": "Neverland",
+        "SortOrder": 12,
+        "Type": "T"
+      },
+      {
+        "Id": 113,
+        "Name": "Fleeting Crystal",
+        "Location": "Peter�s Hideout, nook in the back",
+        "World": "Neverland",
+        "SortOrder": 13,
+        "Type": "T"
+      },
+      {
+        "Id": 114,
+        "Name": "Map",
+        "Location": "Gully, near Save",
+        "World": "Neverland",
+        "SortOrder": 14,
+        "Type": "T"
+      },
+      {
+        "Id": 115,
+        "Name": "Abounding Crystal",
+        "Location": "Gully, upper right",
+        "World": "Neverland",
+        "SortOrder": 15,
+        "Type": "T"
+      },
+      {
+        "Id": 116,
+        "Name": "Megalixir",
+        "Location": "Rainbow Falls: Cove, back area",
+        "World": "Neverland",
+        "SortOrder": 16,
+        "Type": "T"
+      },
+      {
+        "Id": 117,
+        "Name": "Magnega",
+        "Location": "Outside of Tower, back",
+        "World": "The Mysterious Tower",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 118,
+        "Name": "Wellspring Crystal",
+        "Location": "Outside of Tower, left",
+        "World": "The Mysterious Tower",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 119,
+        "Name": "Chaos Crystal",
+        "Location": "Outside of Tower, right",
+        "World": "The Mysterious Tower",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 120,
+        "Name": "Mega Magic Recipe",
+        "Location": "Tower Entrance",
+        "World": "The Mysterious Tower",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 121,
+        "Name": "Elixir",
+        "Location": "Seat of War, back nook",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 122,
+        "Name": "Mega-Potion",
+        "Location": "Seat of War, behind starting point",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 123,
+        "Name": "Map",
+        "Location": "Seat of War, upper right",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 124,
+        "Name": "Wind Raid",
+        "Location": "Twister Trench, middle",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 125,
+        "Name": "Mega-Ether",
+        "Location": "Twister Trench, middle",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 4,
+        "Type": "T"
+      },
+      {
+        "Id": 126,
+        "Name": "Mega-Potion",
+        "Location": "Twister Trench, top (nearly in front of exit)",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 5,
+        "Type": "T"
+      },
+      {
+        "Id": 127,
+        "Name": "Megalixir",
+        "Location": "Twister Trench, upper left",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 6,
+        "Type": "T"
+      },
+      {
+        "Id": 128,
+        "Name": "Elixir",
+        "Location": "Twister Trench, middle",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 7,
+        "Type": "T"
+      },
+      {
+        "Id": 129,
+        "Name": "Xehanort�s Report 12",
+        "Location": "Seat of War, back nook",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 8,
+        "Type": "T"
+      },
+      {
+        "Id": 0,
+        "Name": "Ice Cream Sticker",
+        "Location": "Cottage Clearing. In center of the area. High Jump is REQUIRED",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 1,
+        "Name": "Balloon Sticker",
+        "Location": "Mine Entrance. Near stairs.",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 1,
+        "Type": "S"
+      },
+      {
+        "Id": 2,
+        "Name": "Louie Sticker",
+        "Location": "Mousehole. Up in the air. High Jump REQUIRED",
+        "World": "Castle of Dreams",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 3,
+        "Name": "Fireworks Sticker",
+        "Location": "Cinderella�s Room. On vanity, use ball of yarn to reach.",
+        "World": "Castle of Dreams",
+        "SortOrder": 1,
+        "Type": "S"
+      },
+      {
+        "Id": 4,
+        "Name": "Dewey Sticker",
+        "Location": "Audience Chamber. Near door. Glide/Super Glide REQUIRED",
+        "World": "Enchanted Dominion",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 5,
+        "Name": "Confetti Sticker",
+        "Location": "Hall. In the labyrinth,",
+        "World": "Enchanted Dominion",
+        "SortOrder": 1,
+        "Type": "S"
+      },
+      {
+        "Id": 6,
+        "Name": "Huey Sticker",
+        "Location": "Fountain Court. In the air. High Jump and Glide/Super Glide REQUIRED",
+        "World": "Radiant Garden",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 7,
+        "Name": "Fireworks Sticker",
+        "Location": "Front Doors. On the left, near doors. High Jump REQUIRED",
+        "World": "Radiant Garden",
+        "SortOrder": 1,
+        "Type": "S"
+      },
+      {
+        "Id": 8,
+        "Name": "Ice Cream Sticker",
+        "Location": "Gardens. Second floor, top of dead-end staircase.",
+        "World": "Radiant Garden",
+        "SortOrder": 2,
+        "Type": "S"
+      },
+      {
+        "Id": 9,
+        "Name": "Mickey Sticker",
+        "Location": "Gizmo Gallery. Up in the air.Glide/Super Glide REQUIRED",
+        "World": "Disney Town",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 10,
+        "Name": "Minnie Sticker",
+        "Location": "Pete�s Rec Room. In alcove on the right. Use pinball machine to reach.",
+        "World": "Disney Town",
+        "SortOrder": 1,
+        "Type": "S"
+      },
+      {
+        "Id": 11,
+        "Name": "Chip Sticker",
+        "Location": "Raceway. Up in the air. Glide or dash skills necessary.",
+        "World": "Disney Town",
+        "SortOrder": 2,
+        "Type": "S"
+      },
+      {
+        "Id": 12,
+        "Name": "Confetti Sticker",
+        "Location": "Gates. On the left, near door. High Jump REQUIRED",
+        "World": "Olympus Coliseum",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 13,
+        "Name": "Ice Cream Sticker",
+        "Location": "Launch Deck. Remove gravity to reach.",
+        "World": "Deep Space",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 14,
+        "Name": "UFO Sticker",
+        "Location": "Ship Hub. In center of room",
+        "World": "Deep Space",
+        "SortOrder": 1,
+        "Type": "S"
+      },
+      {
+        "Id": 15,
+        "Name": "Rainbow Sticker",
+        "Location": "Rainbow Falls Base. Up in the air. High Jump REQUIRED",
+        "World": "Neverland",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 16,
+        "Name": "Dale Sticker",
+        "Location": "Mermaid Lagoon. Above water, left side. Glide/Super Glide REQUIRED",
+        "World": "Neverland",
+        "SortOrder": 1,
+        "Type": "S"
+      },
+      {
+        "Id": 17,
+        "Name": "Ice Cream Sticker",
+        "Location": "Tower. Between two groups of trees, on the right.",
+        "World": "The Mysterious Tower",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 18,
+        "Name": "Ice Cream Sticker",
+        "Location": "Seat of War. In alcove near chests.",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 19,
+        "Name": "Ice Cream Sticker",
+        "Location": "Twister Trench. Gotta beat the twisters.",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 1,
+        "Type": "S"
+      }
+    ]
+  },
+  {
+    "Name": "Aqua",
+    "Treasures": [
+      {
+        "Id": 0,
+        "Name": "Shimmering Crystal",
+        "Location": "Mountain Path, nook",
+        "World": "The Land of Departure",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 1,
+        "Name": "Hi-Potion",
+        "Location": "Mountain Path, nook",
+        "World": "The Land of Departure",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 2,
+        "Name": "Bind",
+        "Location": "Mountain Path, near table and chairs",
+        "World": "The Land of Departure",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 3,
+        "Name": "Fleeting Crystal",
+        "Location": "Summit, nook",
+        "World": "The Land of Departure",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 4,
+        "Name": "Magic Recipe",
+        "Location": "The Chateau, bottom right nook",
+        "World": "Castle of Dreams",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 5,
+        "Name": "Hi-Potion",
+        "Location": "Palace Courtyard, left side of stairs",
+        "World": "Castle of Dreams",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 6,
+        "Name": "Slow",
+        "Location": "Palace Courtyard, left",
+        "World": "Castle of Dreams",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 7,
+        "Name": "Potion",
+        "Location": "Palace Courtyard, lower right corner",
+        "World": "Castle of Dreams",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 8,
+        "Name": "Fleeting Crystal",
+        "Location": "Foyer, left side",
+        "World": "Castle of Dreams",
+        "SortOrder": 4,
+        "Type": "T"
+      },
+      {
+        "Id": 9,
+        "Name": "Barrier Surge",
+        "Location": "Foyer, right side",
+        "World": "Castle of Dreams",
+        "SortOrder": 5,
+        "Type": "T"
+      },
+      {
+        "Id": 10,
+        "Name": "Potion",
+        "Location": "Foyer, upper left side",
+        "World": "Castle of Dreams",
+        "SortOrder": 6,
+        "Type": "T"
+      },
+      {
+        "Id": 11,
+        "Name": "Thunderstorm",
+        "Location": "Foyer, upper right side",
+        "World": "Castle of Dreams",
+        "SortOrder": 7,
+        "Type": "T"
+      },
+      {
+        "Id": 12,
+        "Name": "Balloon Letter",
+        "Location": "Vault, lower level, towards the bottom-left of map",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 13,
+        "Name": "Potion",
+        "Location": "Vault, lower level bottom of map",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 14,
+        "Name": "Shimmering Crystal",
+        "Location": "Vault, top upper level",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 15,
+        "Name": "Magnet",
+        "Location": "Vault, south upper level (use Fire magic on the boiler and ride the bubbles up)",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 16,
+        "Name": "Shimmering Crystal",
+        "Location": "Underground Waterway, bottom of the map **hit the first spinner to open the gate",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 4,
+        "Type": "T"
+      },
+      {
+        "Id": 17,
+        "Name": "Fleeting Crystal",
+        "Location": "Underground Waterway, left side of map **hit the second spinner to open the gate",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 5,
+        "Type": "T"
+      },
+      {
+        "Id": 18,
+        "Name": "Fire",
+        "Location": "Underground Waterway, top nook **hit the third spinner to open the gate",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 6,
+        "Type": "T"
+      },
+      {
+        "Id": 19,
+        "Name": "Fission Firaga",
+        "Location": "Courtyard (Double Jump required)",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 7,
+        "Type": "T"
+      },
+      {
+        "Id": 20,
+        "Name": "Potion",
+        "Location": "Courtyard, back left nook",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 8,
+        "Type": "T"
+      },
+      {
+        "Id": 21,
+        "Name": "Map",
+        "Location": "Courtyard, underneath stairs",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 9,
+        "Type": "T"
+      },
+      {
+        "Id": 22,
+        "Name": "Fleeting Crystal",
+        "Location": "Courtyard, up the small stairs",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 10,
+        "Type": "T"
+      },
+      {
+        "Id": 23,
+        "Name": "Hungry Crystal",
+        "Location": "Flower Glade, left of Deep Woods entrance",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 11,
+        "Type": "T"
+      },
+      {
+        "Id": 24,
+        "Name": "Hi-Potion",
+        "Location": "Deep Woods, near Flower Glade entrance",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 12,
+        "Type": "T"
+      },
+      {
+        "Id": 25,
+        "Name": "Ether",
+        "Location": "Deep Woods, near Cottage Clearing entrance",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 13,
+        "Type": "T"
+      },
+      {
+        "Id": 26,
+        "Name": "Potion",
+        "Location": "Deep Woods, near Cottage Clearing entrance",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 14,
+        "Type": "T"
+      },
+      {
+        "Id": 27,
+        "Name": "Payback Surge",
+        "Location": "Cottage Clearing, behind cottage",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 15,
+        "Type": "T"
+      },
+      {
+        "Id": 28,
+        "Name": "Poison",
+        "Location": "Cottage Clearing, lower right",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 16,
+        "Type": "T"
+      },
+      {
+        "Id": 29,
+        "Name": "Attack Recipe",
+        "Location": "The Cottage, lower right corner",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 17,
+        "Type": "T"
+      },
+      {
+        "Id": 30,
+        "Name": "Map",
+        "Location": "Dungeon Cell",
+        "World": "Enchanted Dominion",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 31,
+        "Name": "Absolute Zero",
+        "Location": "Gates, upper level south",
+        "World": "Enchanted Dominion",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 32,
+        "Name": "Wellspring Crystal",
+        "Location": "Gates, upper level south",
+        "World": "Enchanted Dominion",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 33,
+        "Name": "Cure",
+        "Location": "Gates, second area left of Maleficent�s Throne entrance",
+        "World": "Enchanted Dominion",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 34,
+        "Name": "Pulsing Crystal",
+        "Location": "Gates, upper level north",
+        "World": "Enchanted Dominion",
+        "SortOrder": 4,
+        "Type": "T"
+      },
+      {
+        "Id": 35,
+        "Name": "Sleep",
+        "Location": "Gates, first area right ledge",
+        "World": "Enchanted Dominion",
+        "SortOrder": 5,
+        "Type": "T"
+      },
+      {
+        "Id": 36,
+        "Name": "Confusion Strike",
+        "Location": "Maleficent�s throne, bottom of map",
+        "World": "Enchanted Dominion",
+        "SortOrder": 6,
+        "Type": "T"
+      },
+      {
+        "Id": 37,
+        "Name": "Hi-Potion",
+        "Location": "Dungeon, upper left level",
+        "World": "Enchanted Dominion",
+        "SortOrder": 7,
+        "Type": "T"
+      },
+      {
+        "Id": 38,
+        "Name": "Ice Barrage",
+        "Location": "Dungeon, lower right corner, upper level",
+        "World": "Enchanted Dominion",
+        "SortOrder": 8,
+        "Type": "T"
+      },
+      {
+        "Id": 39,
+        "Name": "Hi-Potion",
+        "Location": "Forbidden Mountain, left of bridge entrance",
+        "World": "Enchanted Dominion",
+        "SortOrder": 9,
+        "Type": "T"
+      },
+      {
+        "Id": 40,
+        "Name": "Ether",
+        "Location": "Watersisde, directly in front of Forbidden Mountain entrance",
+        "World": "Enchanted Dominion",
+        "SortOrder": 10,
+        "Type": "T"
+      },
+      {
+        "Id": 41,
+        "Name": "Balloon Letter",
+        "Location": "Waterside, lower left nook",
+        "World": "Enchanted Dominion",
+        "SortOrder": 11,
+        "Type": "T"
+      },
+      {
+        "Id": 42,
+        "Name": "Potion",
+        "Location": "Waterside, near Forest Clearing entrance",
+        "World": "Enchanted Dominion",
+        "SortOrder": 12,
+        "Type": "T"
+      },
+      {
+        "Id": 43,
+        "Name": "Hi-Potion",
+        "Location": "Forest Clearing",
+        "World": "Enchanted Dominion",
+        "SortOrder": 13,
+        "Type": "T"
+      },
+      {
+        "Id": 44,
+        "Name": "Potion",
+        "Location": "Central Square",
+        "World": "Radiant Garden",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 45,
+        "Name": "Ether",
+        "Location": "Central Square",
+        "World": "Radiant Garden",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 46,
+        "Name": "Hi-Potion",
+        "Location": "Aqueduct, middle of path",
+        "World": "Radiant Garden",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 47,
+        "Name": "Thundara",
+        "Location": "Aqueduct, end behind machine",
+        "World": "Radiant Garden",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 48,
+        "Name": "Hi-Potion",
+        "Location": "Aqueduct, lower level",
+        "World": "Radiant Garden",
+        "SortOrder": 4,
+        "Type": "T"
+      },
+      {
+        "Id": 49,
+        "Name": "Block Recipe",
+        "Location": "Aqueduct, end behind machine",
+        "World": "Radiant Garden",
+        "SortOrder": 5,
+        "Type": "T"
+      },
+      {
+        "Id": 50,
+        "Name": "Counter Blast",
+        "Location": "Fountain Court, upper level right corner",
+        "World": "Radiant Garden",
+        "SortOrder": 6,
+        "Type": "T"
+      },
+      {
+        "Id": 51,
+        "Name": "Soothing Crystal",
+        "Location": "Fountain Court, upper level right corner",
+        "World": "Radiant Garden",
+        "SortOrder": 7,
+        "Type": "T"
+      },
+      {
+        "Id": 52,
+        "Name": "Xehanort�s Report 3",
+        "Location": "Merlin�s House",
+        "World": "Radiant Garden",
+        "SortOrder": 8,
+        "Type": "T"
+      },
+      {
+        "Id": 53,
+        "Name": "Zero Gravity",
+        "Location": "Gardens, lower level",
+        "World": "Radiant Garden",
+        "SortOrder": 9,
+        "Type": "T"
+      },
+      {
+        "Id": 54,
+        "Name": "Wellspring Crystal",
+        "Location": "Gardens, second level near fountain",
+        "World": "Radiant Garden",
+        "SortOrder": 10,
+        "Type": "T"
+      },
+      {
+        "Id": 55,
+        "Name": "Strike Raid",
+        "Location": "Gardens, second level in nook",
+        "World": "Radiant Garden",
+        "SortOrder": 11,
+        "Type": "T"
+      },
+      {
+        "Id": 56,
+        "Name": "Fleeting Crystal",
+        "Location": "Gardens, third level left side",
+        "World": "Radiant Garden",
+        "SortOrder": 12,
+        "Type": "T"
+      },
+      {
+        "Id": 57,
+        "Name": "Map",
+        "Location": "Front Doors",
+        "World": "Radiant Garden",
+        "SortOrder": 13,
+        "Type": "T"
+      },
+      {
+        "Id": 58,
+        "Name": "Panacea",
+        "Location": "Front Doors",
+        "World": "Radiant Garden",
+        "SortOrder": 14,
+        "Type": "T"
+      },
+      {
+        "Id": 59,
+        "Name": "Mine Square",
+        "Location": "Front Doors, upper area",
+        "World": "Radiant Garden",
+        "SortOrder": 15,
+        "Type": "T"
+      },
+      {
+        "Id": 60,
+        "Name": "Map",
+        "Location": "Main Plaza",
+        "World": "Disney Town",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 61,
+        "Name": "Potion",
+        "Location": "Main Plaza, behind popcorn machine on left",
+        "World": "Disney Town",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 62,
+        "Name": "Abounding Crystal",
+        "Location": "Raceway, northern area middle level",
+        "World": "Disney Town",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 63,
+        "Name": "Fira",
+        "Location": "Raceway, left side lower level",
+        "World": "Disney Town",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 64,
+        "Name": "Slot Edge",
+        "Location": "Raceway, left side upper level (enter from Pete�s Rec Room)",
+        "World": "Disney Town",
+        "SortOrder": 4,
+        "Type": "T"
+      },
+      {
+        "Id": 65,
+        "Name": "Hungry Crystal",
+        "Location": "Gizmo Gallery, south upper level",
+        "World": "Disney Town",
+        "SortOrder": 5,
+        "Type": "T"
+      },
+      {
+        "Id": 66,
+        "Name": "Mega Potion",
+        "Location": "Gizmo Gallery, top left corner upper level",
+        "World": "Disney Town",
+        "SortOrder": 6,
+        "Type": "T"
+      },
+      {
+        "Id": 67,
+        "Name": "Chaos Crystal",
+        "Location": "Gizmo Gallery, top left corner upper level",
+        "World": "Disney Town",
+        "SortOrder": 7,
+        "Type": "T"
+      },
+      {
+        "Id": 68,
+        "Name": "Thunder",
+        "Location": "Gizmo Gallery, upper left corner",
+        "World": "Disney Town",
+        "SortOrder": 8,
+        "Type": "T"
+      },
+      {
+        "Id": 69,
+        "Name": "Thunder",
+        "Location": "Gizmo Gallery, lower corner",
+        "World": "Disney Town",
+        "SortOrder": 9,
+        "Type": "T"
+      },
+      {
+        "Id": 70,
+        "Name": "Pulsing Crystal",
+        "Location": "Gizmo Gallery, lower right nook, upper level",
+        "World": "Disney Town",
+        "SortOrder": 10,
+        "Type": "T"
+      },
+      {
+        "Id": 71,
+        "Name": "Mega-Potion",
+        "Location": "Gizmo Gallery, lower right nook, upper level",
+        "World": "Disney Town",
+        "SortOrder": 11,
+        "Type": "T"
+      },
+      {
+        "Id": 72,
+        "Name": "Panacea",
+        "Location": "Pete�s Rec Room, south nook upper level",
+        "World": "Disney Town",
+        "SortOrder": 12,
+        "Type": "T"
+      },
+      {
+        "Id": 73,
+        "Name": "Action Recipe",
+        "Location": "Pete�s Rec Room, south nook upper level",
+        "World": "Disney Town",
+        "SortOrder": 13,
+        "Type": "T"
+      },
+      {
+        "Id": 74,
+        "Name": "Aerial Slam",
+        "Location": "Pete�s Rec Room, upper level",
+        "World": "Disney Town",
+        "SortOrder": 14,
+        "Type": "T"
+      },
+      {
+        "Id": 75,
+        "Name": "Break Time",
+        "Location": "Pete�s Rec Room, central area (hit all four green Crown icons)",
+        "World": "Disney Town",
+        "SortOrder": 15,
+        "Type": "T"
+      },
+      {
+        "Id": 76,
+        "Name": "Soothing Crystal",
+        "Location": "Pete�s Rec Room, upper central area",
+        "World": "Disney Town",
+        "SortOrder": 16,
+        "Type": "T"
+      },
+      {
+        "Id": 77,
+        "Name": "Fire Strike",
+        "Location": "Coliseum Gates, upper right",
+        "World": "Olympus Coliseum",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 78,
+        "Name": "Cura",
+        "Location": "Coliseum Gates, upper left",
+        "World": "Olympus Coliseum",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 79,
+        "Name": "Mega-Potion",
+        "Location": "Coliseum Gates, lower left",
+        "World": "Olympus Coliseum",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 80,
+        "Name": "Map",
+        "Location": "Vestibule",
+        "World": "Olympus Coliseum",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 81,
+        "Name": "Teleport",
+        "Location": "Turo Prison Block, upper right nook, highest area",
+        "World": "Deep Space",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 82,
+        "Name": "Blitz",
+        "Location": "Turo Prison Block, upper left nook, highest area",
+        "World": "Deep Space",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 83,
+        "Name": "Abounding Crystal",
+        "Location": "Turo Prison Block, upper left nook, middle area",
+        "World": "Deep Space",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 84,
+        "Name": "Mega-Potion",
+        "Location": "Turo Prison Block, lower right nook, middle area",
+        "World": "Deep Space",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 85,
+        "Name": "Map",
+        "Location": "Turo Transporter",
+        "World": "Deep Space",
+        "SortOrder": 4,
+        "Type": "T"
+      },
+      {
+        "Id": 86,
+        "Name": "Hi-Potion",
+        "Location": "Durgon Transporter, center",
+        "World": "Deep Space",
+        "SortOrder": 5,
+        "Type": "T"
+      },
+      {
+        "Id": 87,
+        "Name": "Ether",
+        "Location": "Control Room",
+        "World": "Deep Space",
+        "SortOrder": 6,
+        "Type": "T"
+      },
+      {
+        "Id": 88,
+        "Name": "Balloon Letter",
+        "Location": "Control Room, hallway",
+        "World": "Deep Space",
+        "SortOrder": 7,
+        "Type": "T"
+      },
+      {
+        "Id": 89,
+        "Name": "Fire Surge",
+        "Location": "Ship Hub, bottom floor",
+        "World": "Deep Space",
+        "SortOrder": 8,
+        "Type": "T"
+      },
+      {
+        "Id": 90,
+        "Name": "Prism Rain",
+        "Location": "Ship Hub, upper level",
+        "World": "Deep Space",
+        "SortOrder": 9,
+        "Type": "T"
+      },
+      {
+        "Id": 91,
+        "Name": "Zero Gravira",
+        "Location": "Launch Deck, right side upper level",
+        "World": "Deep Space",
+        "SortOrder": 10,
+        "Type": "T"
+      },
+      {
+        "Id": 92,
+        "Name": "Hungry Crystal",
+        "Location": "Launch Deck, right side lower level",
+        "World": "Deep Space",
+        "SortOrder": 11,
+        "Type": "T"
+      },
+      {
+        "Id": 93,
+        "Name": "Mega-Ether",
+        "Location": "Launch Deck, upper right corner lower level",
+        "World": "Deep Space",
+        "SortOrder": 12,
+        "Type": "T"
+      },
+      {
+        "Id": 94,
+        "Name": "Mega Attack Recipe",
+        "Location": "Machinery Bay Access",
+        "World": "Deep Space",
+        "SortOrder": 13,
+        "Type": "T"
+      },
+      {
+        "Id": 95,
+        "Name": "Firaga Burst",
+        "Location": "Mermaid Lagoon, upper right nook (swim in)",
+        "World": "Neverland",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 96,
+        "Name": "Elixir",
+        "Location": "Mermaid Lagoon, on left island",
+        "World": "Neverland",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 97,
+        "Name": "Hi-Potion",
+        "Location": "Seacoast, left side",
+        "World": "Neverland",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 98,
+        "Name": "Ether",
+        "Location": "Seacoast, right side",
+        "World": "Neverland",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 99,
+        "Name": "Hi-Potion",
+        "Location": "Jungle Clearing",
+        "World": "Neverland",
+        "SortOrder": 4,
+        "Type": "T"
+      },
+      {
+        "Id": 100,
+        "Name": "Mine Shield",
+        "Location": "Peter�s Hideout, in nook",
+        "World": "Neverland",
+        "SortOrder": 5,
+        "Type": "T"
+      },
+      {
+        "Id": 101,
+        "Name": "Elixir",
+        "Location": "Peter�s Hideout, in nook",
+        "World": "Neverland",
+        "SortOrder": 6,
+        "Type": "T"
+      },
+      {
+        "Id": 102,
+        "Name": "Map",
+        "Location": "Gully",
+        "World": "Neverland",
+        "SortOrder": 7,
+        "Type": "T"
+      },
+      {
+        "Id": 103,
+        "Name": "Mega-Potion",
+        "Location": "Gully",
+        "World": "Neverland",
+        "SortOrder": 8,
+        "Type": "T"
+      },
+      {
+        "Id": 104,
+        "Name": "Panacea",
+        "Location": "Rainbow Falls: Base, left side",
+        "World": "Neverland",
+        "SortOrder": 9,
+        "Type": "T"
+      },
+      {
+        "Id": 105,
+        "Name": "Fleeting Crystal",
+        "Location": "Rainbow Falls: Base, northern area",
+        "World": "Neverland",
+        "SortOrder": 10,
+        "Type": "T"
+      },
+      {
+        "Id": 106,
+        "Name": "Time Splicer",
+        "Location": "Rainbow Falls: Ascent, middle area upper level",
+        "World": "Neverland",
+        "SortOrder": 11,
+        "Type": "T"
+      },
+      {
+        "Id": 107,
+        "Name": "Thundaga",
+        "Location": "Rainbow Falls: Ascent, middle area lower level",
+        "World": "Neverland",
+        "SortOrder": 12,
+        "Type": "T"
+      },
+      {
+        "Id": 108,
+        "Name": "Chaos Crystal",
+        "Location": "Rainbow Falls: Ascent, middle area lower level",
+        "World": "Neverland",
+        "SortOrder": 13,
+        "Type": "T"
+      },
+      {
+        "Id": 109,
+        "Name": "Firaga",
+        "Location": "Rainbow Falls: Ascent, right area upper level",
+        "World": "Neverland",
+        "SortOrder": 14,
+        "Type": "T"
+      },
+      {
+        "Id": 110,
+        "Name": "Mega-Ether",
+        "Location": "Rainbow Falls: Crest",
+        "World": "Neverland",
+        "SortOrder": 15,
+        "Type": "T"
+      },
+      {
+        "Id": 111,
+        "Name": "Magnega",
+        "Location": "Outside, back",
+        "World": "The Mysterious Tower",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 112,
+        "Name": "Shimmering Crystal",
+        "Location": "Outside, left of tower entrance",
+        "World": "The Mysterious Tower",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 113,
+        "Name": "Megalixir",
+        "Location": "Outside, right of tower entrance",
+        "World": "The Mysterious Tower",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 114,
+        "Name": "Mega Magic Recipe",
+        "Location": "Entrance, under stairs",
+        "World": "The Mysterious Tower",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 115,
+        "Name": "Elixir",
+        "Location": "Seat of War, back of nook",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 116,
+        "Name": "Mega-Potion",
+        "Location": "Seat of War, right side",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 117,
+        "Name": "Map",
+        "Location": "Seat of War, northern trail",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 118,
+        "Name": "Aeroga",
+        "Location": "Twister Trench, center left side",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 119,
+        "Name": "Mega-Ether",
+        "Location": "Twister Trench, center right side",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 4,
+        "Type": "T"
+      },
+      {
+        "Id": 120,
+        "Name": "Mega-Potion",
+        "Location": "Twister Trench, north in front of Fissure entrance",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 5,
+        "Type": "T"
+      },
+      {
+        "Id": 121,
+        "Name": "Megalixir",
+        "Location": "Twister Trench, left wall under Fissure entrance",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 6,
+        "Type": "T"
+      },
+      {
+        "Id": 122,
+        "Name": "Zero Graviga",
+        "Location": "Middle Zone",
+        "World": "Realm of Darkness",
+        "SortOrder": 0,
+        "Type": "T"
+      },
+      {
+        "Id": 123,
+        "Name": "Blackout",
+        "Location": "Lower Zone",
+        "World": "Realm of Darkness",
+        "SortOrder": 1,
+        "Type": "T"
+      },
+      {
+        "Id": 124,
+        "Name": "Balloon Letter",
+        "Location": "Middle Zone",
+        "World": "Realm of Darkness",
+        "SortOrder": 2,
+        "Type": "T"
+      },
+      {
+        "Id": 125,
+        "Name": "Chaos Crystal",
+        "Location": "Lower Zone",
+        "World": "Realm of Darkness",
+        "SortOrder": 3,
+        "Type": "T"
+      },
+      {
+        "Id": 126,
+        "Name": "Secret Gem",
+        "Location": "Lower Zone",
+        "World": "Realm of Darkness",
+        "SortOrder": 4,
+        "Type": "T"
+      },
+      {
+        "Id": 127,
+        "Name": "Transcendence",
+        "Location": "Lower Zone",
+        "World": "Realm of Darkness",
+        "SortOrder": 5,
+        "Type": "T"
+      },
+      {
+        "Id": 128,
+        "Name": "Triple Firaga",
+        "Location": "Upper Zone",
+        "World": "Realm of Darkness",
+        "SortOrder": 6,
+        "Type": "T"
+      },
+      {
+        "Id": 129,
+        "Name": "Megalixir",
+        "Location": "Upper Zone",
+        "World": "Realm of Darkness",
+        "SortOrder": 7,
+        "Type": "T"
+      },
+      {
+        "Id": 0,
+        "Name": "Fireworks Sticker",
+        "Location": "Foyer. Middle of stairs from the second floor",
+        "World": "Castle of Dreams",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 1,
+        "Name": "Bubble Sticker",
+        "Location": "Palace Courtyard. ",
+        "World": "Castle of Dreams",
+        "SortOrder": 1,
+        "Type": "S"
+      },
+      {
+        "Id": 2,
+        "Name": "Picnic Basket Sticker",
+        "Location": "Courtyard. left of the entrance.",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 3,
+        "Name": "Bubble Sticker",
+        "Location": "Vault. Up in the air. High Jump and Double Jump REQUIRED",
+        "World": "Dwarf Woodlands",
+        "SortOrder": 1,
+        "Type": "S"
+      },
+      {
+        "Id": 4,
+        "Name": "Horace Sticker",
+        "Location": "Dungeon. Up in the air. High Jump and Double Jump REQUIRED",
+        "World": "Enchanted Dominion",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 5,
+        "Name": "Flower Sticker",
+        "Location": "Forest Clearing. Near save point.",
+        "World": "Enchanted Dominion",
+        "SortOrder": 1,
+        "Type": "S"
+      },
+      {
+        "Id": 6,
+        "Name": "Juice Sticker",
+        "Location": "Front Doors. Near save point.",
+        "World": "Radiant Garden",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 7,
+        "Name": "Donut Sticker",
+        "Location": "Aqueduct. Jump off ledge. High Jump REQUIRED",
+        "World": "Radiant Garden",
+        "SortOrder": 1,
+        "Type": "S"
+      },
+      {
+        "Id": 8,
+        "Name": "Flower Sticker",
+        "Location": "Castle Town. Near save point.",
+        "World": "Radiant Garden",
+        "SortOrder": 2,
+        "Type": "S"
+      },
+      {
+        "Id": 9,
+        "Name": "Minnie Sticker",
+        "Location": "Main Plaza. Up in the air. High Jump and Double Jump REQUIRED",
+        "World": "Disney Town",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 10,
+        "Name": "Daisy Sticker",
+        "Location": "Raceway. Up in the air. High Jump and Double Jump REQUIRED",
+        "World": "Disney Town",
+        "SortOrder": 1,
+        "Type": "S"
+      },
+      {
+        "Id": 11,
+        "Name": "Fireworks Sticker",
+        "Location": "Gates. Right side of entrance",
+        "World": "Olympus Coliseum",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 12,
+        "Name": "Dale Sticker",
+        "Location": "Turo Prison Block. Farthest cell on the right. Air Slide and High Jump REQUIRED",
+        "World": "Deep Space",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 13,
+        "Name": "UFO Sticker",
+        "Location": "Ship Hub. Center of room.",
+        "World": "Deep Space",
+        "SortOrder": 1,
+        "Type": "S"
+      },
+      {
+        "Id": 14,
+        "Name": "Fireworks Sticker",
+        "Location": "Jungle Clearing. Near Peter�s Hideout entrance.",
+        "World": "Neverland",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 15,
+        "Name": "Rainbow Sticker",
+        "Location": "Mermaid Lagoon. In water near the right end",
+        "World": "Neverland",
+        "SortOrder": 1,
+        "Type": "S"
+      },
+      {
+        "Id": 16,
+        "Name": "Chip Sticker",
+        "Location": "Rainbow Falls: Ascent. On a cliff.",
+        "World": "Neverland",
+        "SortOrder": 2,
+        "Type": "S"
+      },
+      {
+        "Id": 17,
+        "Name": "Donald Sticker",
+        "Location": "Entrance. Near entrance.",
+        "World": "The Mysterious Tower",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 18,
+        "Name": "Flower Sticker",
+        "Location": "Seat of War. Near chest (map)",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 0,
+        "Type": "S"
+      },
+      {
+        "Id": 19,
+        "Name": "Bubble Sticker",
+        "Location": "Fissure. In center of exit path.",
+        "World": "The Keyblade Graveyard",
+        "SortOrder": 1,
+        "Type": "S"
+      }
+    ]
+  }
+]

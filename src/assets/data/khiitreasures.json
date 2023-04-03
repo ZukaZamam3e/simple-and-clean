@@ -1,0 +1,2410 @@
+[
+{  
+   "Id":1,
+   "World":"Twilight Town",
+   "Area":"The Old Mansion",
+   "ChestNumber":1,
+   "Item":"Potion",
+   "Notes":"lower left corner of the yard"
+},
+{  
+   "Id":2,
+   "World":"Twilight Town",
+   "Area":"The Old Mansion",
+   "ChestNumber":2,
+   "Item":"Mythril Shard",
+   "Notes":"top right corner of the yard"
+},
+{  
+   "Id":3,
+   "World":"Twilight Town",
+   "Area":"The Woods",
+   "ChestNumber":3,
+   "Item":"Potion",
+   "Notes":"in the lower part of the forest"
+},
+{  
+   "Id":4,
+   "World":"Twilight Town",
+   "Area":"The Woods",
+   "ChestNumber":4,
+   "Item":"Mythril Shard",
+   "Notes":"in the upper part of the forest, towards the left"
+},
+{  
+   "Id":5,
+   "World":"Twilight Town",
+   "Area":"The Woods",
+   "ChestNumber":5,
+   "Item":"Hi-Potion",
+   "Notes":"in the upper part of the forest, towards the right"
+},
+{  
+   "Id":6,
+   "World":"Twilight Town",
+   "Area":"Tram Common",
+   "ChestNumber":6,
+   "Item":"Hi-Potion",
+   "Notes":"go through the arch on the way to the Sandlot and find this chest in front of the green-roofed building"
+},
+{  
+   "Id":7,
+   "World":"Twilight Town",
+   "Area":"Tram Common",
+   "ChestNumber":7,
+   "Item":"AP Boost",
+   "Notes":"get on top of that green-roofed building and hop on over to the blue ones. The bigger blue has this chest."
+},
+{  
+   "Id":8,
+   "World":"Twilight Town",
+   "Area":"Tram Common",
+   "ChestNumber":8,
+   "Item":"Tent",
+   "Notes":"near green roof at the bottom of stairs"
+},
+{  
+   "Id":9,
+   "World":"Twilight Town",
+   "Area":"Tram Common",
+   "ChestNumber":9,
+   "Item":"Mythril Shard",
+   "Notes":"across one of the bridges, on a building"
+},
+{  
+   "Id":10,
+   "World":"Twilight Town",
+   "Area":"Tram Common",
+   "ChestNumber":10,
+   "Item":"Potion",
+   "Notes":"behind the Accessory Shop"
+},
+{  
+   "Id":11,
+   "World":"Twilight Town",
+   "Area":"Tram Common",
+   "ChestNumber":11,
+   "Item":"Mythril Shard",
+   "Notes":"find the small bridge between two buildings and climb up to the rooftoop"
+},
+{  
+   "Id":12,
+   "World":"Twilight Town",
+   "Area":"Tram Common",
+   "ChestNumber":12,
+   "Item":"Potion",
+   "Notes":"in front of the building near the hole in the wall leading to The Woods"
+},
+{  
+   "Id":13,
+   "World":"Twilight Town",
+   "Area":"Central Station",
+   "ChestNumber":13,
+   "Item":"Tent",
+   "Notes":"between two tracks"
+},
+{  
+   "Id":14,
+   "World":"Twilight Town",
+   "Area":"Central Station",
+   "ChestNumber":14,
+   "Item":"Hi-Potion",
+   "Notes":"lower left corner of the station"
+},
+{  
+   "Id":15,
+   "World":"Twilight Town",
+   "Area":"Central Station",
+   "ChestNumber":15,
+   "Item":"Mythril Shard",
+   "Notes":"top right corner of the station"
+},
+{  
+   "Id":16,
+   "World":"Twilight Town",
+   "Area":"The Tower",
+   "ChestNumber":16,
+   "Item":"Potion",
+   "Notes":"bushes to the right"
+},
+{  
+   "Id":17,
+   "World":"Twilight Town",
+   "Area":"The Tower",
+   "ChestNumber":17,
+   "Item":"Hi-Potion",
+   "Notes":"bushes to the left"
+},
+{  
+   "Id":18,
+   "World":"Twilight Town",
+   "Area":"The Tower",
+   "ChestNumber":18,
+   "Item":"Ether",
+   "Notes":"bushes to the left"
+},
+{  
+   "Id":19,
+   "World":"Twilight Town",
+   "Area":"The Tower: Entryway",
+   "ChestNumber":19,
+   "Item":"Ether",
+   "Notes":"to the right"
+},
+{  
+   "Id":20,
+   "World":"Twilight Town",
+   "Area":"The Tower: Entryway",
+   "ChestNumber":20,
+   "Item":"Mythril Shard",
+   "Notes":"under the staircase"
+},
+{  
+   "Id":21,
+   "World":"Twilight Town",
+   "Area":"The Tower: Sorcerer’s Loft",
+   "ChestNumber":21,
+   "Item":"Tower Map",
+   "Notes":"near the green door"
+},
+{  
+   "Id":22,
+   "World":"Twilight Town",
+   "Area":"The Tower: Sorcerer’s Wardrobe",
+   "ChestNumber":22,
+   "Item":"Mythril Stone",
+   "Notes":"near the door"
+},
+{  
+   "Id":23,
+   "World":"Twilight Town",
+   "Area":"Underground Concourse",
+   "ChestNumber":23,
+   "Item":"Mythril Gem",
+   "Notes":"down a corridor and down stairs"
+},
+{  
+   "Id":24,
+   "World":"Twilight Town",
+   "Area":"Underground Concourse",
+   "ChestNumber":24,
+   "Item":"Orichalcum",
+   "Notes":"through the doorway and drop down, to the left"
+},
+{  
+   "Id":25,
+   "World":"Twilight Town",
+   "Area":"Underground Concourse",
+   "ChestNumber":25,
+   "Item":"AP Boost",
+   "Notes":"down the ramp and to the right"
+},
+{  
+   "Id":26,
+   "World":"Twilight Town",
+   "Area":"Underground Concourse",
+   "ChestNumber":26,
+   "Item":"Mythril Crystal",
+   "Notes":"around a corner, top of stairs in the corner to the right"
+},
+{  
+   "Id":27,
+   "World":"Twilight Town",
+   "Area":"Tunnelway",
+   "ChestNumber":27,
+   "Item":"Orichalcum",
+   "Notes":"in the beginning to the right"
+},
+{  
+   "Id":28,
+   "World":"Twilight Town",
+   "Area":"Tunnelway",
+   "ChestNumber":28,
+   "Item":"Mythril Crystal",
+   "Notes":"down the corridor, around the corner"
+},
+{  
+   "Id":29,
+   "World":"Twilight Town",
+   "Area":"Sunset Terrace",
+   "ChestNumber":29,
+   "Item":"Orichalcum+",
+   "Notes":"jump onto the train and find this on a nearby roof"
+},
+{  
+   "Id":30,
+   "World":"Twilight Town",
+   "Area":"Sunset Terrace",
+   "ChestNumber":30,
+   "Item":"Mythril Shard",
+   "Notes":"all the way down the left end of the tracks and to the right"
+},
+{  
+   "Id":31,
+   "World":"Twilight Town",
+   "Area":"Sunset Terrace",
+   "ChestNumber":31,
+   "Item":"Mythril Crystal",
+   "Notes":"halfway down the tracks between two buildings"
+},
+{  
+   "Id":32,
+   "World":"Twilight Town",
+   "Area":"Sunset Terrace",
+   "ChestNumber":32,
+   "Item":"AP Boost",
+   "Notes":"down an alley to the right of the tracks"
+},
+{  
+   "Id":33,
+   "World":"Twilight Town",
+   "Area":"Mansion Foyer",
+   "ChestNumber":33,
+   "Item":"Mythril Crystal",
+   "Notes":"in front of glass doors to the left"
+},
+{  
+   "Id":34,
+   "World":"Twilight Town",
+   "Area":"Mansion Foyer",
+   "ChestNumber":34,
+   "Item":"Mythril Stone",
+   "Notes":"up the staircase to the right"
+},
+{  
+   "Id":35,
+   "World":"Twilight Town",
+   "Area":"Mansion Foyer",
+   "ChestNumber":35,
+   "Item":"Serenity Crystal",
+   "Notes":"up the staircase on a balcony"
+},
+{  
+   "Id":36,
+   "World":"Twilight Town",
+   "Area":"Mansion: Dining Room",
+   "ChestNumber":36,
+   "Item":"Mythril Crystal",
+   "Notes":"opposite side of room, near a shelf"
+},
+{  
+   "Id":37,
+   "World":"Twilight Town",
+   "Area":"Mansion: Dining Room",
+   "ChestNumber":37,
+   "Item":"Mythril Stone",
+   "Notes":"in the corner to the right"
+},
+{  
+   "Id":38,
+   "World":"Twilight Town",
+   "Area":"Mansion: Library",
+   "ChestNumber":38,
+   "Item":"Orichalcum",
+   "Notes":"in the corner to the left, near stairs"
+},
+{  
+   "Id":39,
+   "World":"Twilight Town",
+   "Area":"Mansion: Basement Corridor",
+   "ChestNumber":39,
+   "Item":"Ultima Recipe",
+   "Notes":"straight and to the left"
+},
+{  
+   "Id":40,
+   "World":"Radiant Garden",
+   "Area":"Borough",
+   "ChestNumber":1,
+   "Item":"Drive Recovery",
+   "Notes":"to the left towards the Bailey"
+},
+{  
+   "Id":41,
+   "World":"Radiant Garden",
+   "Area":"Borough",
+   "ChestNumber":2,
+   "Item":"AP Boost",
+   "Notes":"behind the large machine at the top of the stairs"
+},
+{  
+   "Id":42,
+   "World":"Radiant Garden",
+   "Area":"Borough",
+   "ChestNumber":3,
+   "Item":"Hi-Potion",
+   "Notes":"to the right of Merlin’s House door"
+},
+{  
+   "Id":43,
+   "World":"Radiant Garden",
+   "Area":"Borough",
+   "ChestNumber":4,
+   "Item":"Mythril Shard",
+   "Notes":"to the right of the Bailey doorway"
+},
+{  
+   "Id":44,
+   "World":"Radiant Garden",
+   "Area":"Borough",
+   "ChestNumber":5,
+   "Item":"Dark Shard",
+   "Notes":"at the bottom of the stairs near Merlin’s House"
+},
+{  
+   "Id":45,
+   "World":"Radiant Garden",
+   "Area":"Postern",
+   "ChestNumber":6,
+   "Item":"Castle Perimeter Map",
+   "Notes":"over the railing and to the left"
+},
+{  
+   "Id":46,
+   "World":"Radiant Garden",
+   "Area":"Postern",
+   "ChestNumber":7,
+   "Item":"Mythril Gem",
+   "Notes":"on a pipe near the stairs leading to the Restoration Site"
+},
+{  
+   "Id":47,
+   "World":"Radiant Garden",
+   "Area":"Postern",
+   "ChestNumber":8,
+   "Item":"AP Boost",
+   "Notes":"bottom of the winding ramp to the left"
+},
+{  
+   "Id":48,
+   "World":"Radiant Garden",
+   "Area":"Corridors",
+   "ChestNumber":9,
+   "Item":"Mythril Stone",
+   "Notes":"near pile of debris"
+},
+{  
+   "Id":49,
+   "World":"Radiant Garden",
+   "Area":"Corridors",
+   "ChestNumber":10,
+   "Item":"Mythril Crystal",
+   "Notes":"near pipe"
+},
+{  
+   "Id":50,
+   "World":"Radiant Garden",
+   "Area":"Corridors",
+   "ChestNumber":11,
+   "Item":"Dark Crystal",
+   "Notes":"in a corner near the fork in the road"
+},
+{  
+   "Id":51,
+   "World":"Radiant Garden",
+   "Area":"Corridors",
+   "ChestNumber":12,
+   "Item":"AP Boost",
+   "Notes":"at the end of the right fork in a corner"
+},
+{  
+   "Id":52,
+   "World":"Radiant Garden",
+   "Area":"Ansem’s Study",
+   "ChestNumber":13,
+   "Item":"Skill Recipe",
+   "Notes":"near Leon (after first visit to Space Paranoids)"
+},
+{  
+   "Id":53,
+   "World":"Radiant Garden",
+   "Area":"Ansem’s Study",
+   "ChestNumber":14,
+   "Item":"Ukelele Charm",
+   "Notes":"back to Secret Passage in the corner"
+},
+{  
+   "Id":54,
+   "World":"Radiant Garden",
+   "Area":"Restoration Site",
+   "ChestNumber":15,
+   "Item":"Moon Recipe",
+   "Notes":"up on a ledge to the left"
+},
+{  
+   "Id":55,
+   "World":"Radiant Garden",
+   "Area":"Restoration Site",
+   "ChestNumber":16,
+   "Item":"AP Boost",
+   "Notes":"near a pipe on the right"
+},
+{  
+   "Id":56,
+   "World":"Radiant Garden",
+   "Area":"Crystal Fissure",
+   "ChestNumber":17,
+   "Item":"Torn Pages",
+   "Notes":"to the left"
+},
+{  
+   "Id":57,
+   "World":"Radiant Garden",
+   "Area":"Crystal Fissure",
+   "ChestNumber":18,
+   "Item":"The Great Maw Map",
+   "Notes":"to the right"
+},
+{  
+   "Id":58,
+   "World":"Radiant Garden",
+   "Area":"Crystal Fissure",
+   "ChestNumber":19,
+   "Item":"Energy Crystal",
+   "Notes":"to the right"
+},
+{  
+   "Id":59,
+   "World":"Radiant Garden",
+   "Area":"Crystal Fissure",
+   "ChestNumber":20,
+   "Item":"AP Boost",
+   "Notes":"to the right"
+},
+{  
+   "Id":60,
+   "World":"Radiant Garden",
+   "Area":"Postern",
+   "ChestNumber":21,
+   "Item":"Gull Wing",
+   "Notes":"talk to Yuna and the chest will appear"
+},
+{  
+   "Id":61,
+   "World":"Radiant Garden",
+   "Area":"Heartless Manufactory",
+   "ChestNumber":22,
+   "Item":"Cosmic Chain",
+   "Notes":"in plain sight (this area may not be open until near the end of the game)"
+},
+{  
+   "Id":62,
+   "World":"Radiant Garden",
+   "Area":"Cavern of Remembrance: Depths",
+   "ChestNumber":23,
+   "Item":"AP Boost",
+   "Notes":""
+},
+{  
+   "Id":63,
+   "World":"Radiant Garden",
+   "Area":"Cavern of Remembrance: Depths",
+   "ChestNumber":24,
+   "Item":"Power Crystal",
+   "Notes":""
+},
+{  
+   "Id":64,
+   "World":"Radiant Garden",
+   "Area":"Cavern of Remembrance: Depths",
+   "ChestNumber":25,
+   "Item":"Frost Crystal",
+   "Notes":""
+},
+{  
+   "Id":65,
+   "World":"Radiant Garden",
+   "Area":"Cavern of Remembrance: Depths",
+   "ChestNumber":26,
+   "Item":"Manifest Illusion",
+   "Notes":""
+},
+{  
+   "Id":66,
+   "World":"Radiant Garden",
+   "Area":"Cavern of Remembrance: Depths",
+   "ChestNumber":27,
+   "Item":"AP Boost",
+   "Notes":""
+},
+{  
+   "Id":67,
+   "World":"Radiant Garden",
+   "Area":"Cavern of Remembrance: Depths",
+   "ChestNumber":28,
+   "Item":"Remembrance Gem",
+   "Notes":""
+},
+{  
+   "Id":68,
+   "World":"Radiant Garden",
+   "Area":"Cavern of Remembrance: Mining Area",
+   "ChestNumber":29,
+   "Item":"Serenity Gem",
+   "Notes":""
+},
+{  
+   "Id":69,
+   "World":"Radiant Garden",
+   "Area":"Cavern of Remembrance: Mining Area",
+   "ChestNumber":30,
+   "Item":"AP Boost",
+   "Notes":""
+},
+{  
+   "Id":70,
+   "World":"Radiant Garden",
+   "Area":"Cavern of Remembrance: Mining Area",
+   "ChestNumber":31,
+   "Item":"Serenity Crystal",
+   "Notes":""
+},
+{  
+   "Id":71,
+   "World":"Radiant Garden",
+   "Area":"Cavern of Remembrance: Mining Area",
+   "ChestNumber":32,
+   "Item":"Manifest Illusion",
+   "Notes":""
+},
+{  
+   "Id":72,
+   "World":"Radiant Garden",
+   "Area":"Cavern of Remembrance: Mining Area",
+   "ChestNumber":33,
+   "Item":"Serenity Gem",
+   "Notes":""
+},
+{  
+   "Id":73,
+   "World":"Radiant Garden",
+   "Area":"Cavern of Remembrance: Mining Area",
+   "ChestNumber":34,
+   "Item":"Dark Remembrance Map",
+   "Notes":""
+},
+{  
+   "Id":74,
+   "World":"Radiant Garden",
+   "Area":"Cavern of Remembrance: Engine Chamber",
+   "ChestNumber":35,
+   "Item":"Serenity Crystal",
+   "Notes":""
+},
+{  
+   "Id":75,
+   "World":"Radiant Garden",
+   "Area":"Cavern of Remembrance: Engine Chamber",
+   "ChestNumber":36,
+   "Item":"Remembrance Crystal",
+   "Notes":""
+},
+{  
+   "Id":76,
+   "World":"Radiant Garden",
+   "Area":"Cavern of Remembrance: Engine Chamber",
+   "ChestNumber":37,
+   "Item":"AP Boost",
+   "Notes":""
+},
+{  
+   "Id":77,
+   "World":"Radiant Garden",
+   "Area":"Cavern of Remembrance: Engine Chamber",
+   "ChestNumber":38,
+   "Item":"Manifest Illusion",
+   "Notes":""
+},
+{  
+   "Id":78,
+   "World":"Radiant Garden",
+   "Area":"Cavern of Remembrance: Mineshaft",
+   "ChestNumber":39,
+   "Item":"AP Boost",
+   "Notes":""
+},
+{  
+   "Id":79,
+   "World":"Radiant Garden",
+   "Area":"Cavern of Remembrance: Mineshaft",
+   "ChestNumber":40,
+   "Item":"AP Boost",
+   "Notes":""
+},
+{  
+   "Id":80,
+   "World":"Radiant Garden",
+   "Area":"Cavern of Remembrance: Mineshaft",
+   "ChestNumber":41,
+   "Item":"Depths of Remembrance Map",
+   "Notes":""
+},
+{  
+   "Id":81,
+   "World":"Radiant Garden",
+   "Area":"Cavern of Remembrance: Mineshaft",
+   "ChestNumber":42,
+   "Item":"Power Boost",
+   "Notes":""
+},
+{  
+   "Id":82,
+   "World":"Radiant Garden",
+   "Area":"Cavern of Remembrance: Mineshaft",
+   "ChestNumber":43,
+   "Item":"Magic Boost",
+   "Notes":""
+},
+{  
+   "Id":83,
+   "World":"Radiant Garden",
+   "Area":"Cavern of Remembrance: Garden of Assemblage",
+   "ChestNumber":44,
+   "Item":"Garden of Assemblage Map",
+   "Notes":""
+},
+{  
+   "Id":84,
+   "World":"Radiant Garden",
+   "Area":"Cavern of Remembrance: Garden of Assemblage",
+   "ChestNumber":45,
+   "Item":"Lost Illusion",
+   "Notes":""
+},
+{  
+   "Id":85,
+   "World":"Radiant Garden",
+   "Area":"Cavern of Remembrance: Garden of Assemblage",
+   "ChestNumber":46,
+   "Item":"Non-Existent Proof",
+   "Notes":"*** This chest will only show up after you’ve beaten all of the Data Replica’s!"
+},
+{  
+   "Id":86,
+   "World":"Beast’s Castle",
+   "Area":"Courtyard",
+   "ChestNumber":1,
+   "Item":"AP Boost",
+   "Notes":"exit castle’s front door, far right of courtyard"
+},
+{  
+   "Id":87,
+   "World":"Beast’s Castle",
+   "Area":"Courtyard",
+   "ChestNumber":2,
+   "Item":"Hi-Potion",
+   "Notes":"to the left"
+},
+{  
+   "Id":88,
+   "World":"Beast’s Castle",
+   "Area":"Courtyard",
+   "ChestNumber":3,
+   "Item":"Mythril Shard",
+   "Notes":"left of the door"
+},
+{  
+   "Id":89,
+   "World":"Beast’s Castle",
+   "Area":"Belle’s Room",
+   "ChestNumber":4,
+   "Item":"Castle Map",
+   "Notes":"big treasure chest in the corner"
+},
+{  
+   "Id":90,
+   "World":"Beast’s Castle",
+   "Area":"Belle’s Room",
+   "ChestNumber":5,
+   "Item":"Mega Recipe",
+   "Notes":"small chest in other corner"
+},
+{  
+   "Id":91,
+   "World":"Beast’s Castle",
+   "Area":"East Wing",
+   "ChestNumber":6,
+   "Item":"Mythril Shard",
+   "Notes":"near the stairs"
+},
+{  
+   "Id":92,
+   "World":"Beast’s Castle",
+   "Area":"East Wing",
+   "ChestNumber":7,
+   "Item":"Tent",
+   "Notes":"in the center of the hallway near a window"
+},
+{  
+   "Id":93,
+   "World":"Beast’s Castle",
+   "Area":"West Hall",
+   "ChestNumber":8,
+   "Item":"Hi-Potion",
+   "Notes":"in between two suits of armor"
+},
+{  
+   "Id":94,
+   "World":"Beast’s Castle",
+   "Area":"West Hall",
+   "ChestNumber":9,
+   "Item":"Mythril Shard",
+   "Notes":"in between two suits of armor"
+},
+{  
+   "Id":95,
+   "World":"Beast’s Castle",
+   "Area":"West Hall",
+   "ChestNumber":10,
+   "Item":"Power Shard",
+   "Notes":"to the right of the staircase base"
+},
+{  
+   "Id":96,
+   "World":"Beast’s Castle",
+   "Area":"West Hall",
+   "ChestNumber":11,
+   "Item":"Mythril Shard",
+   "Notes":"to the left of the staircase base"
+},
+{  
+   "Id":97,
+   "World":"Beast’s Castle",
+   "Area":"West Hall",
+   "ChestNumber":12,
+   "Item":"AP Boost",
+   "Notes":"to the right of the Secret Passage entrance"
+},
+{  
+   "Id":98,
+   "World":"Beast’s Castle",
+   "Area":"West Hall",
+   "ChestNumber":13,
+   "Item":"Bright Stone",
+   "Notes":"in front of the stairs to the left"
+},
+{  
+   "Id":99,
+   "World":"Beast’s Castle",
+   "Area":"Dungeon",
+   "ChestNumber":14,
+   "Item":"Basement Map",
+   "Notes":"in plain sight"
+},
+{  
+   "Id":100,
+   "World":"Beast’s Castle",
+   "Area":"Dungeon",
+   "ChestNumber":15,
+   "Item":"AP Boost",
+   "Notes":"in plain sight"
+},
+{  
+   "Id":101,
+   "World":"Beast’s Castle",
+   "Area":"Secret Passage",
+   "ChestNumber":16,
+   "Item":"Mythril Shard",
+   "Notes":"stairs up behind the door"
+},
+{  
+   "Id":102,
+   "World":"Beast’s Castle",
+   "Area":"Secret Passage",
+   "ChestNumber":17,
+   "Item":"Hi-Potion",
+   "Notes":"stairs up behind the door"
+},
+{  
+   "Id":103,
+   "World":"Beast’s Castle",
+   "Area":"Secret Passage",
+   "ChestNumber":18,
+   "Item":"Lucid Shard",
+   "Notes":"open the secret door and it will be before the stairs"
+},
+{  
+   "Id":104,
+   "World":"Beast’s Castle",
+   "Area":"West Wing",
+   "ChestNumber":19,
+   "Item":"Mythril Shard",
+   "Notes":"up the right stairs"
+},
+{  
+   "Id":105,
+   "World":"Beast’s Castle",
+   "Area":"West Wing",
+   "ChestNumber":20,
+   "Item":"Tent",
+   "Notes":"in plain sight"
+},
+{  
+   "Id":106,
+   "World":"Beast’s Castle",
+   "Area":"Beast’s Room",
+   "ChestNumber":21,
+   "Item":"Blazing Shard",
+   "Notes":"near the window"
+},
+{  
+   "Id":107,
+   "World":"Olympus Coliseum",
+   "Area":"Underworld Entrance",
+   "ChestNumber":1,
+   "Item":"Power Boost",
+   "Notes":"after training"
+},
+{  
+   "Id":108,
+   "World":"Olympus Coliseum",
+   "Area":"Cave of the Dead: Passage",
+   "ChestNumber":2,
+   "Item":"Mythril Shard",
+   "Notes":"on the left path of the fork"
+},
+{  
+   "Id":109,
+   "World":"Olympus Coliseum",
+   "Area":"Cave of the Dead: Passage",
+   "ChestNumber":3,
+   "Item":"Mythril Stone",
+   "Notes":"near the door for Inner Chamber"
+},
+{  
+   "Id":110,
+   "World":"Olympus Coliseum",
+   "Area":"Cave of the Dead: Passage",
+   "ChestNumber":4,
+   "Item":"Ether",
+   "Notes":"on the left path of the fork"
+},
+{  
+   "Id":111,
+   "World":"Olympus Coliseum",
+   "Area":"Cave of the Dead: Passage",
+   "ChestNumber":5,
+   "Item":"AP Boost",
+   "Notes":"on the left path of the fork"
+},
+{  
+   "Id":112,
+   "World":"Olympus Coliseum",
+   "Area":"Cave of the Dead: Passage",
+   "ChestNumber":6,
+   "Item":"Hi-Potion",
+   "Notes":"on the right path of the fork"
+},
+{  
+   "Id":113,
+   "World":"Olympus Coliseum",
+   "Area":"Cave of the Dead: Inner Chamber",
+   "ChestNumber":7,
+   "Item":"Underworld Map",
+   "Notes":"near the save point"
+},
+{  
+   "Id":114,
+   "World":"Olympus Coliseum",
+   "Area":"Cave of the Dead: Inner Chamber",
+   "ChestNumber":8,
+   "Item":"Mythril Shard",
+   "Notes":"near the Passage doorway"
+},
+{  
+   "Id":115,
+   "World":"Olympus Coliseum",
+   "Area":"Underworld Cavern: Entrance. on the left",
+   "ChestNumber":9,
+   "Item":"Lucid Shard",
+   "Notes":"up the stairs"
+},
+{  
+   "Id":116,
+   "World":"Olympus Coliseum",
+   "Area":"Underworld Cavern: Entrance",
+   "ChestNumber":10,
+   "Item":"AP Boost",
+   "Notes":"on the left"
+},
+{  
+   "Id":117,
+   "World":"Olympus Coliseum",
+   "Area":"Underworld Cavern: Entrance",
+   "ChestNumber":11,
+   "Item":"Mythril Shard",
+   "Notes":"drop down onto a ledge"
+},
+{  
+   "Id":118,
+   "World":"Olympus Coliseum",
+   "Area":"Underworld Cavern: The Lost Road",
+   "ChestNumber":12,
+   "Item":"Bright Shard",
+   "Notes":"left path"
+},
+{  
+   "Id":119,
+   "World":"Olympus Coliseum",
+   "Area":"Underworld Cavern: The Lost Road",
+   "ChestNumber":13,
+   "Item":"Ether",
+   "Notes":"in plain sight on the right"
+},
+{  
+   "Id":120,
+   "World":"Olympus Coliseum",
+   "Area":"Underworld Cavern: The Lost Road",
+   "ChestNumber":14,
+   "Item":"Mythril Shard",
+   "Notes":"towards Atrium right path"
+},
+{  
+   "Id":121,
+   "World":"Olympus Coliseum",
+   "Area":"Underworld Cavern: The Lost Road",
+   "ChestNumber":15,
+   "Item":"Mythril Stone",
+   "Notes":"left path"
+},
+{  
+   "Id":122,
+   "World":"Olympus Coliseum",
+   "Area":"Underworld Cavern: Atrium",
+   "ChestNumber":16,
+   "Item":"Lucid Stone",
+   "Notes":"on the right"
+},
+{  
+   "Id":123,
+   "World":"Olympus Coliseum",
+   "Area":"Underworld Cavern: Atrium",
+   "ChestNumber":17,
+   "Item":"AP Boost",
+   "Notes":"next to the stairs on a ledge"
+},
+{  
+   "Id":124,
+   "World":"Olympus Coliseum",
+   "Area":"The Lock",
+   "ChestNumber":18,
+   "Item":"Caverns Map",
+   "Notes":"to the right"
+},
+{  
+   "Id":125,
+   "World":"Olympus Coliseum",
+   "Area":"The Lock",
+   "ChestNumber":19,
+   "Item":"Mythril Shard",
+   "Notes":"to the right"
+},
+{  
+   "Id":126,
+   "World":"Olympus Coliseum",
+   "Area":"The Lock",
+   "ChestNumber":20,
+   "Item":"AP Boost",
+   "Notes":"to the left"
+},
+{  
+   "Id":127,
+   "World":"Agrabah",
+   "Area":"Agrabah",
+   "ChestNumber":1,
+   "Item":"Dark Shard",
+   "Notes":"in plain sight"
+},
+{  
+   "Id":128,
+   "World":"Agrabah",
+   "Area":"Agrabah",
+   "ChestNumber":2,
+   "Item":"Mythril Shard",
+   "Notes":"on ledge to the right"
+},
+{  
+   "Id":129,
+   "World":"Agrabah",
+   "Area":"Agrabah",
+   "ChestNumber":3,
+   "Item":"Hi-Potion",
+   "Notes":"down the stairs to the left"
+},
+{  
+   "Id":130,
+   "World":"Agrabah",
+   "Area":"Agrabah",
+   "ChestNumber":4,
+   "Item":"AP Boost",
+   "Notes":"in the gap in the wall"
+},
+{  
+   "Id":131,
+   "World":"Agrabah",
+   "Area":"Agrabah",
+   "ChestNumber":5,
+   "Item":"Mythril Stone",
+   "Notes":"on ledge to the left"
+},
+{  
+   "Id":132,
+   "World":"Agrabah",
+   "Area":"Agrabah",
+   "ChestNumber":6,
+   "Item":"Mythril Shard",
+   "Notes":"down the stairs to the right"
+},
+{  
+   "Id":133,
+   "World":"Agrabah",
+   "Area":"Agrabah",
+   "ChestNumber":7,
+   "Item":"Serenity Shard",
+   "Notes":"on a ledge"
+},
+{  
+   "Id":134,
+   "World":"Agrabah",
+   "Area":"Bazaar",
+   "ChestNumber":8,
+   "Item":"Mythril Gem",
+   "Notes":"on top of stairs"
+},
+{  
+   "Id":135,
+   "World":"Agrabah",
+   "Area":"Bazaar",
+   "ChestNumber":9,
+   "Item":"Power Shard",
+   "Notes":"bottom of the staircase"
+},
+{  
+   "Id":136,
+   "World":"Agrabah",
+   "Area":"Bazaar",
+   "ChestNumber":10,
+   "Item":"Hi-Potion",
+   "Notes":"among booths"
+},
+{  
+   "Id":137,
+   "World":"Agrabah",
+   "Area":"Bazaar",
+   "ChestNumber":11,
+   "Item":"AP Boost",
+   "Notes":"among booths"
+},
+{  
+   "Id":138,
+   "World":"Agrabah",
+   "Area":"Bazaar",
+   "ChestNumber":12,
+   "Item":"Mythril Shard",
+   "Notes":"among booths"
+},
+{  
+   "Id":139,
+   "World":"Agrabah",
+   "Area":"Palace Walls",
+   "ChestNumber":13,
+   "Item":"Skill Ring",
+   "Notes":"near the desert path"
+},
+{  
+   "Id":140,
+   "World":"Agrabah",
+   "Area":"Palace Walls",
+   "ChestNumber":14,
+   "Item":"Mythril Stone",
+   "Notes":"on a block"
+},
+{  
+   "Id":141,
+   "World":"Agrabah",
+   "Area":"Cave of Wonders: Entrance",
+   "ChestNumber":15,
+   "Item":"Power Stone",
+   "Notes":"behind the actual Cave of Wonders entrance"
+},
+{  
+   "Id":142,
+   "World":"Agrabah",
+   "Area":"Cave of Wonders: Entrance",
+   "ChestNumber":16,
+   "Item":"Mythril Shard",
+   "Notes":"to the right"
+},
+{  
+   "Id":143,
+   "World":"Agrabah",
+   "Area":"Cave of Wonders: Valley of Stone",
+   "ChestNumber":17,
+   "Item":"Mythril Stone",
+   "Notes":"right side on a platform"
+},
+{  
+   "Id":144,
+   "World":"Agrabah",
+   "Area":"Cave of Wonders: Valley of Stone",
+   "ChestNumber":18,
+   "Item":"AP Boost",
+   "Notes":"left side on a platform"
+},
+{  
+   "Id":145,
+   "World":"Agrabah",
+   "Area":"Cave of Wonders: Valley of Stone",
+   "ChestNumber":19,
+   "Item":"Mythril Shard",
+   "Notes":"left side on a platform"
+},
+{  
+   "Id":146,
+   "World":"Agrabah",
+   "Area":"Cave of Wonders: Valley of Stone",
+   "ChestNumber":20,
+   "Item":"Hi-Potion",
+   "Notes":"right side on a platform"
+},
+{  
+   "Id":147,
+   "World":"Agrabah",
+   "Area":"Cave of Wonders: Chasm of Challenges",
+   "ChestNumber":21,
+   "Item":"Cave of Wonders Map",
+   "Notes":"near the transporter"
+},
+{  
+   "Id":148,
+   "World":"Agrabah",
+   "Area":"Cave of Wonders: Chasm of Challenges",
+   "ChestNumber":22,
+   "Item":"AP Boost",
+   "Notes":"near the save point"
+},
+{  
+   "Id":149,
+   "World":"Agrabah",
+   "Area":"Cave of Wonders: Treasure Room",
+   "ChestNumber":23,
+   "Item":"AP Boost",
+   "Notes":"left side near wall"
+},
+{  
+   "Id":150,
+   "World":"Agrabah",
+   "Area":"Cave of Wonders: Treasure Room",
+   "ChestNumber":24,
+   "Item":"Serenity Shard",
+   "Notes":"near gold piles"
+},
+{  
+   "Id":151,
+   "World":"Agrabah",
+   "Area":"Ruined Chamber",
+   "ChestNumber":25,
+   "Item":"Torn Pages",
+   "Notes":"near the stairs"
+},
+{  
+   "Id":152,
+   "World":"Agrabah",
+   "Area":"Ruined Chamber",
+   "ChestNumber":26,
+   "Item":"Ruins Map",
+   "Notes":"near save point"
+},
+{  
+   "Id":153,
+   "World":"The Land of Dragons",
+   "Area":"Bamboo Grove",
+   "ChestNumber":1,
+   "Item":"Dark Shard",
+   "Notes":"to the right of large rock"
+},
+{  
+   "Id":154,
+   "World":"The Land of Dragons",
+   "Area":"Bamboo Grove",
+   "ChestNumber":2,
+   "Item":"Ether",
+   "Notes":"to the left"
+},
+{  
+   "Id":155,
+   "World":"The Land of Dragons",
+   "Area":"Bamboo Grove",
+   "ChestNumber":3,
+   "Item":"Mythril Shard",
+   "Notes":"to the left"
+},
+{  
+   "Id":156,
+   "World":"The Land of Dragons",
+   "Area":"Checkpoint",
+   "ChestNumber":4,
+   "Item":"Hi-Potion",
+   "Notes":"near rocks across from stream"
+},
+{  
+   "Id":157,
+   "World":"The Land of Dragons",
+   "Area":"Checkpoint",
+   "ChestNumber":5,
+   "Item":"Mythril Shard",
+   "Notes":"near wagon"
+},
+{  
+   "Id":158,
+   "World":"The Land of Dragons",
+   "Area":"Mountain Trail",
+   "ChestNumber":6,
+   "Item":"Lightning Shard",
+   "Notes":"edge of the cliff"
+},
+{  
+   "Id":159,
+   "World":"The Land of Dragons",
+   "Area":"Mountain Trail",
+   "ChestNumber":7,
+   "Item":"Recovery Recipe",
+   "Notes":"uppermost platform"
+},
+{  
+   "Id":160,
+   "World":"The Land of Dragons",
+   "Area":"Mountain Trail",
+   "ChestNumber":8,
+   "Item":"Ether",
+   "Notes":"uppermost platform"
+},
+{  
+   "Id":161,
+   "World":"The Land of Dragons",
+   "Area":"Mountain Trail",
+   "ChestNumber":9,
+   "Item":"Mythril Shard",
+   "Notes":"on a ledge near the path leading to the Village"
+},
+{  
+   "Id":162,
+   "World":"The Land of Dragons",
+   "Area":"Village Cave",
+   "ChestNumber":10,
+   "Item":"AP Boost",
+   "Notes":"behind the small wagon"
+},
+{  
+   "Id":163,
+   "World":"The Land of Dragons",
+   "Area":"Village Cave",
+   "ChestNumber":11,
+   "Item":"Dark Shard",
+   "Notes":"in plain sight"
+},
+{  
+   "Id":164,
+   "World":"The Land of Dragons",
+   "Area":"Ridge",
+   "ChestNumber":12,
+   "Item":"Frost Shard",
+   "Notes":"edge of cliff"
+},
+{  
+   "Id":165,
+   "World":"The Land of Dragons",
+   "Area":"Ridge",
+   "ChestNumber":13,
+   "Item":"AP Boost",
+   "Notes":"near the rockets and wagon"
+},
+{  
+   "Id":166,
+   "World":"The Land of Dragons",
+   "Area":"Throne Room",
+   "ChestNumber":14,
+   "Item":"Torn Pages",
+   "Notes":"on ledge behind throne"
+},
+{  
+   "Id":167,
+   "World":"The Land of Dragons",
+   "Area":"Throne Room",
+   "ChestNumber":15,
+   "Item":"Palace Map",
+   "Notes":"on ledge behind throne"
+},
+{  
+   "Id":168,
+   "World":"The Land of Dragons",
+   "Area":"Throne Room",
+   "ChestNumber":16,
+   "Item":"AP Boost",
+   "Notes":"on the side of staircases on the left"
+},
+{  
+   "Id":169,
+   "World":"The Land of Dragons",
+   "Area":"Throne Room",
+   "ChestNumber":17,
+   "Item":"Queen Recipe",
+   "Notes":"down stairs to the right"
+},
+{  
+   "Id":170,
+   "World":"The Land of Dragons",
+   "Area":"Throne Room",
+   "ChestNumber":18,
+   "Item":"AP Boost",
+   "Notes":"on the side of staircases on the right"
+},
+{  
+   "Id":171,
+   "World":"The Land of Dragons",
+   "Area":"Throne Room",
+   "ChestNumber":19,
+   "Item":"Ogre Shield",
+   "Notes":"down stairs to the right"
+},
+{  
+   "Id":172,
+   "World":"The Land of Dragons",
+   "Area":"Throne Room",
+   "ChestNumber":20,
+   "Item":"Mythril Crystal",
+   "Notes":"on ledge behind throne"
+},
+{  
+   "Id":173,
+   "World":"The Land of Dragons",
+   "Area":"Throne Room",
+   "ChestNumber":21,
+   "Item":"Orichalcum",
+   "Notes":"on ledge behind throne"
+},
+{  
+   "Id":174,
+   "World":"100 Acre Wood",
+   "Area":"Pooh Bear’s House",
+   "ChestNumber":1,
+   "Item":"100 Acre Wood Map",
+   "Notes":"inside house"
+},
+{  
+   "Id":175,
+   "World":"100 Acre Wood",
+   "Area":"Pooh Bear’s House",
+   "ChestNumber":2,
+   "Item":"AP Boost",
+   "Notes":"inside house"
+},
+{  
+   "Id":176,
+   "World":"100 Acre Wood",
+   "Area":"Pooh Bear’s House",
+   "ChestNumber":3,
+   "Item":"Mythril Stone",
+   "Notes":"inside house"
+},
+{  
+   "Id":177,
+   "World":"100 Acre Wood",
+   "Area":"Piglet’s House",
+   "ChestNumber":4,
+   "Item":"Defense Boost",
+   "Notes":"on a tree stump"
+},
+{  
+   "Id":178,
+   "World":"100 Acre Wood",
+   "Area":"Piglet’s House",
+   "ChestNumber":5,
+   "Item":"AP Boost",
+   "Notes":"on left side of house"
+},
+{  
+   "Id":179,
+   "World":"100 Acre Wood",
+   "Area":"Piglet’s House",
+   "ChestNumber":6,
+   "Item":"Mythril Gem",
+   "Notes":"in front of tree stump"
+},
+{  
+   "Id":180,
+   "World":"100 Acre Wood",
+   "Area":"Rabbit’s House",
+   "ChestNumber":7,
+   "Item":"Draw Ring",
+   "Notes":"behind clothesline"
+},
+{  
+   "Id":181,
+   "World":"100 Acre Wood",
+   "Area":"Rabbit’s House",
+   "ChestNumber":8,
+   "Item":"Mythril Crystal",
+   "Notes":"near fence"
+},
+{  
+   "Id":182,
+   "World":"100 Acre Wood",
+   "Area":"Rabbit’s House",
+   "ChestNumber":9,
+   "Item":"AP Boost",
+   "Notes":"in pumpkin patch"
+},
+{  
+   "Id":183,
+   "World":"100 Acre Wood",
+   "Area":"Kanga’s House",
+   "ChestNumber":10,
+   "Item":"Magic Boost",
+   "Notes":"left side of house"
+},
+{  
+   "Id":184,
+   "World":"100 Acre Wood",
+   "Area":"Kanga’s House",
+   "ChestNumber":11,
+   "Item":"AP Boost",
+   "Notes":"near edge of fence"
+},
+{  
+   "Id":185,
+   "World":"100 Acre Wood",
+   "Area":"Kanga’s House",
+   "ChestNumber":12,
+   "Item":"Orichalcum",
+   "Notes":"right side of house"
+},
+{  
+   "Id":186,
+   "World":"100 Acre Wood",
+   "Area":"The Spookey Cave",
+   "ChestNumber":13,
+   "Item":"Mythril Gem",
+   "Notes":"on left across the ice"
+},
+{  
+   "Id":187,
+   "World":"100 Acre Wood",
+   "Area":"The Spookey Cave",
+   "ChestNumber":14,
+   "Item":"AP Boost",
+   "Notes":"crystal room end of left path"
+},
+{  
+   "Id":188,
+   "World":"100 Acre Wood",
+   "Area":"The Spookey Cave",
+   "ChestNumber":15,
+   "Item":"Orichalcum",
+   "Notes":"crystal room end of right path"
+},
+{  
+   "Id":189,
+   "World":"100 Acre Wood",
+   "Area":"The Spookey Cave",
+   "ChestNumber":16,
+   "Item":"Guard Recipe",
+   "Notes":"crystal room third opening from the right"
+},
+{  
+   "Id":190,
+   "World":"100 Acre Wood",
+   "Area":"The Spookey Cave",
+   "ChestNumber":17,
+   "Item":"Mythril Crystal",
+   "Notes":"crystal room third opening from the right"
+},
+{  
+   "Id":191,
+   "World":"100 Acre Wood",
+   "Area":"The Spookey Cave",
+   "ChestNumber":18,
+   "Item":"AP Boost",
+   "Notes":"crystal room second path from the right"
+},
+{  
+   "Id":192,
+   "World":"100 Acre Wood",
+   "Area":"Starry Hill",
+   "ChestNumber":19,
+   "Item":"Cosmic Ring",
+   "Notes":"near bushes on the left"
+},
+{  
+   "Id":193,
+   "World":"100 Acre Wood",
+   "Area":"Starry Hill",
+   "ChestNumber":20,
+   "Item":"Style Recipe",
+   "Notes":"near bushes upper right"
+},
+{  
+   "Id":194,
+   "World":"Pride Lands",
+   "Area":"Gorge",
+   "ChestNumber":1,
+   "Item":"Savannah Map",
+   "Notes":"to the right"
+},
+{  
+   "Id":195,
+   "World":"Pride Lands",
+   "Area":"Gorge",
+   "ChestNumber":2,
+   "Item":"Dark Gem",
+   "Notes":"to the right"
+},
+{  
+   "Id":196,
+   "World":"Pride Lands",
+   "Area":"Gorge",
+   "ChestNumber":3,
+   "Item":"Mythril Stone",
+   "Notes":"to the left"
+},
+{  
+   "Id":197,
+   "World":"Pride Lands",
+   "Area":"Elephant Graveyard",
+   "ChestNumber":4,
+   "Item":"Frost Gem",
+   "Notes":"on left near wall"
+},
+{  
+   "Id":198,
+   "World":"Pride Lands",
+   "Area":"Elephant Graveyard",
+   "ChestNumber":5,
+   "Item":"Mythril Stone",
+   "Notes":"on a ledge to the right"
+},
+{  
+   "Id":199,
+   "World":"Pride Lands",
+   "Area":"Elephant Graveyard",
+   "ChestNumber":6,
+   "Item":"Bright Stone",
+   "Notes":"near exit of area"
+},
+{  
+   "Id":200,
+   "World":"Pride Lands",
+   "Area":"Elephant Graveyard",
+   "ChestNumber":7,
+   "Item":"AP Boost",
+   "Notes":"behind you to the left"
+},
+{  
+   "Id":201,
+   "World":"Pride Lands",
+   "Area":"Elephant Graveyard",
+   "ChestNumber":8,
+   "Item":"Mythril Shard",
+   "Notes":"jump off ledge to the right"
+},
+{  
+   "Id":202,
+   "World":"Pride Lands",
+   "Area":"Pride Rock",
+   "ChestNumber":9,
+   "Item":"Pride Rock Map",
+   "Notes":"edge of the ledge in front of Pride Rock"
+},
+{  
+   "Id":203,
+   "World":"Pride Lands",
+   "Area":"Pride Rock",
+   "ChestNumber":10,
+   "Item":"Mythril Stone",
+   "Notes":"under Pride Rock"
+},
+{  
+   "Id":204,
+   "World":"Pride Lands",
+   "Area":"Pride Rock",
+   "ChestNumber":11,
+   "Item":"Serenity Crystal",
+   "Notes":"near a wall in the distance"
+},
+{  
+   "Id":205,
+   "World":"Pride Lands",
+   "Area":"Wildebeest Valley",
+   "ChestNumber":12,
+   "Item":"Energy Stone",
+   "Notes":"between two rocks"
+},
+{  
+   "Id":206,
+   "World":"Pride Lands",
+   "Area":"Wildebeest Valley",
+   "ChestNumber":13,
+   "Item":"AP Boost",
+   "Notes":"in front of a rock"
+},
+{  
+   "Id":207,
+   "World":"Pride Lands",
+   "Area":"Wildebeest Valley",
+   "ChestNumber":14,
+   "Item":"Mythril Gem",
+   "Notes":"behind rocks to the left"
+},
+{  
+   "Id":208,
+   "World":"Pride Lands",
+   "Area":"Wildebeest Valley",
+   "ChestNumber":15,
+   "Item":"Mythril Stone",
+   "Notes":"behind rocks"
+},
+{  
+   "Id":209,
+   "World":"Pride Lands",
+   "Area":"Wildebeest Valley",
+   "ChestNumber":16,
+   "Item":"Lucid Gem",
+   "Notes":"near the tree"
+},
+{  
+   "Id":210,
+   "World":"Pride Lands",
+   "Area":"Wastelands",
+   "ChestNumber":17,
+   "Item":"Mythril Shard",
+   "Notes":"around the curved path to the left"
+},
+{  
+   "Id":211,
+   "World":"Pride Lands",
+   "Area":"Wastelands",
+   "ChestNumber":18,
+   "Item":"Serenity Gem",
+   "Notes":"around the curved path to the right"
+},
+{  
+   "Id":212,
+   "World":"Pride Lands",
+   "Area":"Wastelands",
+   "ChestNumber":19,
+   "Item":"Mythril Stone",
+   "Notes":"around the curved path to the left"
+},
+{  
+   "Id":213,
+   "World":"Pride Lands",
+   "Area":"Jungle",
+   "ChestNumber":20,
+   "Item":"Serenity Gem",
+   "Notes":"near the ant hills"
+},
+{  
+   "Id":214,
+   "World":"Pride Lands",
+   "Area":"Jungle",
+   "ChestNumber":21,
+   "Item":"Mythril Stone",
+   "Notes":"past the ant hills near a tree"
+},
+{  
+   "Id":215,
+   "World":"Pride Lands",
+   "Area":"Jungle",
+   "ChestNumber":22,
+   "Item":"Serenity Crystal",
+   "Notes":"in plain sight on the right"
+},
+{  
+   "Id":216,
+   "World":"Pride Lands",
+   "Area":"Oasis",
+   "ChestNumber":23,
+   "Item":"Oasis Map",
+   "Notes":"edge of the cliff to the right"
+},
+{  
+   "Id":217,
+   "World":"Pride Lands",
+   "Area":"Oasis",
+   "ChestNumber":24,
+   "Item":"Torn Pages",
+   "Notes":"near a tree"
+},
+{  
+   "Id":218,
+   "World":"Pride Lands",
+   "Area":"Oasis",
+   "ChestNumber":25,
+   "Item":"AP Boost",
+   "Notes":"on the side of the waterfall"
+},
+{  
+   "Id":219,
+   "World":"Disney Castle",
+   "Area":"Courtyard",
+   "ChestNumber":1,
+   "Item":"Mythril Shard",
+   "Notes":"on a ledge near the French Horn shrub player"
+},
+{  
+   "Id":220,
+   "World":"Disney Castle",
+   "Area":"Courtyard",
+   "ChestNumber":2,
+   "Item":"Star Recipe",
+   "Notes":"highest rampart of Castle shrub"
+},
+{  
+   "Id":221,
+   "World":"Disney Castle",
+   "Area":"Courtyard",
+   "ChestNumber":3,
+   "Item":"AP Boost",
+   "Notes":"in a corner near the Cymbals shrub player"
+},
+{  
+   "Id":222,
+   "World":"Disney Castle",
+   "Area":"Courtyard",
+   "ChestNumber":4,
+   "Item":"Mythril Stone",
+   "Notes":"ledge near the Trumpet shrub player"
+},
+{  
+   "Id":223,
+   "World":"Disney Castle",
+   "Area":"Courtyard",
+   "ChestNumber":5,
+   "Item":"Blazing Stone",
+   "Notes":"ledge near Flute shrub player"
+},
+{  
+   "Id":224,
+   "World":"Disney Castle",
+   "Area":"Courtyard",
+   "ChestNumber":6,
+   "Item":"Blazing Shard",
+   "Notes":"right side of Castle shrub"
+},
+{  
+   "Id":225,
+   "World":"Disney Castle",
+   "Area":"Courtyard",
+   "ChestNumber":7,
+   "Item":"Mythril Shard",
+   "Notes":"ledge near Trombone shrub player"
+},
+{  
+   "Id":226,
+   "World":"Disney Castle",
+   "Area":"Library",
+   "ChestNumber":8,
+   "Item":"Torn Pages",
+   "Notes":"in plain sight on the right"
+},
+{  
+   "Id":227,
+   "World":"Timeless River",
+   "Area":"Cornerstone Hill",
+   "ChestNumber":1,
+   "Item":"Cornerstone Hill Map",
+   "Notes":"big ledge near the door"
+},
+{  
+   "Id":228,
+   "World":"Timeless River",
+   "Area":"Cornerstone Hill",
+   "ChestNumber":2,
+   "Item":"Frost Shard",
+   "Notes":"big ledge near the Wharf path"
+},
+{  
+   "Id":229,
+   "World":"Timeless River",
+   "Area":"Pier",
+   "ChestNumber":3,
+   "Item":"Mythril Shard",
+   "Notes":"under a tree to the left"
+},
+{  
+   "Id":230,
+   "World":"Timeless River",
+   "Area":"Pier",
+   "ChestNumber":4,
+   "Item":"Hi-Potion",
+   "Notes":"under a tree to the right"
+},
+{  
+   "Id":231,
+   "World":"Timeless River",
+   "Area":"Waterway",
+   "ChestNumber":5,
+   "Item":"Mythril Stone",
+   "Notes":"near a wall to the left"
+},
+{  
+   "Id":232,
+   "World":"Timeless River",
+   "Area":"Waterway",
+   "ChestNumber":6,
+   "Item":"AP Boost",
+   "Notes":"end of the left path"
+},
+{  
+   "Id":233,
+   "World":"Timeless River",
+   "Area":"Waterway",
+   "ChestNumber":7,
+   "Item":"Frost Stone",
+   "Notes":"right path near the windmill"
+},
+{  
+   "Id":234,
+   "World":"Halloween Town",
+   "Area":"Graveyard",
+   "ChestNumber":1,
+   "Item":"Mythril Shard",
+   "Notes":"on the right near the cross tombstone"
+},
+{  
+   "Id":235,
+   "World":"Halloween Town",
+   "Area":"Graveyard",
+   "ChestNumber":2,
+   "Item":"Serenity Gem",
+   "Notes":"to the left near the chained gate"
+},
+{  
+   "Id":236,
+   "World":"Halloween Town",
+   "Area":"Dr. Finkelstein’s Lab",
+   "ChestNumber":3,
+   "Item":"Halloween Town Map",
+   "Notes":"to the left of the big book"
+},
+{  
+   "Id":237,
+   "World":"Halloween Town",
+   "Area":"Town Square",
+   "ChestNumber":4,
+   "Item":"Mythril Stone",
+   "Notes":"to the right of the opening and closing gate"
+},
+{  
+   "Id":238,
+   "World":"Halloween Town",
+   "Area":"Town Square",
+   "ChestNumber":5,
+   "Item":"Energy Shard",
+   "Notes":"near the guillotine"
+},
+{  
+   "Id":239,
+   "World":"Halloween Town",
+   "Area":"Hinterlands",
+   "ChestNumber":6,
+   "Item":"Lightning Shard",
+   "Notes":"upper left area"
+},
+{  
+   "Id":240,
+   "World":"Halloween Town",
+   "Area":"Hinterlands",
+   "ChestNumber":7,
+   "Item":"Mythril Stone",
+   "Notes":"on the left side"
+},
+{  
+   "Id":241,
+   "World":"Halloween Town",
+   "Area":"Hinterlands",
+   "ChestNumber":8,
+   "Item":"AP Boost",
+   "Notes":"right side behind a tree"
+},
+{  
+   "Id":242,
+   "World":"Halloween Town",
+   "Area":"Candy Cane Lane",
+   "ChestNumber":9,
+   "Item":"Mega-Potion",
+   "Notes":"near the house on the right of Santa’s house"
+},
+{  
+   "Id":243,
+   "World":"Halloween Town",
+   "Area":"Candy Cane Lane",
+   "ChestNumber":10,
+   "Item":"Mythril Gem",
+   "Notes":"near the house to the right of the Yuletide Hill path"
+},
+{  
+   "Id":244,
+   "World":"Halloween Town",
+   "Area":"Candy Cane Lane",
+   "ChestNumber":11,
+   "Item":"Lightning Stone",
+   "Notes":"to the right of the gates"
+},
+{  
+   "Id":245,
+   "World":"Halloween Town",
+   "Area":"Candy Cane Lane",
+   "ChestNumber":12,
+   "Item":"Mythril Stone",
+   "Notes":"to the right of Santa’s house doors"
+},
+{  
+   "Id":246,
+   "World":"Halloween Town",
+   "Area":"Santa’s House",
+   "ChestNumber":13,
+   "Item":"Christmas Town Map",
+   "Notes":"on the counter"
+},
+{  
+   "Id":247,
+   "World":"Halloween Town",
+   "Area":"Santa’s House",
+   "ChestNumber":14,
+   "Item":"AP Boost",
+   "Notes":"next to the counter near the save point"
+},
+{  
+   "Id":248,
+   "World":"Port Royal",
+   "Area":"Rampart",
+   "ChestNumber":1,
+   "Item":"Naval Map",
+   "Notes":"in plain sight in the corner"
+},
+{  
+   "Id":249,
+   "World":"Port Royal",
+   "Area":"Rampart",
+   "ChestNumber":2,
+   "Item":"Mythril Stone",
+   "Notes":"around the second corner on the right"
+},
+{  
+   "Id":250,
+   "World":"Port Royal",
+   "Area":"Rampart",
+   "ChestNumber":3,
+   "Item":"Dark Shard",
+   "Notes":"around the corner on the right"
+},
+{  
+   "Id":251,
+   "World":"Port Royal",
+   "Area":"Town",
+   "ChestNumber":4,
+   "Item":"Dark Stone",
+   "Notes":"destroy boxes, go down an alley"
+},
+{  
+   "Id":252,
+   "World":"Port Royal",
+   "Area":"Town",
+   "ChestNumber":5,
+   "Item":"AP Boost",
+   "Notes":"towards the Rampart area, destroy boxes on the right and go through that hole in the alley"
+},
+{  
+   "Id":253,
+   "World":"Port Royal",
+   "Area":"Town",
+   "ChestNumber":6,
+   "Item":"Mythril Shard",
+   "Notes":"building near Rampart entry to the left"
+},
+{  
+   "Id":254,
+   "World":"Port Royal",
+   "Area":"Town",
+   "ChestNumber":7,
+   "Item":"Mythril Gem",
+   "Notes":"next to #4, destroy boxes"
+},
+{  
+   "Id":255,
+   "World":"Port Royal",
+   "Area":"Isle de Muerta: Cave Mouth",
+   "ChestNumber":8,
+   "Item":"Bright Shard",
+   "Notes":"to the left on the edge of the ledge"
+},
+{  
+   "Id":256,
+   "World":"Port Royal",
+   "Area":"Isle de Muerta: Cave Mouth",
+   "ChestNumber":9,
+   "Item":"Mythril Shard",
+   "Notes":"to the left farther along the edge"
+},
+{  
+   "Id":257,
+   "World":"Port Royal",
+   "Area":"Isle de Muerta: Powder Store",
+   "ChestNumber":10,
+   "Item":"AP Boost",
+   "Notes":"inside the gap of the cave near the path leading to Moonlight Nook"
+},
+{  
+   "Id":258,
+   "World":"Port Royal",
+   "Area":"Isle de Muerta: Powder Store",
+   "ChestNumber":11,
+   "Item":"AP Boost",
+   "Notes":"behind the boxes to the left where a pirate explodes from"
+},
+{  
+   "Id":259,
+   "World":"Port Royal",
+   "Area":"Isle de Muerta: Moonlight Nook",
+   "ChestNumber":12,
+   "Item":"Mythril Shard",
+   "Notes":"to the right"
+},
+{  
+   "Id":260,
+   "World":"Port Royal",
+   "Area":"Isle de Muerta: Moonlight Nook",
+   "ChestNumber":13,
+   "Item":"Serenity Gem",
+   "Notes":"to the right"
+},
+{  
+   "Id":261,
+   "World":"Port Royal",
+   "Area":"Isle de Muerta: Moonlight Nook",
+   "ChestNumber":14,
+   "Item":"Power Stone",
+   "Notes":"near the stairs"
+},
+{  
+   "Id":262,
+   "World":"Port Royal",
+   "Area":"Ship Graveyard: The Interceptor’s Hold",
+   "ChestNumber":15,
+   "Item":"Feather Charm",
+   "Notes":"near the save point"
+},
+{  
+   "Id":263,
+   "World":"Port Royal",
+   "Area":"Ship Graveyard: Seadrift Keep",
+   "ChestNumber":16,
+   "Item":"AP Boost",
+   "Notes":"down the right ramp under the path leading to the Black Pearl"
+},
+{  
+   "Id":264,
+   "World":"Port Royal",
+   "Area":"Ship Graveyard: Seadrift Keep",
+   "ChestNumber":17,
+   "Item":"Orichalcum",
+   "Notes":"towards the upper left path"
+},
+{  
+   "Id":265,
+   "World":"Port Royal",
+   "Area":"Ship Graveyard: Seadrift Keep",
+   "ChestNumber":18,
+   "Item":"Meteor Staff",
+   "Notes":"to the left"
+},
+{  
+   "Id":266,
+   "World":"Port Royal",
+   "Area":"Ship Graveyard: Seadrift Row",
+   "ChestNumber":19,
+   "Item":"Serenity Gem",
+   "Notes":"to the right before the bridge"
+},
+{  
+   "Id":267,
+   "World":"Port Royal",
+   "Area":"Ship Graveyard: Seadrift Row",
+   "ChestNumber":20,
+   "Item":"King Recipe",
+   "Notes":"across the bridge to the right"
+},
+{  
+   "Id":268,
+   "World":"Port Royal",
+   "Area":"Ship Graveyard: Seadrift Row",
+   "ChestNumber":21,
+   "Item":"Mythril Crystal",
+   "Notes":"across the bridge and further down on the left"
+},
+{  
+   "Id":269,
+   "World":"Space Paranoids",
+   "Area":"Pit Cell",
+   "ChestNumber":1,
+   "Item":"Pit Cell Map",
+   "Notes":"in plain sight"
+},
+{  
+   "Id":270,
+   "World":"Space Paranoids",
+   "Area":"Pit Cell",
+   "ChestNumber":2,
+   "Item":"Mythril Crystal",
+   "Notes":"in plain sight to the right"
+},
+{  
+   "Id":271,
+   "World":"Space Paranoids",
+   "Area":"Canyon",
+   "ChestNumber":3,
+   "Item":"Dark Crystal",
+   "Notes":"up the ramp ahead"
+},
+{  
+   "Id":272,
+   "World":"Space Paranoids",
+   "Area":"Canyon",
+   "ChestNumber":4,
+   "Item":"Mythril Stone",
+   "Notes":"up the ramp on the right"
+},
+{  
+   "Id":273,
+   "World":"Space Paranoids",
+   "Area":"Canyon",
+   "ChestNumber":5,
+   "Item":"Mythril Gem",
+   "Notes":"over the walkway and to the left"
+},
+{  
+   "Id":274,
+   "World":"Space Paranoids",
+   "Area":"Canyon",
+   "ChestNumber":6,
+   "Item":"Frost Crystal",
+   "Notes":"in plain sight to the left of the doorway"
+},
+{  
+   "Id":275,
+   "World":"Space Paranoids",
+   "Area":"I/O Tower Hallway",
+   "ChestNumber":7,
+   "Item":"Power Crystal",
+   "Notes":"in plain sight near a wall"
+},
+{  
+   "Id":276,
+   "World":"Space Paranoids",
+   "Area":"I/O Tower Hallway",
+   "ChestNumber":8,
+   "Item":"AP Boost",
+   "Notes":"in plain sight near a wall"
+},
+{  
+   "Id":277,
+   "World":"Space Paranoids",
+   "Area":"I/O Tower Communications Room",
+   "ChestNumber":9,
+   "Item":"I/O Tower Map",
+   "Notes":"to the left"
+},
+{  
+   "Id":278,
+   "World":"Space Paranoids",
+   "Area":"I/O Tower Communications Room",
+   "ChestNumber":10,
+   "Item":"Gaia Belt",
+   "Notes":"to the right"
+},
+{  
+   "Id":279,
+   "World":"Space Paranoids",
+   "Area":"Central Computer Mesa",
+   "ChestNumber":11,
+   "Item":"AP Boost",
+   "Notes":"after using the Solar Sailor, on the left"
+},
+{  
+   "Id":280,
+   "World":"Space Paranoids",
+   "Area":"Central Computer Mesa",
+   "ChestNumber":12,
+   "Item":"Orichalcum+",
+   "Notes":"after using the Solar Sailor, on the right"
+},
+{  
+   "Id":281,
+   "World":"Space Paranoids",
+   "Area":"Central Computer Mesa",
+   "ChestNumber":13,
+   "Item":"Cosmic Arts",
+   "Notes":"after using the Solar Sailor, on the left"
+},
+{  
+   "Id":282,
+   "World":"Space Paranoids",
+   "Area":"Central Computer Mesa",
+   "ChestNumber":14,
+   "Item":"Central Computer Core Map",
+   "Notes":"after using the Solar Sailor, on the right"
+},
+{  
+   "Id":283,
+   "World":"The World That Never Was",
+   "Area":"Fragment Crossing",
+   "ChestNumber":1,
+   "Item":"Mythril Stone",
+   "Notes":"around the building, in the corner to the left"
+},
+{  
+   "Id":284,
+   "World":"The World That Never Was",
+   "Area":"Fragment Crossing",
+   "ChestNumber":2,
+   "Item":"Mythril Crystal",
+   "Notes":"around the building, in the corner further left"
+},
+{  
+   "Id":285,
+   "World":"The World That Never Was",
+   "Area":"Fragment Crossing",
+   "ChestNumber":3,
+   "Item":"AP Boost",
+   "Notes":"in the area with purple ground in the corner near pipes"
+},
+{  
+   "Id":286,
+   "World":"The World That Never Was",
+   "Area":"Fragment Crossing",
+   "ChestNumber":4,
+   "Item":"Orichalcum",
+   "Notes":"platform to the left"
+},
+{  
+   "Id":287,
+   "World":"The World That Never Was",
+   "Area":"Memory’s Skyscraper",
+   "ChestNumber":5,
+   "Item":"Mythril Crystal",
+   "Notes":"to the left of the skyscraper"
+},
+{  
+   "Id":288,
+   "World":"The World That Never Was",
+   "Area":"Memory’s Skyscraper",
+   "ChestNumber":6,
+   "Item":"AP Boost",
+   "Notes":"to the right of the skyscraper near the crashed semi"
+},
+{  
+   "Id":289,
+   "World":"The World That Never Was",
+   "Area":"Memory’s Skyscraper",
+   "ChestNumber":7,
+   "Item":"Mythril Stone",
+   "Notes":"to the left of the skyscraper"
+},
+{  
+   "Id":290,
+   "World":"The World That Never Was",
+   "Area":"The Brink of Despair",
+   "ChestNumber":8,
+   "Item":"Dark City Map",
+   "Notes":"in plain sight near Moogle"
+},
+{  
+   "Id":291,
+   "World":"The World That Never Was",
+   "Area":"The Brink of Despair",
+   "ChestNumber":9,
+   "Item":"Orichalcum+",
+   "Notes":"edge of the cliff leading to area’s exit"
+},
+{  
+   "Id":292,
+   "World":"The World That Never Was",
+   "Area":"Nothing’s Cell",
+   "ChestNumber":10,
+   "Item":"Mythril Gem",
+   "Notes":"to the left of the Crooked Ascension doorway"
+},
+{  
+   "Id":293,
+   "World":"The World That Never Was",
+   "Area":"Nothing’s Cell",
+   "ChestNumber":11,
+   "Item":"Orichalcum",
+   "Notes":"go up first ramp to the left, on the platform"
+},
+{  
+   "Id":294,
+   "World":"The World That Never Was",
+   "Area":"Twilight’s View",
+   "ChestNumber":12,
+   "Item":"Cosmic Belt",
+   "Notes":"on top of the staircase"
+},
+{  
+   "Id":295,
+   "World":"The World That Never Was",
+   "Area":"Naught’s Skyway",
+   "ChestNumber":13,
+   "Item":"Mythril Gem",
+   "Notes":"near the railing to the left"
+},
+{  
+   "Id":296,
+   "World":"The World That Never Was",
+   "Area":"Naught’s Skyway",
+   "ChestNumber":14,
+   "Item":"Orichalcum",
+   "Notes":"up two ramps, on the ledge to the left"
+},
+{  
+   "Id":297,
+   "World":"The World That Never Was",
+   "Area":"Naught’s Skyway",
+   "ChestNumber":15,
+   "Item":"Mythril Crystal",
+   "Notes":"up the third ramp to the left"
+},
+{  
+   "Id":298,
+   "World":"The World That Never Was",
+   "Area":"Ruin and Creation’s Passage",
+   "ChestNumber":16,
+   "Item":"Mythril Stone",
+   "Notes":"on first platform"
+},
+{  
+   "Id":299,
+   "World":"The World That Never Was",
+   "Area":"Ruin and Creation’s Passage",
+   "ChestNumber":17,
+   "Item":"AP Boost",
+   "Notes":"on second platform"
+},
+{  
+   "Id":300,
+   "World":"The World That Never Was",
+   "Area":"Ruin and Creation’s Passage",
+   "ChestNumber":18,
+   "Item":"Mythril Crystal",
+   "Notes":"on third platform"
+},
+{  
+   "Id":301,
+   "World":"The World That Never Was",
+   "Area":"Ruin and Creation’s Passage",
+   "ChestNumber":19,
+   "Item":"Orichalcum",
+   "Notes":"on final platform to the left"
+}
+]

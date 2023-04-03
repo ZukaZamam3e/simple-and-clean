@@ -1,0 +1,174 @@
+<!--
+  Generated template for the BbsMeldingPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+      <button ion-button menuToggle>
+          <ion-icon name="menu"></ion-icon>
+        </button>
+    <ion-title>Birth By Sleep Command Melding</ion-title>
+  </ion-navbar>
+
+  <ion-item>
+    <ion-label color="primary">Search</ion-label>
+      <ion-select [(ngModel)]="searchType" interface="popover" (ionChange)="searchTypeChange()"> 
+        <ion-option value="CM">Command</ion-option>
+        <ion-option value="AB">Ability</ion-option>
+        <!-- <ion-option value="CH">Character</ion-option> -->
+        <ion-option value="IG">Ingredient</ion-option>
+      </ion-select>
+    <ion-input placeholder="Command Name" [(ngModel)]="commandSearch"></ion-input>
+      <ion-select [(ngModel)]="character" interface="popover" (ionChange)="characterChanged()">
+          <ion-option value="Terra">Terra</ion-option>
+          <ion-option value="Ventus">Ventus</ion-option>
+          <ion-option value="Aqua">Aqua</ion-option>
+      </ion-select>
+  </ion-item>
+  <!-- <ion-item>
+      <ion-label>Filter Abilites</ion-label>
+      <ion-checkbox [(ngModel)]="showOnlyFilteredAbilities" (click)="toggleFilterAbilities()"></ion-checkbox>
+  </ion-item> -->
+
+</ion-header>
+
+
+<ion-content padding [@expand]="ionContentGroup">
+  <ion-grid>
+    <ion-row *ngFor="let command of commands">
+      <ion-card class="card wrap">
+        <ion-item>
+          <!-- <ion-icon item-left large [name]="address.icon"></ion-icon> -->
+          <ion-item>
+            <ion-avatar item-start>
+              <img src="./assets/imgs/bbs-melding/{{command.CmdType.toLocaleLowerCase()}}.png">
+            </ion-avatar>
+            <a target="_blank" [attr.href]="command.AbilityLink">{{command.Ability}}</a>
+            <ion-avatar class="characters">
+              <img [ngClass]="{ terra_able: command.Character.indexOf('Terra') !== -1, not_able: command.Character.indexOf('Terra') === -1 }"
+                src="./assets/imgs/bbs-melding/t.png">
+              <img [ngClass]="{ ventus_able: command.Character.indexOf('Ventus') !== -1, not_able: command.Character.indexOf('Ventus') === -1 }"
+                src="./assets/imgs/bbs-melding/v.png">
+              <img [ngClass]="{ aqua_able: command.Character.indexOf('Aqua') !== -1, not_able: command.Character.indexOf('Aqua') === -1 }"
+                src="./assets/imgs/bbs-melding/aq.png">
+            </ion-avatar>
+          </ion-item>
+          <ion-card-content text-wrap>
+            <div>
+              <span [innerHtml]="command.Description"></span>
+            </div>
+            <div>
+              <button ion-button (click)="toggleMeldDetails(command.Ability, 0)">Melding Details</button>
+            </div>
+            <div id="{{command.Ability}}_MeldDetails" [ngClass]="{ show: command.ShowDetails, hide: !command.ShowDetails  }">
+            </div>
+          </ion-card-content>
+        </ion-item>
+      </ion-card>
+    </ion-row>
+  </ion-grid>
+
+
+
+</ion-content>
+
+<ion-footer [@expand]="meldFooterGroup" class="footer-bbs">
+  <div class="footer_header">
+    <h2 class="footer_header_h2">Melding Details
+
+      
+      <button (click)="closeMeldFooter()" class="footer_close">
+        
+        <ion-icon name="close"></ion-icon>
+      </button>
+      <!-- <button class="footer_redo" [class.button-disabled]="redoAbilities.length > 0" (click)="redoAbility()">
+          
+          <ion-icon name="redo"></ion-icon>
+        </button>
+      <button class="footer_undo" [class.button-disabled]="undoAbilities.length > 0" (click)="undoAbility()">
+          
+          <ion-icon name="undo"></ion-icon>
+        </button> -->
+        
+      <!-- <div class="footer_filter">
+          
+          </div> -->
+    </h2>
+  </div>
+
+  <div class="meld-grid">
+    <div *ngFor="let mr of abilityMeldResults" class="card">
+      <ion-card-header class="card_header">
+        <span class="meld-header">Meld</span><span class="meld-outcome">{{mr.Outcome}}</span><span class="meld-info"><div>{{mr.Percent}}%</div><div>{{mr.Who}}</div></span>
+      </ion-card-header>
+      <ion-card-content>
+        <div class="meld_slot_container" (click)="toggleMeldDetails(mr.First, 1)">
+          <div class="meld_slot">
+            <span class="slot-header">SLOT</span><span class="slot-number">1</span>
+          </div>
+          <div class="meld_slot_corner">
+          </div>
+          <div class="meld_slot_backwards_corner">
+          </div>
+          <div class="meld_slot_backwards">
+            {{mr.First}}
+          </div>
+        </div>
+        <div class="meld_slot_container" (click)="toggleMeldDetails(mr.Second, 1)">
+          <div class="meld_slot">
+            <span class="slot-header">SLOT</span><span class="slot-number">2</span>
+          </div>
+          <div class="meld_slot_corner">
+          </div>
+          <div class="meld_slot_backwards_corner">
+          </div>
+          <div class="meld_slot_backwards">
+            {{mr.Second}}
+          </div>
+        </div>
+        <div class="item-grid">
+          <div *ngFor="let ab of mr.Abilities" class="item-card">
+            <div class="meld_slot_container">
+              <div class="meld_slot_item">
+                <span class="slot-header">ITEM</span>
+              </div>
+              <div class="meld_slot_item_corner">
+              </div>
+              <div class="meld_slot_backwards_corner">
+              </div>
+              <div class="meld_slot_backwards">
+                {{ab.Crystal}}
+              </div>
+          </div>
+          <div class="meld_slot_container">
+              <div class="meld_slot_item">
+                <span class="slot-header">RESULT</span>
+              </div>
+              <div class="meld_slot_item_corner">
+              </div>
+              <div class="meld_slot_backwards_corner">
+              </div>
+              <div class="meld_slot_backwards">
+                {{ab.Outcome}}
+              </div>
+          </div>
+        </div>
+    </div>
+    <!-- Add card content here! -->
+    </ion-card-content>
+  </div>
+  </div>
+
+  <!-- <ion-scroll scrollX="true" direction="x" class="meld-grid">
+  <!-- <div class="meld-grid">
+      < *ngFor="let mr of abilityMeldResults" class="meld-card">
+              {{mr.Outcome}}
+      </ion-card>
+    <!-- </div> 
+  </ion-scroll>  -->
+
+
+</ion-footer>

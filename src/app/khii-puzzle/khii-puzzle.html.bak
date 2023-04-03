@@ -1,0 +1,81 @@
+<ion-header>
+
+    <ion-navbar>
+        <button ion-button menuToggle>
+            <ion-icon name="menu"></ion-icon>
+        </button>
+        <ion-title>KH II Puzzle Pieces</ion-title>
+    </ion-navbar>
+
+    <ion-item>
+        <ion-input placeholder="Puzzle" [(ngModel)]="puzzleSearch"></ion-input>
+    </ion-item>
+    <ion-item>
+        <ion-input placeholder="World" [(ngModel)]="worldSearch"></ion-input>
+    </ion-item>
+    <ion-item>
+        <ion-label color="primary">Sort By</ion-label>
+        <ion-select [(ngModel)]="sort1" interface="popover" (ionChange)="sortBy()">
+            <ion-option value="Puzzle">Puzzle</ion-option>
+            <ion-option value="Piece">Piece</ion-option>
+            <ion-option value="World">World</ion-option>
+            <ion-option value="Area">Area</ion-option>
+            <ion-option value="Notes">Notes</ion-option>
+        </ion-select>
+        <ion-select [(ngModel)]="sort1Direction" interface="popover" (ionChange)="sortBy()">
+            <ion-option value="A">Ascending</ion-option>
+            <ion-option value="D">Descending</ion-option>
+        </ion-select>
+    </ion-item>
+    <!-- <ion-item>
+        <ion-label color="primary">Then By</ion-label>
+<ion-select [(ngModel)]="sort2" interface="popover" (ionChange)="sortBy()">
+    <ion-option value="Puzzle">Puzzle</ion-option>
+    <ion-option value="Piece">Piece</ion-option>
+    <ion-option value="World">World</ion-option>
+    <ion-option value="Area">Area</ion-option>
+    <ion-option value="Notes">Notes</ion-option>
+</ion-select>
+<ion-select [(ngModel)]="sort2Direction" interface="popover" (ionChange)="sortBy()">
+    <ion-option value="A">Ascending</ion-option>
+    <ion-option value="D">Descending</ion-option>
+</ion-select>
+</ion-item> -->
+</ion-header>
+
+<ion-content padding>
+    <ion-grid class="puzzle-grid">
+        <ion-row class="puzzle-header-row">
+            <!-- <ion-col col-1 class="puzzle-header-column">ID<ion-icon class="grid-menu" name="arrow-dropdown"></ion-icon></ion-col> -->
+            <ion-col col-2 class="puzzle-header-column">
+                Puzzle
+            </ion-col>
+            <ion-col col-1 class="puzzle-header-column">
+                Piece
+            </ion-col>
+            <ion-col col-2 class="puzzle-header-column">
+                World
+            </ion-col>
+            <ion-col col-2 class="puzzle-header-column">
+                Area
+            </ion-col>
+            <ion-col col-5 class="puzzle-header-column puzzle-header-column-last">
+                Notes
+            </ion-col>
+            <!-- <ion-col class="puzzle-header-column">Acquired</ion-col>
+        <ion-col class="puzzle-header-column">Selected</ion-col> -->
+        </ion-row>
+        <span *ngFor="let p of puzzles" [ngClass]="{ 'puzzle-row': !p.Selected, 'puzzle-row-selected': p.Selected }">
+        <ion-row  [ngClass]="{ 'puzzle-acquired': p.Acquired }" (click)="selectedPuzzle(p)">
+            <!-- <ion-col col-1 class="puzzle-row-column" >{{p.Id}}</ion-col> -->
+            <ion-col col-2 class="puzzle-row-column">{{p.Puzzle}}</ion-col>
+            <ion-col col-1 class="puzzle-row-column">{{p.PieceNumber}}</ion-col>
+            <ion-col col-2 class="puzzle-row-column">{{p.World}}</ion-col>
+            <ion-col col-2 class="puzzle-row-column">{{p.Area}}</ion-col>
+            <ion-col col-5 class="puzzle-row-column puzzle-row-column-last">{{p.Notes}}</ion-col>
+            <!-- <ion-col class="puzzle-header-column">{{p.Acquired}}</ion-col>
+        <ion-col class="puzzle-header-column">{{p.Selected}}</ion-col> -->
+        </ion-row>
+    </span>
+    </ion-grid>
+</ion-content>

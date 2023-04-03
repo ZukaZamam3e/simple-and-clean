@@ -1,0 +1,2678 @@
+[
+  {
+    "Id": 0,
+    "MaterialCounts": [
+      {
+        "MaterialId": 32,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Mythril Shard"
+      },
+      {
+        "MaterialId": 16,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Power Shard"
+      },
+      {
+        "MaterialId": 0,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Blazing Shard"
+      },
+      {
+        "MaterialId": 12,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lucid Shard"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 37,
+        "MaterialName": "Bright Stone"
+      },
+      {
+        "MaterialId": 41,
+        "MaterialName": "Energy Stone"
+      }
+    ],
+    "Name": "Mega-Potion",
+    "Exp": 12,
+    "Rank": "B"
+  },
+  {
+    "Id": 1,
+    "MaterialCounts": [
+      {
+        "MaterialId": 32,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Mythril Shard"
+      },
+      {
+        "MaterialId": 16,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Power Shard"
+      },
+      {
+        "MaterialId": 0,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Blazing Shard"
+      },
+      {
+        "MaterialId": 12,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lucid Shard"
+      },
+      {
+        "MaterialId": 45,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Stone"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 37,
+        "MaterialName": "Bright Stone"
+      },
+      {
+        "MaterialId": 41,
+        "MaterialName": "Energy Stone"
+      }
+    ],
+    "Name": "Mega-Ether",
+    "Exp": 12,
+    "Rank": "B"
+  },
+  {
+    "Id": 2,
+    "MaterialCounts": [
+      {
+        "MaterialId": 33,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Mythril Stone"
+      },
+      {
+        "MaterialId": 17,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Power Stone"
+      },
+      {
+        "MaterialId": 21,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dark Stone"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 38,
+        "MaterialName": "Bright Gem"
+      },
+      {
+        "MaterialId": 42,
+        "MaterialName": "Energy Gem"
+      }
+    ],
+    "Name": "Elixir",
+    "Exp": 15,
+    "Rank": "A"
+  },
+  {
+    "Id": 3,
+    "MaterialCounts": [
+      {
+        "MaterialId": 33,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Mythril Stone"
+      },
+      {
+        "MaterialId": 17,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Power Stone"
+      },
+      {
+        "MaterialId": 21,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dark Stone"
+      },
+      {
+        "MaterialId": 46,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Gem"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 38,
+        "MaterialName": "Bright Gem"
+      },
+      {
+        "MaterialId": 42,
+        "MaterialName": "Energy Gem"
+      }
+    ],
+    "Name": "Megalixir",
+    "Exp": 15,
+    "Rank": "A"
+  },
+  {
+    "Id": 4,
+    "MaterialCounts": [
+      {
+        "MaterialId": 32,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Mythril Shard"
+      },
+      {
+        "MaterialId": 20,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Dark Shard"
+      },
+      {
+        "MaterialId": 4,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Frost Shard"
+      },
+      {
+        "MaterialId": 8,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lightning Shard"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 36,
+        "MaterialName": "Bright Shard"
+      },
+      {
+        "MaterialId": 40,
+        "MaterialName": "Energy Shard"
+      }
+    ],
+    "Name": "Drive Recovery",
+    "Exp": 16,
+    "Rank": "C"
+  },
+  {
+    "Id": 5,
+    "MaterialCounts": [
+      {
+        "MaterialId": 32,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Mythril Shard"
+      },
+      {
+        "MaterialId": 20,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Dark Shard"
+      },
+      {
+        "MaterialId": 4,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Frost Shard"
+      },
+      {
+        "MaterialId": 8,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lightning Shard"
+      },
+      {
+        "MaterialId": 44,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Shard"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 36,
+        "MaterialName": "Bright Shard"
+      },
+      {
+        "MaterialId": 40,
+        "MaterialName": "Energy Shard"
+      }
+    ],
+    "Name": "High Drive Recovery",
+    "Exp": 16,
+    "Rank": "C"
+  },
+  {
+    "Id": 6,
+    "MaterialCounts": [
+      {
+        "MaterialId": 34,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Mythril Gem"
+      },
+      {
+        "MaterialId": 19,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Power Crystal"
+      },
+      {
+        "MaterialId": 23,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Dark Crystal"
+      },
+      {
+        "MaterialId": 7,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Frost Crystal"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 39,
+        "MaterialName": "Bright Crystal"
+      },
+      {
+        "MaterialId": 43,
+        "MaterialName": "Energy Crystal"
+      }
+    ],
+    "Name": "AP Boost",
+    "Exp": 49,
+    "Rank": "S"
+  },
+  {
+    "Id": 7,
+    "MaterialCounts": [
+      {
+        "MaterialId": 34,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Mythril Gem"
+      },
+      {
+        "MaterialId": 19,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Power Crystal"
+      },
+      {
+        "MaterialId": 23,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Dark Crystal"
+      },
+      {
+        "MaterialId": 7,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Frost Crystal"
+      },
+      {
+        "MaterialId": 47,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Crystal"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 39,
+        "MaterialName": "Bright Crystal"
+      },
+      {
+        "MaterialId": 43,
+        "MaterialName": "Energy Crystal"
+      }
+    ],
+    "Name": "Magic Boost",
+    "Exp": 49,
+    "Rank": "S"
+  },
+  {
+    "Id": 8,
+    "MaterialCounts": [
+      {
+        "MaterialId": 35,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Mythril Crystal"
+      },
+      {
+        "MaterialId": 3,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Blazing Crystal"
+      },
+      {
+        "MaterialId": 11,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Lightning Crystal"
+      },
+      {
+        "MaterialId": 15,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Lucid Crystal"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 39,
+        "MaterialName": "Bright Crystal"
+      },
+      {
+        "MaterialId": 43,
+        "MaterialName": "Energy Crystal"
+      }
+    ],
+    "Name": "Defense Boost",
+    "Exp": 50,
+    "Rank": "S"
+  },
+  {
+    "Id": 9,
+    "MaterialCounts": [
+      {
+        "MaterialId": 35,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Mythril Crystal"
+      },
+      {
+        "MaterialId": 3,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Blazing Crystal"
+      },
+      {
+        "MaterialId": 11,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Lightning Crystal"
+      },
+      {
+        "MaterialId": 15,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Lucid Crystal"
+      },
+      {
+        "MaterialId": 47,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Crystal"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 39,
+        "MaterialName": "Bright Crystal"
+      },
+      {
+        "MaterialId": 43,
+        "MaterialName": "Energy Crystal"
+      }
+    ],
+    "Name": "Power Boost",
+    "Exp": 50,
+    "Rank": "S"
+  },
+  {
+    "Id": 10,
+    "MaterialCounts": [
+      {
+        "MaterialId": 25,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dense Stone"
+      },
+      {
+        "MaterialId": 24,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Dense Shard"
+      },
+      {
+        "MaterialId": 29,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Twilight Stone"
+      },
+      {
+        "MaterialId": 28,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Twilight Shard"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 36,
+        "MaterialName": "Bright Shard"
+      },
+      {
+        "MaterialId": 40,
+        "MaterialName": "Energy Shard"
+      }
+    ],
+    "Name": "Mythril Shard",
+    "Exp": 18,
+    "Rank": "C"
+  },
+  {
+    "Id": 11,
+    "MaterialCounts": [
+      {
+        "MaterialId": 25,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dense Stone"
+      },
+      {
+        "MaterialId": 24,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Dense Shard"
+      },
+      {
+        "MaterialId": 29,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Twilight Stone"
+      },
+      {
+        "MaterialId": 28,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Twilight Shard"
+      },
+      {
+        "MaterialId": 44,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Shard"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 36,
+        "MaterialName": "Bright Shard"
+      },
+      {
+        "MaterialId": 40,
+        "MaterialName": "Energy Shard"
+      }
+    ],
+    "Name": "Mythril Stone",
+    "Exp": 18,
+    "Rank": "C"
+  },
+  {
+    "Id": 12,
+    "MaterialCounts": [
+      {
+        "MaterialId": 27,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dense Crystal"
+      },
+      {
+        "MaterialId": 26,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Dense Gem"
+      },
+      {
+        "MaterialId": 31,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Twilight Crystal"
+      },
+      {
+        "MaterialId": 30,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Twilight Gem"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 37,
+        "MaterialName": "Bright Stone"
+      },
+      {
+        "MaterialId": 41,
+        "MaterialName": "Energy Stone"
+      }
+    ],
+    "Name": "Mythril Gem",
+    "Exp": 34,
+    "Rank": "B"
+  },
+  {
+    "Id": 13,
+    "MaterialCounts": [
+      {
+        "MaterialId": 27,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dense Crystal"
+      },
+      {
+        "MaterialId": 26,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Dense Gem"
+      },
+      {
+        "MaterialId": 31,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Twilight Crystal"
+      },
+      {
+        "MaterialId": 30,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Twilight Gem"
+      },
+      {
+        "MaterialId": 45,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Stone"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 37,
+        "MaterialName": "Bright Stone"
+      },
+      {
+        "MaterialId": 41,
+        "MaterialName": "Energy Stone"
+      }
+    ],
+    "Name": "Mythril Crystal",
+    "Exp": 34,
+    "Rank": "B"
+  },
+  {
+    "Id": 14,
+    "MaterialCounts": [
+      {
+        "MaterialId": 57,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Tranquil Crystal"
+      },
+      {
+        "MaterialId": 53,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Remembrance Crystal"
+      },
+      {
+        "MaterialId": 39,
+        "Count": 9,
+        "CountCeil": 9,
+        "MaterialName": "Bright Crystal"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 38,
+        "MaterialName": "Bright Gem"
+      },
+      {
+        "MaterialId": 42,
+        "MaterialName": "Energy Gem"
+      }
+    ],
+    "Name": "Serenity Crystal",
+    "Exp": 55,
+    "Rank": "A"
+  },
+  {
+    "Id": 15,
+    "MaterialCounts": [
+      {
+        "MaterialId": 57,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Tranquil Crystal"
+      },
+      {
+        "MaterialId": 53,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Remembrance Crystal"
+      },
+      {
+        "MaterialId": 39,
+        "Count": 9,
+        "CountCeil": 9,
+        "MaterialName": "Bright Crystal"
+      },
+      {
+        "MaterialId": 46,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Gem"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 38,
+        "MaterialName": "Bright Gem"
+      },
+      {
+        "MaterialId": 42,
+        "MaterialName": "Energy Gem"
+      }
+    ],
+    "Name": "Found Illusion",
+    "Exp": 55,
+    "Rank": "A"
+  },
+  {
+    "Id": 16,
+    "MaterialCounts": [
+      {
+        "MaterialId": 32,
+        "Count": 5,
+        "CountCeil": 5,
+        "MaterialName": "Mythril Shard"
+      },
+      {
+        "MaterialId": 1,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Blazing Stone"
+      },
+      {
+        "MaterialId": 0,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Blazing Shard"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 36,
+        "MaterialName": "Bright Shard"
+      },
+      {
+        "MaterialId": 40,
+        "MaterialName": "Energy Shard"
+      }
+    ],
+    "Name": "Firaga Bangle",
+    "Exp": 15,
+    "Rank": "C"
+  },
+  {
+    "Id": 17,
+    "MaterialCounts": [
+      {
+        "MaterialId": 32,
+        "Count": 5,
+        "CountCeil": 5,
+        "MaterialName": "Mythril Shard"
+      },
+      {
+        "MaterialId": 1,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Blazing Stone"
+      },
+      {
+        "MaterialId": 0,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Blazing Shard"
+      },
+      {
+        "MaterialId": 44,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Shard"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 36,
+        "MaterialName": "Bright Shard"
+      },
+      {
+        "MaterialId": 40,
+        "MaterialName": "Energy Shard"
+      }
+    ],
+    "Name": "Firagun Bangle",
+    "Exp": 15,
+    "Rank": "C"
+  },
+  {
+    "Id": 18,
+    "MaterialCounts": [
+      {
+        "MaterialId": 32,
+        "Count": 5,
+        "CountCeil": 5,
+        "MaterialName": "Mythril Shard"
+      },
+      {
+        "MaterialId": 5,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Frost Stone"
+      },
+      {
+        "MaterialId": 4,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Frost Shard"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 36,
+        "MaterialName": "Bright Shard"
+      },
+      {
+        "MaterialId": 40,
+        "MaterialName": "Energy Shard"
+      }
+    ],
+    "Name": "Blizzaga Armlet",
+    "Exp": 15,
+    "Rank": "C"
+  },
+  {
+    "Id": 19,
+    "MaterialCounts": [
+      {
+        "MaterialId": 32,
+        "Count": 5,
+        "CountCeil": 5,
+        "MaterialName": "Mythril Shard"
+      },
+      {
+        "MaterialId": 5,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Frost Stone"
+      },
+      {
+        "MaterialId": 4,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Frost Shard"
+      },
+      {
+        "MaterialId": 44,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Shard"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 36,
+        "MaterialName": "Bright Shard"
+      },
+      {
+        "MaterialId": 40,
+        "MaterialName": "Energy Shard"
+      }
+    ],
+    "Name": "Blizzagun Armlet",
+    "Exp": 15,
+    "Rank": "C"
+  },
+  {
+    "Id": 20,
+    "MaterialCounts": [
+      {
+        "MaterialId": 32,
+        "Count": 5,
+        "CountCeil": 5,
+        "MaterialName": "Mythril Shard"
+      },
+      {
+        "MaterialId": 9,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lightning Stone"
+      },
+      {
+        "MaterialId": 8,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lightning Shard"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 36,
+        "MaterialName": "Bright Shard"
+      },
+      {
+        "MaterialId": 40,
+        "MaterialName": "Energy Shard"
+      }
+    ],
+    "Name": "Thundaga Trinket",
+    "Exp": 15,
+    "Rank": "C"
+  },
+  {
+    "Id": 21,
+    "MaterialCounts": [
+      {
+        "MaterialId": 32,
+        "Count": 5,
+        "CountCeil": 5,
+        "MaterialName": "Mythril Shard"
+      },
+      {
+        "MaterialId": 9,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lightning Stone"
+      },
+      {
+        "MaterialId": 8,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lightning Shard"
+      },
+      {
+        "MaterialId": 44,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Shard"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 36,
+        "MaterialName": "Bright Shard"
+      },
+      {
+        "MaterialId": 40,
+        "MaterialName": "Energy Shard"
+      }
+    ],
+    "Name": "Thundagun Trinket",
+    "Exp": 15,
+    "Rank": "C"
+  },
+  {
+    "Id": 22,
+    "MaterialCounts": [
+      {
+        "MaterialId": 32,
+        "Count": 5,
+        "CountCeil": 5,
+        "MaterialName": "Mythril Shard"
+      },
+      {
+        "MaterialId": 13,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lucid Stone"
+      },
+      {
+        "MaterialId": 12,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lucid Shard"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 36,
+        "MaterialName": "Bright Shard"
+      },
+      {
+        "MaterialId": 40,
+        "MaterialName": "Energy Shard"
+      }
+    ],
+    "Name": "Midnight Anklet",
+    "Exp": 15,
+    "Rank": "C"
+  },
+  {
+    "Id": 23,
+    "MaterialCounts": [
+      {
+        "MaterialId": 32,
+        "Count": 5,
+        "CountCeil": 5,
+        "MaterialName": "Mythril Shard"
+      },
+      {
+        "MaterialId": 13,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lucid Stone"
+      },
+      {
+        "MaterialId": 12,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lucid Shard"
+      },
+      {
+        "MaterialId": 44,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Shard"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 36,
+        "MaterialName": "Bright Shard"
+      },
+      {
+        "MaterialId": 40,
+        "MaterialName": "Energy Shard"
+      }
+    ],
+    "Name": "Chaos Anklet",
+    "Exp": 15,
+    "Rank": "C"
+  },
+  {
+    "Id": 24,
+    "MaterialCounts": [
+      {
+        "MaterialId": 33,
+        "Count": 5,
+        "CountCeil": 5,
+        "MaterialName": "Mythril Stone"
+      },
+      {
+        "MaterialId": 1,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Blazing Stone"
+      },
+      {
+        "MaterialId": 5,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Frost Stone"
+      },
+      {
+        "MaterialId": 9,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lightning Stone"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 37,
+        "MaterialName": "Bright Stone"
+      },
+      {
+        "MaterialId": 41,
+        "MaterialName": "Energy Stone"
+      }
+    ],
+    "Name": "Acrisius",
+    "Exp": 24,
+    "Rank": "B"
+  },
+  {
+    "Id": 25,
+    "MaterialCounts": [
+      {
+        "MaterialId": 33,
+        "Count": 5,
+        "CountCeil": 5,
+        "MaterialName": "Mythril Stone"
+      },
+      {
+        "MaterialId": 1,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Blazing Stone"
+      },
+      {
+        "MaterialId": 5,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Frost Stone"
+      },
+      {
+        "MaterialId": 9,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lightning Stone"
+      },
+      {
+        "MaterialId": 45,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Stone"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 37,
+        "MaterialName": "Bright Stone"
+      },
+      {
+        "MaterialId": 41,
+        "MaterialName": "Energy Stone"
+      }
+    ],
+    "Name": "Acrisius+",
+    "Exp": 24,
+    "Rank": "B"
+  },
+  {
+    "Id": 26,
+    "MaterialCounts": [
+      {
+        "MaterialId": 33,
+        "Count": 5,
+        "CountCeil": 5,
+        "MaterialName": "Mythril Stone"
+      },
+      {
+        "MaterialId": 17,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Power Stone"
+      },
+      {
+        "MaterialId": 21,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dark Stone"
+      },
+      {
+        "MaterialId": 13,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lucid Stone"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 37,
+        "MaterialName": "Bright Stone"
+      },
+      {
+        "MaterialId": 41,
+        "MaterialName": "Energy Stone"
+      }
+    ],
+    "Name": "Power Band",
+    "Exp": 24,
+    "Rank": "B"
+  },
+  {
+    "Id": 27,
+    "MaterialCounts": [
+      {
+        "MaterialId": 33,
+        "Count": 5,
+        "CountCeil": 5,
+        "MaterialName": "Mythril Stone"
+      },
+      {
+        "MaterialId": 17,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Power Stone"
+      },
+      {
+        "MaterialId": 21,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dark Stone"
+      },
+      {
+        "MaterialId": 13,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lucid Stone"
+      },
+      {
+        "MaterialId": 45,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Stone"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 37,
+        "MaterialName": "Bright Stone"
+      },
+      {
+        "MaterialId": 41,
+        "MaterialName": "Energy Stone"
+      }
+    ],
+    "Name": "Buster Band",
+    "Exp": 24,
+    "Rank": "B"
+  },
+  {
+    "Id": 28,
+    "MaterialCounts": [
+      {
+        "MaterialId": 35,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Mythril Crystal"
+      },
+      {
+        "MaterialId": 48,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Orichalcum"
+      },
+      {
+        "MaterialId": 25,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dense Stone"
+      },
+      {
+        "MaterialId": 24,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dense Shard"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 38,
+        "MaterialName": "Bright Gem"
+      },
+      {
+        "MaterialId": 42,
+        "MaterialName": "Energy Gem"
+      }
+    ],
+    "Name": "Petit Ribbon",
+    "Exp": 24,
+    "Rank": "A"
+  },
+  {
+    "Id": 29,
+    "MaterialCounts": [
+      {
+        "MaterialId": 35,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Mythril Crystal"
+      },
+      {
+        "MaterialId": 48,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Orichalcum"
+      },
+      {
+        "MaterialId": 25,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dense Stone"
+      },
+      {
+        "MaterialId": 24,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dense Shard"
+      },
+      {
+        "MaterialId": 46,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Gem"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 38,
+        "MaterialName": "Bright Gem"
+      },
+      {
+        "MaterialId": 42,
+        "MaterialName": "Energy Gem"
+      }
+    ],
+    "Name": "Ribbon",
+    "Exp": 24,
+    "Rank": "A"
+  },
+  {
+    "Id": 30,
+    "MaterialCounts": [
+      {
+        "MaterialId": 59,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lost Illusion"
+      },
+      {
+        "MaterialId": 52,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Remembrance Gem"
+      },
+      {
+        "MaterialId": 51,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Remembrance Stone"
+      },
+      {
+        "MaterialId": 56,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Tranquil Gem"
+      },
+      {
+        "MaterialId": 55,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Tranquil Stone"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 39,
+        "MaterialName": "Bright Crystal"
+      },
+      {
+        "MaterialId": 43,
+        "MaterialName": "Energy Crystal"
+      }
+    ],
+    "Name": "Shock Charm",
+    "Exp": 31,
+    "Rank": "S"
+  },
+  {
+    "Id": 31,
+    "MaterialCounts": [
+      {
+        "MaterialId": 59,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lost Illusion"
+      },
+      {
+        "MaterialId": 52,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Remembrance Gem"
+      },
+      {
+        "MaterialId": 51,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Remembrance Stone"
+      },
+      {
+        "MaterialId": 56,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Tranquil Gem"
+      },
+      {
+        "MaterialId": 55,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Tranquil Stone"
+      },
+      {
+        "MaterialId": 47,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Crystal"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 39,
+        "MaterialName": "Bright Crystal"
+      },
+      {
+        "MaterialId": 43,
+        "MaterialName": "Energy Crystal"
+      }
+    ],
+    "Name": "Shock Charm+",
+    "Exp": 31,
+    "Rank": "S"
+  },
+  {
+    "Id": 32,
+    "MaterialCounts": [
+      {
+        "MaterialId": 33,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Mythril Stone"
+      },
+      {
+        "MaterialId": 17,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Power Stone"
+      },
+      {
+        "MaterialId": 16,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Power Shard"
+      },
+      {
+        "MaterialId": 20,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dark Shard"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 36,
+        "MaterialName": "Bright Shard"
+      },
+      {
+        "MaterialId": 40,
+        "MaterialName": "Energy Shard"
+      }
+    ],
+    "Name": "Garnet Ring",
+    "Exp": 16,
+    "Rank": "C"
+  },
+  {
+    "Id": 33,
+    "MaterialCounts": [
+      {
+        "MaterialId": 33,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Mythril Stone"
+      },
+      {
+        "MaterialId": 17,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Power Stone"
+      },
+      {
+        "MaterialId": 16,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Power Shard"
+      },
+      {
+        "MaterialId": 20,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dark Shard"
+      },
+      {
+        "MaterialId": 44,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Shard"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 36,
+        "MaterialName": "Bright Shard"
+      },
+      {
+        "MaterialId": 40,
+        "MaterialName": "Energy Shard"
+      }
+    ],
+    "Name": "Diamond Ring",
+    "Exp": 16,
+    "Rank": "C"
+  },
+  {
+    "Id": 34,
+    "MaterialCounts": [
+      {
+        "MaterialId": 33,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Mythril Stone"
+      },
+      {
+        "MaterialId": 17,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Power Stone"
+      },
+      {
+        "MaterialId": 21,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dark Stone"
+      },
+      {
+        "MaterialId": 20,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dark Shard"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 36,
+        "MaterialName": "Bright Shard"
+      },
+      {
+        "MaterialId": 40,
+        "MaterialName": "Energy Shard"
+      }
+    ],
+    "Name": "Mythril Ring",
+    "Exp": 17,
+    "Rank": "C"
+  },
+  {
+    "Id": 35,
+    "MaterialCounts": [
+      {
+        "MaterialId": 33,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Mythril Stone"
+      },
+      {
+        "MaterialId": 17,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Power Stone"
+      },
+      {
+        "MaterialId": 21,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dark Stone"
+      },
+      {
+        "MaterialId": 20,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dark Shard"
+      },
+      {
+        "MaterialId": 44,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Shard"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 36,
+        "MaterialName": "Bright Shard"
+      },
+      {
+        "MaterialId": 40,
+        "MaterialName": "Energy Shard"
+      }
+    ],
+    "Name": "Orichalcum Ring",
+    "Exp": 17,
+    "Rank": "C"
+  },
+  {
+    "Id": 36,
+    "MaterialCounts": [
+      {
+        "MaterialId": 34,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Mythril Gem"
+      },
+      {
+        "MaterialId": 22,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dark Gem"
+      },
+      {
+        "MaterialId": 6,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Frost Gem"
+      },
+      {
+        "MaterialId": 14,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lucid Gem"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 37,
+        "MaterialName": "Bright Stone"
+      },
+      {
+        "MaterialId": 41,
+        "MaterialName": "Energy Stone"
+      }
+    ],
+    "Name": "Soldier Earring",
+    "Exp": 24,
+    "Rank": "B"
+  },
+  {
+    "Id": 37,
+    "MaterialCounts": [
+      {
+        "MaterialId": 34,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Mythril Gem"
+      },
+      {
+        "MaterialId": 22,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dark Gem"
+      },
+      {
+        "MaterialId": 6,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Frost Gem"
+      },
+      {
+        "MaterialId": 14,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lucid Gem"
+      },
+      {
+        "MaterialId": 45,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Stone"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 37,
+        "MaterialName": "Bright Stone"
+      },
+      {
+        "MaterialId": 41,
+        "MaterialName": "Energy Stone"
+      }
+    ],
+    "Name": "Fencer Earring",
+    "Exp": 24,
+    "Rank": "B"
+  },
+  {
+    "Id": 38,
+    "MaterialCounts": [
+      {
+        "MaterialId": 34,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Mythril Gem"
+      },
+      {
+        "MaterialId": 18,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Power Gem"
+      },
+      {
+        "MaterialId": 2,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Blazing Gem"
+      },
+      {
+        "MaterialId": 10,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lightning Gem"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 37,
+        "MaterialName": "Bright Stone"
+      },
+      {
+        "MaterialId": 41,
+        "MaterialName": "Energy Stone"
+      }
+    ],
+    "Name": "Mage Earring",
+    "Exp": 24,
+    "Rank": "B"
+  },
+  {
+    "Id": 39,
+    "MaterialCounts": [
+      {
+        "MaterialId": 34,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Mythril Gem"
+      },
+      {
+        "MaterialId": 18,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Power Gem"
+      },
+      {
+        "MaterialId": 2,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Blazing Gem"
+      },
+      {
+        "MaterialId": 10,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lightning Gem"
+      },
+      {
+        "MaterialId": 45,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Stone"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 37,
+        "MaterialName": "Bright Stone"
+      },
+      {
+        "MaterialId": 41,
+        "MaterialName": "Energy Stone"
+      }
+    ],
+    "Name": "Slayer Earring",
+    "Exp": 24,
+    "Rank": "B"
+  },
+  {
+    "Id": 40,
+    "MaterialCounts": [
+      {
+        "MaterialId": 35,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Mythril Crystal"
+      },
+      {
+        "MaterialId": 23,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dark Crystal"
+      },
+      {
+        "MaterialId": 22,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dark Gem"
+      },
+      {
+        "MaterialId": 21,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dark Stone"
+      },
+      {
+        "MaterialId": 20,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dark Shard"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 38,
+        "MaterialName": "Bright Gem"
+      },
+      {
+        "MaterialId": 42,
+        "MaterialName": "Energy Gem"
+      }
+    ],
+    "Name": "Expert\u0027s Ring",
+    "Exp": 29,
+    "Rank": "A"
+  },
+  {
+    "Id": 41,
+    "MaterialCounts": [
+      {
+        "MaterialId": 35,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Mythril Crystal"
+      },
+      {
+        "MaterialId": 23,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dark Crystal"
+      },
+      {
+        "MaterialId": 22,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dark Gem"
+      },
+      {
+        "MaterialId": 21,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dark Stone"
+      },
+      {
+        "MaterialId": 20,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dark Shard"
+      },
+      {
+        "MaterialId": 46,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Gem"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 38,
+        "MaterialName": "Bright Gem"
+      },
+      {
+        "MaterialId": 42,
+        "MaterialName": "Energy Gem"
+      }
+    ],
+    "Name": "Master\u0027s Ring",
+    "Exp": 29,
+    "Rank": "A"
+  },
+  {
+    "Id": 42,
+    "MaterialCounts": [
+      {
+        "MaterialId": 48,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Orichalcum"
+      },
+      {
+        "MaterialId": 35,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Mythril Crystal"
+      },
+      {
+        "MaterialId": 29,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Twilight Stone"
+      },
+      {
+        "MaterialId": 28,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Twilight Shard"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 38,
+        "MaterialName": "Bright Gem"
+      },
+      {
+        "MaterialId": 42,
+        "MaterialName": "Energy Gem"
+      }
+    ],
+    "Name": "Moon Amulet",
+    "Exp": 22,
+    "Rank": "A"
+  },
+  {
+    "Id": 43,
+    "MaterialCounts": [
+      {
+        "MaterialId": 48,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Orichalcum"
+      },
+      {
+        "MaterialId": 35,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Mythril Crystal"
+      },
+      {
+        "MaterialId": 29,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Twilight Stone"
+      },
+      {
+        "MaterialId": 28,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Twilight Shard"
+      },
+	  {
+		"MaterialId": 47,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Crystal"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 38,
+        "MaterialName": "Bright Gem"
+      },
+      {
+        "MaterialId": 42,
+        "MaterialName": "Energy Gem"
+      }
+    ],
+    "Name": "Star Charm",
+    "Exp": 22,
+    "Rank": "A"
+  },
+  {
+    "Id": 44,
+    "MaterialCounts": [
+      {
+        "MaterialId": 58,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Manifest Illusion"
+      },
+      {
+        "MaterialId": 50,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Remembrance Shard"
+      },
+      {
+        "MaterialId": 38,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Bright Gem"
+      },
+      {
+        "MaterialId": 37,
+        "Count": 5,
+        "CountCeil": 5,
+        "MaterialName": "Bright Stone"
+      },
+      {
+        "MaterialId": 36,
+        "Count": 9,
+        "CountCeil": 9,
+        "MaterialName": "Bright Shard"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 39,
+        "MaterialName": "Bright Crystal"
+      },
+      {
+        "MaterialId": 43,
+        "MaterialName": "Energy Crystal"
+      }
+    ],
+    "Name": "Draw Ring",
+    "Exp": 55,
+    "Rank": "S"
+  },
+  {
+    "Id": 45,
+    "MaterialCounts": [
+      {
+        "MaterialId": 58,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Manifest Illusion"
+      },
+      {
+        "MaterialId": 50,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Remembrance Shard"
+      },
+      {
+        "MaterialId": 38,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Bright Gem"
+      },
+      {
+        "MaterialId": 37,
+        "Count": 5,
+        "CountCeil": 5,
+        "MaterialName": "Bright Stone"
+      },
+      {
+        "MaterialId": 36,
+        "Count": 9,
+        "CountCeil": 9,
+        "MaterialName": "Bright Shard"
+      },
+      {
+        "MaterialId": 47,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Crystal"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 39,
+        "MaterialName": "Bright Crystal"
+      },
+      {
+        "MaterialId": 43,
+        "MaterialName": "Energy Crystal"
+      }
+    ],
+    "Name": "Lucky Ring",
+    "Exp": 55,
+    "Rank": "S"
+  },
+  {
+    "Id": 46,
+    "MaterialCounts": [
+      {
+        "MaterialId": 59,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lost Illusion"
+      },
+      {
+        "MaterialId": 58,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Manifest Illusion"
+      },
+      {
+        "MaterialId": 53,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Remembrance Crystal"
+      },
+      {
+        "MaterialId": 46,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Serenity Gem"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 39,
+        "MaterialName": "Bright Crystal"
+      },
+      {
+        "MaterialId": 43,
+        "MaterialName": "Energy Crystal"
+      }
+    ],
+    "Name": "Shadow Archive",
+    "Exp": 26,
+    "Rank": "S"
+  },
+  {
+    "Id": 47,
+    "MaterialCounts": [
+      {
+        "MaterialId": 59,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lost Illusion"
+      },
+      {
+        "MaterialId": 58,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Manifest Illusion"
+      },
+      {
+        "MaterialId": 53,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Remembrance Crystal"
+      },
+      {
+        "MaterialId": 46,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Serenity Gem"
+      },
+      {
+        "MaterialId": 47,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Crystal"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 39,
+        "MaterialName": "Bright Crystal"
+      },
+      {
+        "MaterialId": 43,
+        "MaterialName": "Energy Crystal"
+      }
+    ],
+    "Name": "Shadow Archive+",
+    "Exp": 26,
+    "Rank": "S"
+  },
+  {
+    "Id": 48,
+    "MaterialCounts": [
+      {
+        "MaterialId": 59,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lost Illusion"
+      },
+      {
+        "MaterialId": 58,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Manifest Illusion"
+      },
+      {
+        "MaterialId": 57,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Tranquil Crystal"
+      },
+      {
+        "MaterialId": 46,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Serenity Gem"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 39,
+        "MaterialName": "Bright Crystal"
+      },
+      {
+        "MaterialId": 43,
+        "MaterialName": "Energy Crystal"
+      }
+    ],
+    "Name": "Full Bloom",
+    "Exp": 26,
+    "Rank": "S"
+  },
+  {
+    "Id": 49,
+    "MaterialCounts": [
+      {
+        "MaterialId": 59,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lost Illusion"
+      },
+      {
+        "MaterialId": 58,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Manifest Illusion"
+      },
+      {
+        "MaterialId": 57,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Tranquil Crystal"
+      },
+      {
+        "MaterialId": 46,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Serenity Gem"
+      },
+      {
+        "MaterialId": 47,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Crystal"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 39,
+        "MaterialName": "Bright Crystal"
+      },
+      {
+        "MaterialId": 43,
+        "MaterialName": "Energy Crystal"
+      }
+    ],
+    "Name": "Full Bloom+",
+    "Exp": 26,
+    "Rank": "S"
+  },
+  {
+    "Id": 50,
+    "MaterialCounts": [
+      {
+        "MaterialId": 59,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lost Illusion"
+      },
+      {
+        "MaterialId": 53,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Remembrance Crystal"
+      },
+      {
+        "MaterialId": 52,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Remembrance Gem"
+      },
+      {
+        "MaterialId": 51,
+        "Count": 5,
+        "CountCeil": 5,
+        "MaterialName": "Remembrance Stone"
+      },
+      {
+        "MaterialId": 50,
+        "Count": 7,
+        "CountCeil": 7,
+        "MaterialName": "Remembrance Shard"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 39,
+        "MaterialName": "Bright Crystal"
+      },
+      {
+        "MaterialId": 43,
+        "MaterialName": "Energy Crystal"
+      }
+    ],
+    "Name": "Centurion",
+    "Exp": 51,
+    "Rank": "S"
+  },
+  {
+    "Id": 51,
+    "MaterialCounts": [
+      {
+        "MaterialId": 59,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lost Illusion"
+      },
+      {
+        "MaterialId": 53,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Remembrance Crystal"
+      },
+      {
+        "MaterialId": 52,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Remembrance Gem"
+      },
+      {
+        "MaterialId": 51,
+        "Count": 5,
+        "CountCeil": 5,
+        "MaterialName": "Remembrance Stone"
+      },
+      {
+        "MaterialId": 50,
+        "Count": 7,
+        "CountCeil": 7,
+        "MaterialName": "Remembrance Shard"
+      },
+      {
+        "MaterialId": 47,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Crystal"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 39,
+        "MaterialName": "Bright Crystal"
+      },
+      {
+        "MaterialId": 43,
+        "MaterialName": "Energy Crystal"
+      }
+    ],
+    "Name": "Centurion+",
+    "Exp": 51,
+    "Rank": "S"
+  },
+  {
+    "Id": 52,
+    "MaterialCounts": [
+      {
+        "MaterialId": 48,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Orichalcum"
+      },
+      {
+        "MaterialId": 27,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Dense Crystal"
+      },
+      {
+        "MaterialId": 26,
+        "Count": 5,
+        "CountCeil": 5,
+        "MaterialName": "Dense Gem"
+      },
+      {
+        "MaterialId": 25,
+        "Count": 7,
+        "CountCeil": 7,
+        "MaterialName": "Dense Stone"
+      },
+      {
+        "MaterialId": 24,
+        "Count": 9,
+        "CountCeil": 9,
+        "MaterialName": "Dense Shard"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 39,
+        "MaterialName": "Bright Crystal"
+      },
+      {
+        "MaterialId": 43,
+        "MaterialName": "Energy Crystal"
+      }
+    ],
+    "Name": "Save The Queen",
+    "Exp": 78,
+    "Rank": "S"
+  },
+  {
+    "Id": 53,
+    "MaterialCounts": [
+      {
+        "MaterialId": 48,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Orichalcum"
+      },
+      {
+        "MaterialId": 27,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Dense Crystal"
+      },
+      {
+        "MaterialId": 26,
+        "Count": 5,
+        "CountCeil": 5,
+        "MaterialName": "Dense Gem"
+      },
+      {
+        "MaterialId": 25,
+        "Count": 7,
+        "CountCeil": 7,
+        "MaterialName": "Dense Stone"
+      },
+      {
+        "MaterialId": 24,
+        "Count": 9,
+        "CountCeil": 9,
+        "MaterialName": "Dense Shard"
+      },
+      {
+        "MaterialId": 47,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Crystal"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 39,
+        "MaterialName": "Bright Crystal"
+      },
+      {
+        "MaterialId": 43,
+        "MaterialName": "Energy Crystal"
+      }
+    ],
+    "Name": "Save The Queen+",
+    "Exp": 78,
+    "Rank": "S"
+  },
+  {
+    "Id": 54,
+    "MaterialCounts": [
+      {
+        "MaterialId": 59,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lost Illusion"
+      },
+      {
+        "MaterialId": 57,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Tranquil Crystal"
+      },
+      {
+        "MaterialId": 56,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Tranquil Gem"
+      },
+      {
+        "MaterialId": 55,
+        "Count": 5,
+        "CountCeil": 5,
+        "MaterialName": "Tranquil Stone"
+      },
+      {
+        "MaterialId": 54,
+        "Count": 7,
+        "CountCeil": 7,
+        "MaterialName": "Tranquil Shard"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 39,
+        "MaterialName": "Bright Crystal"
+      },
+      {
+        "MaterialId": 43,
+        "MaterialName": "Energy Crystal"
+      }
+    ],
+    "Name": "Frozen Pride",
+    "Exp": 51,
+    "Rank": "S"
+  },
+  {
+    "Id": 55,
+    "MaterialCounts": [
+      {
+        "MaterialId": 59,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Lost Illusion"
+      },
+      {
+        "MaterialId": 57,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Tranquil Crystal"
+      },
+      {
+        "MaterialId": 56,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Tranquil Gem"
+      },
+      {
+        "MaterialId": 55,
+        "Count": 5,
+        "CountCeil": 5,
+        "MaterialName": "Tranquil Stone"
+      },
+      {
+        "MaterialId": 54,
+        "Count": 7,
+        "CountCeil": 7,
+        "MaterialName": "Tranquil Shard"
+      },
+      {
+        "MaterialId": 47,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Crystal"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 39,
+        "MaterialName": "Bright Crystal"
+      },
+      {
+        "MaterialId": 43,
+        "MaterialName": "Energy Crystal"
+      }
+    ],
+    "Name": "Frozen Pride+",
+    "Exp": 51,
+    "Rank": "S"
+  },
+  {
+    "Id": 56,
+    "MaterialCounts": [
+      {
+        "MaterialId": 48,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Orichalcum"
+      },
+      {
+        "MaterialId": 31,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Twilight Crystal"
+      },
+      {
+        "MaterialId": 30,
+        "Count": 5,
+        "CountCeil": 5,
+        "MaterialName": "Twilight Gem"
+      },
+      {
+        "MaterialId": 29,
+        "Count": 7,
+        "CountCeil": 7,
+        "MaterialName": "Twilight Stone"
+      },
+      {
+        "MaterialId": 28,
+        "Count": 9,
+        "CountCeil": 9,
+        "MaterialName": "Twilight Shard"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 39,
+        "MaterialName": "Bright Crystal"
+      },
+      {
+        "MaterialId": 43,
+        "MaterialName": "Energy Crystal"
+      }
+    ],
+    "Name": "Save The King",
+    "Exp": 78,
+    "Rank": "S"
+  },
+  {
+    "Id": 57,
+    "MaterialCounts": [
+      {
+        "MaterialId": 48,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Orichalcum"
+      },
+      {
+        "MaterialId": 31,
+        "Count": 3,
+        "CountCeil": 3,
+        "MaterialName": "Twilight Crystal"
+      },
+      {
+        "MaterialId": 30,
+        "Count": 5,
+        "CountCeil": 5,
+        "MaterialName": "Twilight Gem"
+      },
+      {
+        "MaterialId": 29,
+        "Count": 7,
+        "CountCeil": 7,
+        "MaterialName": "Twilight Stone"
+      },
+      {
+        "MaterialId": 28,
+        "Count": 9,
+        "CountCeil": 9,
+        "MaterialName": "Twilight Shard"
+      },
+      {
+        "MaterialId": 47,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Serenity Crystal"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 39,
+        "MaterialName": "Bright Crystal"
+      },
+      {
+        "MaterialId": 43,
+        "MaterialName": "Energy Crystal"
+      }
+    ],
+    "Name": "Save The King+",
+    "Exp": 78,
+    "Rank": "S"
+  },
+  {
+    "Id": 58,
+    "MaterialCounts": [
+      {
+        "MaterialId": 49,
+        "Count": 13,
+        "CountCeil": 13,
+        "MaterialName": "Orichalcum+"
+      },
+      {
+        "MaterialId": 48,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Orichalcum"
+      },
+      {
+        "MaterialId": 35,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Mythril Crystal"
+      },
+      {
+        "MaterialId": 27,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Dense Crystal"
+      },
+      {
+        "MaterialId": 31,
+        "Count": 1,
+        "CountCeil": 1,
+        "MaterialName": "Twilight Crystal"
+      },
+      {
+        "MaterialId": 47,
+        "Count": 7,
+        "CountCeil": 7,
+        "MaterialName": "Serenity Crystal"
+      }
+    ],
+    "RecipeBoosters": [
+      {
+        "MaterialId": 39,
+        "MaterialName": "Bright Crystal"
+      },
+      {
+        "MaterialId": 43,
+        "MaterialName": "Energy Crystal"
+      }
+    ],
+    "Name": "Ultima Weapon",
+    "Exp": 99,
+    "Rank": "S"
+  }
+]

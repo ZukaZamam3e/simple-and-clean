@@ -1,0 +1,60 @@
+Blazing Shard	C	Hammer Frame (10%), Minute Bomb (6%)
+Blazing Stone	B	Cannon Gun (6%), Tornado Step (8%)
+Blazing Gem	A	Fat Bandit (12%), Fiery Globe (4%)
+Blazing Crystal	S	Crescendo (6%), Crimson Jazz (12%)
+Frost Shard	C	Hook Bat (6%), Lance Soldier (10%)
+Frost Stone	B	Aeroplane (8%), Hot Rod (12%)
+Frost Gem	A	Fortuneteller (8%), Icy Cube (4%)
+Frost Crystal	S	Living Bone (12%)
+Lightning Shard	C	Bolt Tower (10%), Rapid Thruster (4%)
+Lightning Stone	B	Driller Mole (6%), Emerald Blues (10%)
+Lightning Gem	A	Armored Knight (12%), Surveillance Robot (8%)
+Lightning Crystal	S	Devastator (4%), Strafer (6%)
+Lucid Shard	C	Rabid Dog (6%), Trick Ghost (10%)
+Lucid Stone	B	Graveyard (12%), Toy Soldier (12%), Wight Knight (8%)
+Lucid Gem	A	Bookmaster (10%), Magnum Loader (8%)
+Lucid Crystal	S	Neoshadow (8%)
+Power Shard	C	Creeper Plant (8%), Large Body (12%)
+Power Stone	B	Luna Bandit (8%), Silver Rock (6%)
+Power Gem	A	Aerial Knocker (8%), Shaman (10%)
+Power Crystal	S	Morning Star (12%)
+Dark Shard	C	Shadow (4%), Soldier (8%)
+Dark Stone	B	Assault Rider (12%), Nightwalker (10%)
+Dark Gem	A	Gargoyle Knight (10%), Gargoyle Warrior (10%)
+Dark Crystal	S	Air Pirate (8%)
+Dense Shard	C	Creeper (8%), Dragoon (12%)
+Dense Stone	B	Sniper (12%)
+Dense Gem	A	Samurai (12%)
+Dense Crystal	S	Berserker (12%)
+Twilight Shard	C	Dusk (10%), Gambler (12%)
+Twilight Stone	B	Dancer (12%)
+Twilight Gem	A	Assassin (12%)
+Twilight Crystal	S	Sorcerer(12%)
+Mythril Shard	C	Only obtained through item synthesis and chests
+Mythril Stone	B	Only obtained through item synthesis and chests
+Mythril Gem	A	Only obtained through item synthesis and chests
+Mythril Crystal	S	Only obtained through item synthesis and chests
+Bright Shard	C	Bulky Vendor (Capsule Prize Reaction - 100%), Creeper Plant (4%), Hook Bat (3%), Minute Bomb (3%), Rabid Dog (3%), Soldier (4%)
+Bright Stone	B	Bulky Vendor (Rare Capsule Reaction - 100%), Aeroplane (4%), Cannon Gun (3%), Driller Mole (4%), Luna Bandit (4%), Silver Rock (3%), Tornado Step (4%), Wight Knight (4%)
+Bright Gem	A	Bulky Vendor (Limited Capsule Reaction - 100%), Aerial Knocker (4%), Magnum Loader (4%), Surveillance Robot (3%)
+Bright Crystal	S	Bulky Vendor (Prime Capsule Reaction - 100%), Air Pirate (4%), Crescendo (3%), Neoshadow (4%), Strafer (4%)
+Energy Shard	C	Bolt Tower (4%), Gargoyle Knight (4%), Gargoyle Warrior (4%), Nightwalker (4%)
+Energy Stone	B	Hammer Frame (4%), Lance Soldier (4%), Trick Ghost (4%)
+Energy Gem	A	Emerald Blues (4%), Fortuneteller (4%)
+Energy Crystal	S	Bookmaster (4%), Shaman (4%)
+Serenity Shard	C	Assault Rider (4%), Creeper (2%), Fat Bandit (4%), Graveyard (4%), Hot Rod (4%), Large Body (4%), Toy Soldier (4%)
+Serenity Stone	B	Crimson Jazz (4%), Devastator (4%), Dusk (2%), Living Bone (4%), Morning Star (4%)
+Serenity Gem	A	Dancer (4%), Dragoon (4%), Gambler (4%), Sniper (4%)
+Serenity Crystal	S	Assassin (4%), Berserker (4%), Samurai (4%), Sorcerer (4%), Bulky Vendor (Prime Capsule - 100%), Item synthesis (Final Mix)
+Orichalcum	A	Bulky Vendor (Capsule Prize - 10%/Rare Capsule - 12%/Limited Capsule - 16%/Prime Capsule - 18%)
+Orichalcum+	S	Only found through chests and events.
+Remembrance Shard	C	Perplex (6%), Iron Hammer (10%) Silent Launcher (6%)
+Remembrance Stone	B	Air Viking (6%), Magic Phantom (10%), Lance Warrior (10%), Necromancer (10%)
+Remembrance Gem	A	Spring Metal (10%), Runemaster (10%), Mad Bumper (12%)
+Remembrance Crystal	S	Reckless (12%), Cavern of Remembrance: Engine Chamber
+Tranquil Shard	C	Mushroom XIII
+Tranquil Stone	B	Mushroom XIII
+Tranquil Gem	A	Mushroom XIII
+Tranquil Crystal	S	Mushroom XIII	
+Manifest Illusion	A	Lingering Sentiment, Frontier Puzzle, Item synthesis, Cavern of Remembrance: Depths
+Lost Illusion	S	Absent silhouette, Organization XIII Replica data

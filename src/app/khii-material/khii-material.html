@@ -1,0 +1,66 @@
+<ion-header>
+
+    <ion-navbar>
+        <button ion-button menuToggle>
+            <ion-icon name="menu"></ion-icon>
+        </button>
+        <ion-title>Kingdom Hearts 2 Materials</ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+    <div class="material_box">
+        
+        <ion-grid>
+            <ion-row class="materials_grid">
+                <ion-col class="material_row" *ngFor="let m of materials" col-sm-12 col-md-6 col-lg-6 col-xl-6 (click)="selectMaterial(m)"
+                    >
+                        <ion-card class="material_card" [ngClass]="{ 'selected_material_row': m.Selected }">
+                            <div class="material_info"
+                            [ngClass]="{ 'material_rank_a': m.Rank == 'A', 'material_rank_b': m.Rank == 'B','material_rank_c': m.Rank == 'C','material_rank_s': m.Rank == 'S' }">
+                            <div class="material_rank">
+                                    {{m.Rank}}
+                                </div>    
+                            <img class="material_img" src="./assets/imgs/khii/{{m.Image}}"/>
+                                
+                            </div>
+                            <div class="material_name">
+                                {{m.Name}}
+                                
+                            </div>
+                            <div class="material_count">
+                                {{m.Count}}
+                            </div>
+                        </ion-card>
+                </ion-col>
+            </ion-row>
+            
+        </ion-grid>
+        
+    </div>
+    <div class="drop_box">
+        <ion-grid class="drops_grid" *ngIf="selected.MaterialId != -1">
+            
+            <ion-row class="">
+                    <ion-col class="" *ngFor="let d of drops" col-sm-12 col-md-12 col-lg-12 col-xl-12>
+                    <ion-card class="drop_card">
+                            <div class="drop_row">
+                                    {{d.Enemy}}
+                                    <img *ngIf="d.Enemy.indexOf('Bulky') == -1" class="enemy_img" src="./assets/imgs/khii/enemies/{{d.Enemy.trim()}}.png"/>
+                                    <img *ngIf="d.Enemy.indexOf('Bulky') !== -1" class="enemy_img" src="./assets/imgs/khii/enemies/Bulky Vendor.png"/>
+                                    
+                                    <div class="drop_row_percentage">
+                                        {{d.DropChance}}%
+                                    
+                                    </div>
+                                    <div *ngFor="let l of d.Locations" class="enemy_location">
+                                        {{l}}
+            
+                                    </div>
+                                </div>
+                    </ion-card>
+                </ion-col>
+            </ion-row>
+        </ion-grid>
+    </div>
+</ion-content>

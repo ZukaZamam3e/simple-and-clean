@@ -1,0 +1,261 @@
+page-home {
+    ion-content {
+        background: url(../assets/imgs/home/kh-bg-3.png) no-repeat center center fixed;
+        background-size: cover;
+        
+    }
+
+    .menu_text {
+        color: white;
+        // background-color: white;
+    }
+
+    .game_card_bg {
+        max-width: 375px;
+    }
+
+    .game_card_bg_comingsoon {
+        max-width: 375px;
+        background-color: orange;
+    }
+
+    .game_card {
+        //background: url(../assets/imgs/home/gamebox_6.png);
+        // background-size: 927px 1400px !important;
+        // background-size: cover; 
+        max-width: 375px;
+        margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: relative;
+        // background-color: lightcoral;
+        // background-color: white;
+        // max-width: 433px;
+        // display: table;
+        // margin: 0 auto;
+        // margin-top: 10px !important;
+        // color: black;
+        // position: relative;
+        // min-width: 167px;
+    }
+
+    .game_card_comingsoon {
+        background: url(../assets/imgs/home/gamebox_6.png);
+        background-size: 100% 100%;
+        max-width: 375px;
+        min-width: 375px;
+        max-height: 550px;
+        min-height: 550px;
+        // max-height: 550px;
+        // min-height: 550px;
+        margin-left: auto;
+    margin-right: auto;
+    display: block;
+        background-color: orange;
+    }
+
+    .page_title {
+        // cursor:pointer;
+        // color:blue;
+        // text-decoration:underline;
+        text-transform: none;
+        background-color: black;
+        border-radius: 20px;
+        border-color: #3636b3 !important;
+        border-width: 10%;
+        border: solid;
+        width: calc(100% - 140px) !important;
+        max-width: 200px;
+        min-width: 120px;
+        font-size: 3vw;
+        height: 8vw;
+        max-height: 36px;
+    }
+
+    .page_outer_comingsoon {
+        position: relative;
+    }
+
+    .page_outer_comingsoon {
+        position: absolute;
+        display:block;
+        margin:auto;
+        top: 65%;
+        width: 100%;
+        height: 20%;
+        font-size: 6vw;
+    }
+
+    .page_inner_text_comingsoon {
+        position: absolute;
+        top: 65%;
+        font-size: 6vw;
+        width: calc(100% - 100px) !important;
+        max-width: 375px;
+        min-width: 120px;
+        
+        text-shadow:
+    1px 5px 2px rgba(000,000,000,0.7),
+    0px 1px 0px black;
+        }
+
+        .keyhole {
+            position: absolute;
+            max-width: 80px;
+            width: 20%;
+            left: 50%;
+            -webkit-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        transform: translateX(-50%);
+        }
+
+    @media screen and (min-width: 470px) {
+        .page_title {
+           font-size: 14px;
+           
+        }
+
+        .page_outer_comingsoon {
+           font-size: 35px;
+            
+        }
+
+        .keyhole {
+            left: 49%;
+        }
+      }
+
+    .page_div {
+        max-width: 100%;
+    }
+
+    .page_title:hover {
+        // cursor:pointer;
+        // color:blue;
+        // text-decoration:underline;
+        background-color: none !important; 
+        border-color: red !important;
+    }
+
+    .button:hover {
+        // cursor:pointer;
+        // color:blue;
+        // text-decoration:underline;
+        background-color: #3636b3 !important; 
+    }
+
+    .page-title.button:before {
+        content: '';
+  position: absolute;
+  top: 50%;
+  left: 0;
+  border-top: 1px solid black;
+  background: black;
+  width: 100%;
+  transform: translateY(-50%);
+    }
+
+    .coming_soon {
+        position: absolute;
+        top: -115px;
+        background-color: white;
+        width: 433px;
+        opacity: 0.75;
+    }
+
+    .game_img {
+        position: absolute;
+        max-width: 360px;
+        display:block;
+    margin:auto;
+        top: 5%;
+    
+        
+    }
+
+    .game_img_comingsoon {
+        max-width: 360px;
+        display:block;
+        margin:auto;
+        position: absolute;
+        top: 40%;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+
+    .page_outer {
+        position: absolute;
+        display:block;
+        margin:auto;
+        top: 80%;
+        left: 50%;
+        -webkit-transform: translateX(-50%) translateY(-50%);
+        -ms-transform: translateX(-50%) translateY(-50%);
+        transform: translateX(-50%) translateY(-50%);
+        width: 100%;
+    }
+
+    .page_middle {
+    //     display: table-cell;
+    // vertical-align: middle;
+    }
+
+    .page_inner {
+    
+    }
+
+    
+
+    .page_inner_comingsoon {
+        }
+
+        
+
+.page_parent_div {
+position: absolute;
+top: 50%;
+}
+
+    .page_div {
+        // width: 400px;
+        // height: 350px;
+    }
+
+    .game_title {
+        padding-top: 50px;
+    }
+
+    .game_title_comingsoon {
+  position: absolute;
+top: 40%;
+    }
+
+    
+
+    .button_bg {
+        background-color: red;
+        width: 250px;
+        height: 5px;
+        position: absolute;
+        left: 16%;
+        top: 15px;
+        // top: 15%;
+    }
+
+    @media (max-width: 950px) {
+        // font-size: 25px;
+        // background-color: black;
+        // color: white;
+        // border: solid;
+        // border-width: 5px;
+        // border-color: darkgray;
+        // border-radius: 5px;
+        // width: calc(100% - 80px);
+        .col {
+            min-width: calc(100% - 20px);
+            text-align: center;
+        }
+    }
+
+}

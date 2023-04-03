@@ -1,0 +1,141 @@
+ENEMY: Hammer Frame -- done
+ENEMY: Minute Bomb -- done
+ENEMY: Tornado Step -- done
+ENEMY: Cannon Gun -- done
+ENEMY: Fat Bandit -- done
+ENEMY: Fiery Globe -- done
+ENEMY: Crimson Jazz
+ENEMY: Crescendo
+ENEMY: Creeper Plant
+ENEMY: Soldier
+ENEMY: Hook Bat
+ENEMY: Minute Bomb
+ENEMY: Rabid Dog
+ENEMY: Aeroplane
+ENEMY: Driller Mole
+ENEMY: Luna Bandit
+ENEMY: Tornado Step
+ENEMY: Wight Knight
+ENEMY: Cannon Gun
+ENEMY: Silver Rock
+ENEMY: Aerial Knocker
+ENEMY: Magnum Loader
+ENEMY: Surveillance Robot
+ENEMY: Air Pirate
+ENEMY: Neoshadow
+ENEMY: Strafer
+ENEMY: Crescendo
+ENEMY: Soldier
+ENEMY: Shadow
+ENEMY: Assault Rider
+ENEMY: Nightwalker
+ENEMY: Gargoyle Knight
+ENEMY: Gargoyle Warrior
+ENEMY: Air Pirate
+ENEMY: Dragoon
+ENEMY: Creeper
+ENEMY: Sniper
+ENEMY: Samurai
+ENEMY: Berserker
+ENEMY: Bolt Tower
+ENEMY: Gargoyle Knight
+ENEMY: Gargoyle Warrior
+ENEMY: Nightwalker
+ENEMY: Hammer Frame
+ENEMY: Lance Soldier
+ENEMY: Trick Ghost
+ENEMY: Emerald Blues
+ENEMY: Fortuneteller
+ENEMY: Bookmaster
+ENEMY: Shaman
+ENEMY: Lance Soldier
+ENEMY: Hook Bat
+ENEMY: Hot Rod
+ENEMY: Aeroplane 
+ENEMY: Fortuneteller 
+ENEMY: Icy Cube
+ENEMY: Living Bone
+ENEMY: Bolt Tower
+ENEMY: Rapid Thruster
+ENEMY: Emerald Blues
+ENEMY: Driller Mole
+ENEMY: Armored Knight
+ENEMY: Surveillance Robot
+ENEMY: Strafer 
+ENEMY: Devastator
+ENEMY: Trick Ghost
+ENEMY: Rabid Dog
+ENEMY: Graveyard
+ENEMY: Toy Soldier
+ENEMY: Wight Knight
+ENEMY: Bookmaster
+ENEMY: Magnum Loader
+ENEMY: Neoshadow
+ENEMY: Bulky Vendor (All Reactions)
+ENEMY: Treasure
+ENEMY: Treasure
+ENEMY: Treasure
+ENEMY: Prize
+ENEMY: Prize
+ENEMY: Prize
+ENEMY: Prize
+ENEMY: Large Body 
+ENEMY: Creeper Plant
+ENEMY: Luna Bandit
+ENEMY: Silver Rock
+ENEMY: Shaman
+ENEMY: Aerial Knocker
+ENEMY: Morning Star
+ENEMY: Assault Rider
+ENEMY: Fat Bandit
+ENEMY: Graveyard
+ENEMY: Hot Rod
+ENEMY: Large Body
+ENEMY: Toy Soldier
+ENEMY: Creeper
+ENEMY: Bulky Vendor (Capsule Prize Reaction, 100-75% HP)
+ENEMY: Crimson Jazz
+ENEMY: Devastator
+ENEMY: Living Bone
+ENEMY: Morning Star
+ENEMY: Dusk
+ENEMY: Bulky Vendor (Rare Capsule Reaction, 74-50% HP)
+ENEMY: Dancer
+ENEMY: Dragoon
+ENEMY: Gambler
+ENEMY: Sniper
+ENEMY: Bulky Vendor (Limited Capsule Reaction, 49-25% HP)
+ENEMY: Assassin
+ENEMY: Berserker
+ENEMY: Samurai
+ENEMY: Sorcerer
+ENEMY: Bulky Vendor (Prime Capsule Reaction, 24-1% HP)
+ENEMY: Gambler
+ENEMY: Dusk
+ENEMY: Dancer
+ENEMY: Assassin
+ENEMY: Sorcerer
+ENEMY: Perplex
+ENEMY: Iron Hammer
+ENEMY: Silent Launcher
+ENEMY: Air Viking
+ENEMY: Magic Phantom
+ENEMY: Lance Warrior
+ENEMY: Lance Warrior
+ENEMY: Spring Metal
+ENEMY: Runemaster
+ENEMY: Mad Bumper
+ENEMY: Lance Warrior
+ENEMY: Reckless
+ENEMY: Mushroom XIII
+ENEMY: Mushroom XIII
+ENEMY: Mushroom XIII
+ENEMY: Mushroom XIII
+ENEMY: Lingering Will
+ENEMY: Frontier Puzzle
+ENEMY: Cavern of Remembrance: Depths
+ENEMY: Absent Silhouette
+ENEMY: Synthesis
+ENEMY: Synthesis
+ENEMY: Synthesis
+ENEMY: Synthesis

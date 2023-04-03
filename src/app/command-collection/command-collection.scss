@@ -1,0 +1,121 @@
+page-command-collection {
+    // .header-md::after {
+    //     background-image: none !important;
+    // }
+
+    ion-content {
+        // background-color: rgb(47, 79, 79) !important;
+        margin-top: 50px !important;
+        height: calc(100% - 50px);
+
+        background: url(../assets/imgs/home/kh-bg-3.png) no-repeat center center fixed;
+        background-size: cover;
+        background-color: yellow !important;
+    }
+
+    .scroll-content {
+        margin-top: 135px !important;
+        
+    }
+
+    .collection_card {
+        background-color: #DFF0D8;
+        max-width: 455px;
+        display: table;
+        margin: 0 auto;
+        margin-top: 10px !important;
+        padding: 10px;
+    }
+
+    .command {
+        width: 48px;
+        height: 48px;
+        padding: 2px;
+        float: left;
+    }
+
+    .collection_title {
+        background-color: #5a7b7b;
+        font-size: 24px;
+        padding: 15px;
+        margin: 15px;
+        border-radius: 15px;
+        background: -webkit-linear-gradient(left, #5a7b7b, #778383); /* For Safari 5.1 to 6.0 */
+        background: -o-linear-gradient(right,  #5a7b7b, #778383); /* For Opera 11.1 to 12.0 */
+        background: -moz-linear-gradient(right, #5a7b7b, #778383); /* For Firefox 3.6 to 15 */
+        background: linear-gradient(to right, #5a7b7b, #778383); /* Standard syntax (must be last) */
+    }
+
+    .selection_div {
+        text-align: center;
+        margin: 15px;
+    }
+
+
+    .selection {
+      display: inline-block;
+      width: calc(100% - 20px);
+      max-width: 433px;
+      background-color: #1e1c22;
+      color: white;
+      border-radius: 35px;
+      font-size: 18px;
+      padding: 15px;
+    }
+
+    .total {
+        // position: absolute;
+        // top: 5px;
+        // left: 50px;
+        display: inline-block;
+        width: calc(100% - 20px);
+        max-width: 433px;
+        color: white;
+        font-size: 32px;
+        padding: 15px;
+        
+    }
+
+    // .left_side {
+    //     border-top: 13px solid transparent;
+    //     border-right: 26px solid #1e1c22;
+    //     border-bottom: 13px solid transparent;
+    // }
+
+    .middle {
+        background-color: #1e1c22;
+        padding: 13px;
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+
+    // .right_side {
+    //     border-top: 32px solid transparent;
+    //     border-left: 32px solid #1e1c22;
+    //     border-bottom: 32px solid transparent;
+    // }
+
+    // .collections {
+    //     margin-top: 35px;
+    // }
+
+    .selected_command {
+        border: solid;
+        border-color: red;
+    }
+
+    .command_acquired {
+        opacity: 1.0;
+    }
+
+    .command_not_acquired {
+        opacity: .5;
+    }
+
+    img {
+        border: solid !important;
+    border-color: white !important;
+    border-width: thin !important;
+    }
+
+}

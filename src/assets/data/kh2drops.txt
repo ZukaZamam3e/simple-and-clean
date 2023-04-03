@@ -1,0 +1,755 @@
+--------------------
+Blazing Shard
+ENEMY 1: Hammer Frame
+DROP CHANCE: 10%
+APPEARS IN: 
+Beast's Castle - Entrance Hall, Secret Passage, The West Wing
+ENEMY 2: Minute Bomb 
+DROP CHANCE: 6%  
+APPEARS IN: 
+Olympus Coliseum - Valley of the Dead, Underworld Caverns: Entrance
+-------------------
+Blazing Stone
+ENEMY 1: Tornado Step
+DROP CHANCE: 8%
+APPEARS IN: 
+Olympus Coliseum - Cave of the Dead: Passage, Underworld Caverns: The Lost Road
+ENEMY 2: Cannon Gun
+DROP CHANCE: 6%
+APPEARS IN: 
+Land of Dragons - Summit
+Space Paranoids - Canyon, Simulation Hangar
+-------------------
+Blazing Gem
+ENEMY 1: Fat Bandit
+DROP CHANCE: 12%
+APPEARS IN: 
+Agrabah - Agrabah
+ENEMY 2: Fiery Globe
+DROP CHANCE: 4%
+APPEARS IN: 
+Agrabah - Agrabah, Cave of Wonders: Chasm of Challenges
+-------------------
+Blazing Crystal
+ENEMY 1: Crimson Jazz
+DROP CHANCE: 12%
+APPEARS IN: 
+Beast's Castle - The West Wing, The West Hall, Entrance Hall, Ballroom, Bridge
+Olympus Coliseum - Cave of the Dead: Entrance, Underworld Caverns: Atrium
+Agrabah - Agrabah, Cave of Wonders: Valley of Stone
+Radiant Garden - Bailey, Corridors
+ENEMY 2: Crescendo
+DROP CHANCE: 6%
+APPEARS IN: 
+Olympus Coliseum - Cave of the Dead: Passage, Underworld Caverns: The Lost Road
+-------------------
+Bright Shard
+ENEMY 1: Creeper Plant
+DROP CHANCE: 4%
+APPEARS IN: 
+Halloween Town - Hinterlands
+ENEMY 2: Soldier
+DROP CHANCE: 4%
+APPEARS IN: 
+Timeless River - Lilliput, Mickey's House
+ENEMY 3: Hook Bat
+DROP CHANCE: 3%
+APPEARS IN: 
+Land of Dragons - Village Cave
+ENEMY 4: Minute Bomb
+DROP CHANCE: 3%
+APPEARS IN: 
+Olympus Coliseum - Valley of the Dead, Underworld Caverns: Entrance
+ENEMY 5: Rabid Dog
+DROP CHANCE: 3% 
+APPEARS IN: 
+Port Royal - Harbor, Isla de Muerta: Moonlight Nook, Ship Graveyard: Seadrift Keep, Black Pearl (Ambush)
+-------------------
+Bright Stone
+ENEMY 1: Aeroplane
+DROP CHANCE: 4%
+APPEARS IN: 
+Timeless River - Pier, Waterway, Lilliput, Scene of the Fire
+ENEMY 2: Driller Mole
+DROP CHANCE: 4%
+APPEARS IN: 
+Olympus Coliseum - Valley of the Dead, Underworld Caverns: Entrance
+ENEMY 3: Luna Bandit
+DROP CHANCE: 4%
+APPEARS IN: 
+Agrabah - Bazaar
+ENEMY 4: Tornado Step
+DROP CHANCE: 4%
+APPEARS IN: 
+Olympus Coliseum - Cave of the Dead: Passage, Underworld Caverns: The Lost Road
+ENEMY 5: Wight Knight
+DROP CHANCE: 4%
+APPEARS IN: 
+Halloween Town - Halloween Town Square
+ENEMY 6: Cannon Gun
+DROP CHANCE: 3%
+APPEARS IN: 
+Land of Dragons - Summit
+Space Paranoids - Canyon, Simulation Hangar
+ENEMY 7: Silver Rock
+DROP CHANCE: 3%
+APPEARS IN: 
+Agrabah - Cave of Wonders: Valley of Stone, Bazaar 
+-------------------
+Bright Gem
+ENEMY 1: Aerial Knocker
+DROP CHANCE: 4%
+APPEARS IN: 
+The Pride Lands - Jungle
+ENEMY 2: Magnum Loader
+DROP CHANCE: 4%
+APPEARS IN: 
+Space Paranoids - Dataspace
+ENEMY 3: Surveillance Robot
+DROP CHANCE: 3%
+APPEARS IN: 
+Port Royal - Harbor, Town
+Radiant Garden - Restoration Site, Corridors, Castle Gate, The Great Maw
+Space Paranoids - I/O Tower: Hallway, Simulation Hangar
+-------------------
+Bright Crystal
+ENEMY 1: Air Pirate
+DROP CHANCE: 4%
+APPEARS IN: 
+Land of Dragons - Encampment, Checkpoint, Village Cave
+ENEMY 2: Neoshadow
+DROP CHANCE: 4%
+APPEARS IN: 
+Land of Dragons - Encampment, Mountain Trail, Ridge
+Beast's Castle - Courtyard, Bridge
+Port Royal - Town, Isla de Muerta: Powder Store, Isla de Muerta: Moonlight Nook
+Olympus Coliseum - Cave of the Dead: Passage, Underworld Caverns: The Lost Road
+Agrabah - Agrabah
+Halloween Town - Halloween Town Square, Graveyard, Candy Cane Lane
+The Pride Lands - The Savannah, Elephant Graveyard, Wildebeest Valley, Wastelands, Jungle
+Radiant Garden - Borough, Bailey, Corridors, Castle Gate
+The World That Never Was - Memory's Skyscraper
+ENEMY 3: Strafer
+DROP CHANCE: 4%
+APPEARS IN: 
+Space Paranoids - Canyon
+ENEMY 4: Crescendo
+DROP CHANCE: 3%
+APPEARS IN: 
+Olympus Coliseum - Cave of the Dead: Passage, Underworld Caverns: The Lost Road
+-------------------
+Dark Shard
+ENEMY 1: Soldier
+DROP CHANCE: 8%
+APPEARS IN: 
+Timeless River - Lilliput, Mickey's House
+ENEMY 2: Shadow
+DROP CHANCE: 4%
+APPEARS IN: 
+Timeless River - Pier, Waterway, Wharf, Mickey's House
+The World That Never Was - Fragment Crossing, Memory's Skyscraper
+-------------------			
+Dark Stone
+ENEMY 1: Assault Rider
+DROP CHANCE: 12%
+APPEARS IN: 
+Land of Dragons - Palace Gate, Antechamber, Mountain Trail, Village Cave, Summit
+ENEMY 2: Nightwalker
+DROP CHANCE: 10%
+APPEARS IN: 
+Land of Dragons - Imperial Square, Palace Gate, Mountain Trail, Ridge
+-------------------
+Dark Gem
+ENEMY 1: Gargoyle Knight
+DROP CHANCE: 10%
+APPEARS IN: 
+Beast's Castle - Entrance Hall, The East Wing, Courtyard, Undercroft, The West Hall, The West Wing
+ENEMY 2: Gargoyle Warrior
+DROP CHANCE: 10%
+APPEARS IN: 
+Beast's Castle - Entrance Hall, The East Wing, Courtyard, Undercroft, The West Hall, The West Wing
+-------------------
+Dark Crystal
+ENEMY: Air Pirate
+DROP CHANCE: 8%
+APPEARS IN: 
+Land of Dragons - Encampment, Checkpoint, Village Cave
+-------------------
+Dense Shard
+ENEMY 1: Dragoon
+DROP CHANCE: 12%
+APPEARS IN: 
+Beast's Castle - Entrance Hall, The East Wing, Bridge, Ballroom
+Twilight Town - Tower: Star Chamber, Mansion: Library, Tunnelway
+The World That Never Was - Crooked Ascension
+ENEMY 2: Creeper
+DROP CHANCE: 8%
+APPEARS IN: 
+The World That Never Was - Naught's Skyway
+-------------------
+Dense Stone
+ENEMY: Sniper
+DROP CHANCE: 12%
+APPEARS IN: 
+Land of Dragons - Summit
+Twilight Town - The Tower
+The World That Never Was - Nothing's Call, Hall of Empty Melodies (lower and upper), Ruin and Creation's Passage
+-------------------			
+Dense Gem
+ENEMY: Samurai
+DROP CHANCE: 12%
+APPEARS IN: 
+Twilight Town - Tower: Wayward Stairs (bottom section)
+The World That Never Was - Naught's Skyway, Naught's Approach
+-------------------
+Dense Crystal
+ENEMY: Berserker
+DROP CHANCE: 12%
+APPEARS IN: 
+Twilight Town - Tower: Wayward Stairs (Top section)
+The World That Never Was - Naught's Skyway, Addled Impasse, Naught's Approach
+-------------------
+Energy Shard
+ENEMY 1: Bolt Tower
+DROP CHANCE: 4%
+APPEARS IN: 
+Land of Dragons - Imperial Square
+The Pride Lands - The Savannah
+ENEMY 2: Gargoyle Knight
+DROP CHANCE: 4%
+APPEARS IN: 
+Beast's Castle - Entrance Hall, The East Wing, Courtyard, Undercroft, The West Hall, The West Wing
+ENEMY 3: Gargoyle Warrior
+DROP CHANCE: 4%
+APPEARS IN: 
+Beast's Castle - Entrance Hall, The East Wing, Courtyard, Undercroft, The West Hall, The West Wing
+ENEMY 4: Nightwalker
+DROP CHANCE: 4%
+APPEARS IN: 
+Land of Dragons - Imperial Square, Palace Gate, Mountain Trail, Ridge
+-------------------
+Energy Stone
+ENEMY 1: Hammer Frame
+DROP CHANCE: 4%
+APPEARS IN: 
+Beast's Castle - Entrance Hall, Secret Passage, The West Wing
+ENEMY 2: Lance Soldier
+DROP CHANCE: 4%
+APPEARS IN: 
+Port Royal - Town, Isla de Muerta: Cave Mouth, Ship Graveyard: Seadrift Row
+ENEMY 3: Trick Ghost
+DROP CHANCE: 4%
+APPEARS IN: 
+Halloween Town - Curly Hill, Hinterlands, Candy Cane Lane
+-------------------
+Energy Gem
+ENEMY 1: Emerald Blues
+DROP CHANCE: 4%
+APPEARS IN: 
+Land of Dragons - Encampment, Mountain Trail, Village Cave
+Agrabah - Cave of Wonders: Entrance, Cave of Wonders: Valley of Stone, Bazaar
+ENEMY 2: Fortuneteller
+DROP CHANCE: 4%
+APPEARS IN: 
+Agrabah - Cave of Wonders: Valley of Stone, Cave of Wonders: Chasm of Challenges, Cave of Wonders: Treasure Room
+-------------------
+Energy Crystal
+ENEMY 1: Bookmaster
+DROP CHANCE: 4%
+APPEARS IN: 
+Radiant Garden - Borough
+Space Paranoids - I/O Tower: Hallway
+ENEMY 2: Shaman
+DROP CHANCE: 4%
+APPEARS IN: 
+The Pride Lands - Wildebeest Valley, Wastelands
+-------------------
+Frost Shard
+ENEMY 1: Lance Soldier
+DROP CHANCE: 10%
+APPEARS IN: 
+Port Royal - Town, Isla de Muerta: Cave Mouth, Ship Graveyard: Seadrift Row
+ENEMY 2: Hook Bat
+DROP cHANCE: 6%
+APPEARS IN: 
+Land of Dragons - Village Cave
+-------------------
+Frost Stone
+ENEMY 1: Hot Rod
+DROP CHANCE: 12%
+APPEARS IN: 
+Timeless River - Wharf, Building Site, Lilliput
+ENEMY 2: Aeroplane 
+DROP CHANCE: 8%
+APPEARS IN: 
+Timeless River - Pier, Waterway, Lilliput, Scene of the Fire
+-------------------
+Frost Gem
+ENEMY 1: Fortuneteller 
+DROP CHANCE: 8%
+APPEARS IN: 
+Agrabah - Cave of Wonders: Valley of Stone, Cave of Wonders: Chasm of Challenges, Cave of Wonders: Treasure Room
+ENEMY 2: Icy Cube
+DROP CHANCE: 4%
+APPEARS IN: 
+Agrabah - Cave of Wonders: Entrance, Cave of Wonders: Chasm of Challenges
+-------------------
+Frost Crystal
+ENEMY: Living Bone
+DROP CHANCE: 12%
+APPEARS IN: 
+The Pride Lands - Battle level 43. -The Savannah, Elephant Graveyard, Wastelands
+-------------------
+Lightning Shard
+ENEMY 1: Bolt Tower
+DROP CHANCE: 10%
+APPEARS IN: 
+Land of Dragons - Imperial Square
+The Pride Lands - The Savannah
+ENEMY 2: Rapid Thruster
+DROP CHANCE: 4%
+APPEARS IN: 
+Land of Dragons - Checkpoint, Village Cave, Ridge, Summit
+Port Royal - Ship Graveyard: Seadrift Keep, Ship Graveyard: Seadrift Row
+The Pride Lands - Peak (Pride Rock level up trick, YAAAY!), Jungle
+-------------------			
+Lightning Stone
+ENEMY 1: Emerald Blues
+DROP CHANCE: 10%
+APPEARS IN: 
+Agrabah - Cave of Wonders: Entrance, Cave of Wonders: Valley of Stone, Bazaar
+ENEMY 2: Driller Mole
+DROP CHANCE: 6%
+APPEARS IN: 
+Olympus Coliseum - Valley of the Dead, Underworld Caverns: Entrance
+-------------------
+Lightning Gem
+ENEMY 1: Armored Knight
+DROP CHANCE: 12%
+APPEARS IN: 
+Port Royal - Isla de Muerta: Cave Mouth, Isla de Muerta: Moonlight Nook, Black Pearl (Ambush)
+Halloween Town - Graveyard, Hinterlands
+The Pride Lands - Wildebeest Valley
+Radiant Garden - Bailey, Restoration Site, Ravine Trail, The Great Maw
+ENEMY 2: Surveillance Robot
+DROP CHANCE: 8%
+APPEARS IN: 
+Port Royal - Harbor, Town
+Radiant Garden - Restoration Site, Corridors, Castle Gate, The Great Maw
+Space Paranoids - I/O Tower: Hallway, Simulation Hangar
+-------------------
+Lightning Crystal
+ENEMY 1: Strafer 
+DROP CHANCE: 6%
+APPEARS IN: 
+Space Paranoids - Canyon
+ENEMY 2: Devastator
+DROP CHANCE: 4%
+APPEARS IN: 
+Space Paranoids - Canyon, Dataspace, I/O Tower: Hallway
+-------------------
+Lucid Shard
+ENEMY 1: Trick Ghost
+DROP CHANCE: 10%
+APPEARS IN: 
+Halloween Town - Curly Hill, Hinterlands, Candy Cane Lane
+ENEMY 2: Rabid Dog
+DROP CHANCE: 6%
+APPEARS IN: 
+Port Royal - Harbor, Isla de Muerta: Moonlight Nook, Ship Graveyard: Seadrift Keep, Black Pearl (Ambush)
+-------------------
+Lucid Stone
+ENEMY 1: Graveyard
+DROP CHANCE: 12%
+APPEARS IN: 
+Halloween Town - Halloween Town Square, Graveyard, Curly Hill
+ENEMY 2: Toy Soldier
+DROP CHANCE: 12%
+APPEARS IN: 
+Halloween Town - Candy Cane Lane
+ENEMY 3: Wight Knight
+DROP CHANCE: 8%
+APPEARS IN: 
+Halloween Town - Halloween Town Square
+-------------------
+Lucid Gem
+ENEMY 1: Bookmaster
+DROP CHANCE: 10%
+APPEARS IN: 
+Radiant Garden - Borough
+Space Paranoids - I/O Tower: Hallway
+ENEMY 2: Magnum Loader
+DROP CHANCE: 8%
+APPEARS IN: 
+Space Paranoids - Dataspace
+-------------------
+Lucid Crystal
+ENEMY: Neoshadow
+DROP CHANCE: 8%
+APPEARS IN: 
+Land of Dragons - Encampment, Mountain Trail, Ridge
+Beast's Castle - Courtyard, Bridge
+Port Royal - Town, Isla de Muerta: Powder Store, Isla de Muerta: Moonlight Nook
+Olympus Coliseum - Cave of the Dead: Passage, Underworld Caverns: The Lost Road
+Agrabah - Agrabah
+Halloween Town - Halloween Town Square, Graveyard, Candy Cane Lane
+The Pride Lands - The Savannah, Elephant Graveyard, Wildebeest Valley, Wastelands, Jungle
+Radiant Garden - Borough, Bailey, Corridors, Castle Gate
+The World That Never Was - Memory's Skyscraper
+-------------------
+Orichalcum
+ENEMY: Bulky Vendor (All Reactions)
+DROP CHANCE: 100%
+APPEARS IN: 
+*See Bulky Vendor FAQ section*
+-------------------
+Orichalcum+
+ENEMY: Treasure
+DROP CHANCE: 100%
+APPEARS IN: 
+Space Paranoirds - Central Computer Mesa
+ENEMY: Treasure
+DROP CHANCE: 100%
+APPEARS IN: 
+Twilight Town - Sunset Terrace
+ENEMY: Treasure
+DROP CHANCE: 100%
+APPEARS IN: 
+The World That Never Was - The Brink of Despair
+ENEMY: Prize
+DROP CHANCE: 100%
+APPEARS IN: 
+100 Acre Wood - Beat Starry Hill Mini-game
+ENEMY: Prize
+DROP CHANCE: 100%
+APPEARS IN: 
+Atlantica - Clear the song "A New Day is Dawning."
+ENEMY: Prize
+DROP CHANCE: 100%
+APPEARS IN: 
+Olympus Coliseum - Win the Goddess of Fate Cup.
+ENEMY: Prize
+DROP CHANCE: 100%
+APPEARS IN: 
+Moogle Shop. Collect at least one of every material. Once collected, leave shop and re-enter to get.
+-------------------
+Power Shard
+ENEMY: Large Body 
+DROP CHANCE: 12%
+APPEARS IN: 
+Timeless River - Waterway, Building Site, Scene of the Fire
+Beast's Castle - Ballroom, Secret Passage
+ENEMY: Creeper Plant
+DROP CHANCE: 8%
+APPEARS IN: 
+Halloween Town - Battle level 41. -Hinterlands
+-------------------
+Power Stone
+ENEMY: Luna Bandit
+DROP CHANCE: 8%
+APPEARS IN: 
+Agrabah - Bazaar
+ENEMY 2: Silver Rock
+DROP CHANCE: 6%
+APPEARS IN: 
+Agrabah - Cave of Wonders: Valley of Stone, Bazaar
+-------------------
+Power Gem
+ENEMY: Shaman
+DROP CHANCE: 10%
+APPEARS IN: 
+The Pride Lands - Wildebeest Valley, Wastelands
+ENEMY: Aerial Knocker
+DROP CHANCE: 8%
+APPEARS IN: 
+The Pride Lands - Jungle
+-------------------
+Power Crystal
+ENEMY: Morning Star
+DROP CHANCE: 12%
+APPEARS IN: 
+Beast's Castle - The West Hall, Entrance Hall, Ballroom
+Port Royal - Isla de Muerta: Powder Store, Isla de Muerta: Moonlight Nook, Ship Graveyard: Seadrift Keep
+Olympus Coliseum - Cave of the Dead: Entrance, Underworld Caverns: Atrium
+Radiant Garden - Borough, Restoration Site, Castle Gate, Ravine Trail
+-------------------
+Serenity Shard
+ENEMY: Assault Rider
+DROP CHANCE: 4%
+APPEARS IN: 
+Land of Dragons - Palace Gate, Antechamber, Mountain Trail, Village Cave, Summit
+ENEMY: Fat Bandit
+DROP CHANCE: 4%
+APPEARS IN: 
+Agrabah - Agrabah
+ENEMY: Graveyard
+DROP CHANCE: 4%
+APPEARS IN: 
+Halloween Town - Halloween Town Square, Graveyard, Curly Hill
+ENEMY: Hot Rod
+DROP CHANCE: 4%
+APPEARS IN: 
+Timeless River - Wharf, Building Site, Lilliput
+ENEMY: Large Body
+DROP CHANCE: 4%
+APPEARS IN: 
+Timeless River - Waterway, Building Site, Scene of the Fire
+Beast's Castle - Ballroom, Secret Passage
+ENEMY: Toy Soldier
+DROP CHANCE: 4%
+APPEARS IN: 
+Halloween Town - Candy Cane Lane
+ENEMY: Creeper
+DROP CHANCE: 2%
+APPEARS IN: 
+The World That Never Was - Naught's Skyway
+ENEMY: Bulky Vendor (Capsule Prize Reaction, 100-75% HP)
+DROP CHANCE: 100%
+APPEARS IN: 
+*See Bulky Vendor FAQ section*
+-------------------
+Serenity Stone
+ENEMY: Crimson Jazz
+DROP CHANCE: 4%
+APPEARS IN: 
+Beast's Castle - The West Wing, The West Hall, Entrance Hall, Ballroom, Bridge
+Olympus Coliseum - Cave of the Dead: Entrance, Underworld Caverns: Atrium
+Agrabah - Agrabah, Cave of Wonders: Valley of Stone
+Radiant Garden - Bailey, Corridors
+ENEMY 2: Devastator
+DROP CHANCE: 4%
+APPEARS IN: 
+Space Paranoids - Canyon, Dataspace, I/O Tower: Hallway
+ENEMY 3: Living Bone
+DROP CHANCE: 4%
+APPEARS IN: 
+The Pride Lands - The Savannah, Elephant Graveyard, Wastelands
+ENEMY 4: Morning Star
+DROP CHANCE: 4%
+APPEARS IN: 
+Beast's Castle - The West Hall, Entrance Hall, Ballroom
+Port Royal - Isla de Muerta: Powder Store, Isla de Muerta: Moonlight Nook, Ship Graveyard: Seadrift Keep
+Olympus Coliseum - Cave of the Dead: Entrance, Underworld Caverns: Atrium
+Radiant Garden - Borough, Restoration Site, Castle Gate, Ravine Trail
+ENEMY 5: Dusk
+DROP CHANCE: 2%
+APPEARS IN: 
+Land of Dragons - Ridge, Summit
+Beast's Castle - Entrance Hall, Bridge, Ballroom
+Port Royal - Isla de Muerta: Moonlight Nook
+Twilight Town - Tower: Wayward Stairs (all sections), The Tower, Mansion: Foyer, Mansion: Library, Mansion: Basement Corridor, Underground Concourse, Tunnelway
+The World That Never Was - Havoc's Divide, Addled Impasse
+ENEMY 6: Bulky Vendor (Rare Capsule Reaction, 74-50% HP)
+DROP CHANCE: 100%
+APPEARS IN: 
+*See Bulky Vendor FAQ section*
+-------------------			
+Serenity Gem
+ENEMY 1: Dancer
+DROP CHANCE: 4%
+APPEARS IN: 
+Twilight Town - Tower: Wayward Stairs (middle section), Mansion: Basement Corridor
+The World That Never Was - Naught's Approach
+ENEMY 2: Dragoon
+DROP CHANCE: 4%
+APPEARS IN: 
+Beast's Castle - Entrance Hall, The East Wing, Bridge, Ballroom
+Twilight Town - Tower: Star Chamber, Mansion: Library, Tunnelway
+The World That Never Was - Crooked Ascension
+ENEMY 3: Gambler
+DROP CHANCE: 4%
+APPEARS IN: 
+Port Royal - Black Pearl (Ambush), Isla de Muerta, Moonlight Nook, Isla de Muerta: Treasure Heap, Isla de Muerta: Powder Store, Isla de Muerta: Cave Mouth, Ship Graveyard: Seadrift Keep
+Twilight Town - Tower: Moon Chamber, Mansion: Foyer, Mansion: Dining Room, Underground Concourse
+The World That Never Was - Havoc's Divide
+ENEMY 4: Sniper
+DROP CHANCE: 4%
+APPEARS IN: 
+Land of Dragons - Summit
+Twilight Town - The Tower
+The World That Never Was - Nothing's Call, Hall of Empty Melodies (lower and upper), Ruin and Creation's Passage
+ENEMY 5: Bulky Vendor (Limited Capsule Reaction, 49-25% HP)
+DROP CHANCE: 100%
+APPEARS IN: 
+*See Bulky Vendor FAQ section*
+-------------------
+Serenity Crystal
+ENEMY 1: Assassin
+DROP CHANCE: 4%
+APPEARS IN: 
+The World That Never Was - Hall of Empty Melodies (upper) (it's before Proof of Existence)
+ENEMY 2: Berserker
+DROP CHANCE: 4%
+APPEARS IN: 
+Twilight Town - Tower: Wayward Stairs (Top section)
+The World That Never Was - Naught's Skyway, Addled Impasse, Naught's Approach
+ENEMY 3: Samurai
+DROP CHANCE: 4%
+APPEARS IN: 
+Twilight Town - Tower: Wayward Stairs (bottom section)
+The World That Never Was - Naught's Skyway, Naught's Approach
+ENEMY 4: Sorcerer
+DROP CHANCE: 4%
+APPEARS IN: The World That Never Was - Nothing's Call, Ruin and Creation's Passage
+ENEMY 5: Bulky Vendor (Prime Capsule Reaction, 24-1% HP)
+DROP CHANCE: 100%
+APPEARS IN:  
+*See Bulky Vendor FAQ section*
+-------------------
+Twilight Shard
+ENEMY 1: Gambler
+DROP CHANCE: 12%
+APPEARS IN: 
+Port Royal - Black Pearl (Ambush), Isla de Muerta, Moonlight Nook, Isla de Muerta: Treasure Heap, Isla de Muerta: Powder Store, Isla de Muerta: Cave Mouth, Ship Graveyard: Seadrift Keep
+Twilight Town - Tower: Moon Chamber, Mansion: Foyer, Mansion: Dining Room, Underground Concourse
+The World That Never Was - Havoc's Divide
+ENEMY 2: Dusk
+DROP CHANCE: 10%
+APPEARS IN: 
+Land of Dragons - Ridge, Summit
+Beast's Castle - Entrance Hall, Bridge, Ballroom
+Port Royal - Isla de Muerta: Moonlight Nook
+Twilight Town - Tower: Wayward Stairs (all sections), The Tower, Mansion: Foyer, Mansion: Library, Mansion: Basement Corridor, Underground Concourse, Tunnelway
+The World That Never Was - Havoc's Divide, Addled Impasse
+-------------------
+Twilight Stone
+ENEMY 1: Dancer
+DROP CHANCE: 12%
+APPEARS IN: 
+Twilight Town - Tower: Wayward Stairs (middle section), Mansion: Basement Corridor
+The World That Never Was - Battle level 50. -Naught's Approach
+-------------------			
+Twilight Gem
+ENEMY 1: Assassin
+DROP CHANCE: 12%
+APPEARS IN: 
+The World That Never Was - Hall of Empty Melodies (upper) (it's before Proof of Existence)
+-------------------
+Twilight Crystal
+ENEMY 1: Sorcerer
+DROP CHANCE: 12%
+APPEARS IN: 
+The World That Never Was - Nothing's Call, Ruin and Creation's Passage
+-------------------
+Remembrance Shard
+ENEMY 1: Perplex
+DROP CHANCE: 6%
+APPEARS IN: 
+Radiant Garden - Cavern of Remembrance
+ENEMY 2: Iron Hammer
+DROP CHANCE: 10%
+APPEARS IN: 
+Radiant Garden - Cavern of Remembrance
+ENEMY 3: Silent Launcher
+DROP CHANCE: 6%
+APPEARS IN: 
+Radiant Garden - Cavern of Remembrance
+-------------------
+Remembrance Stone
+ENEMY 1: Air Viking
+DROP CHANCE: 6%
+APPEARS IN: 
+Radiant Garden - Cavern of Remembrance
+ENEMY 2: Magic Phantom
+DROP CHANCE: 10%
+APPEARS IN: 
+Radiant Garden - Cavern of Remembrance
+ENEMY 3: Lance Warrior
+DROP CHANCE: 10%
+APPEARS IN: 
+Radiant Garden - Cavern of Remembrance
+ENEMY 4: Lance Warrior
+DROP CHANCE: 10%
+APPEARS IN: 
+Radiant Garden - Cavern of Remembrance
+-------------------
+Remembrance Gem
+ENEMY 1: Spring Metal
+DROP CHANCE: 10%
+APPEARS IN: 
+Radiant Garden - Cavern of Remembrance
+ENEMY 2: Runemaster
+DROP CHANCE: 10%
+APPEARS IN: 
+Radiant Garden - Cavern of Remembrance
+ENEMY 3: Mad Bumper
+DROP CHANCE: 12%
+APPEARS IN: 
+Radiant Garden - Cavern of Remembrance
+ENEMY 4: Lance Warrior
+DROP CHANCE: 10%
+APPEARS IN: 
+Radiant Garden - Cavern of Remembrance
+-------------------
+Remembrance Crystal
+ENEMY 1: Reckless
+DROP CHANCE: 12%
+APPEARS IN: 
+Radiant Garden - Cavern of Remembrance: Engine Chamber
+-------------------
+Tranquil Shard
+ENEMY 1: Mushroom XIII
+DROP CHANCE: 100%
+APPEARS IN: 
+*See Mushroom XIII FAQ section*
+-------------------
+Tranquil Stone
+ENEMY 1: Mushroom XIII
+DROP CHANCE: 100%
+APPEARS IN: 
+*See Mushroom XIII FAQ section*
+-------------------
+Tranquil Gem
+ENEMY 1: Mushroom XIII
+DROP CHANCE: 100%
+APPEARS IN: 
+*See Mushroom XIII FAQ section*
+-------------------
+Tranquil Crystal
+ENEMY 1: Mushroom XIII
+DROP CHANCE: 100%
+APPEARS IN: 
+*See Mushroom XIII FAQ section*
+-------------------
+Manifest Illusion
+ENEMY 1: Lingering Will
+DROP CHANCE: 100%
+APPEARS IN: 
+Disney Castle - Castle
+ENEMY 2: Frontier Puzzle
+DROP CHANCE: 100%
+APPEARS IN: 
+Journal
+ENEMY 3: Cavern of Remembrance: Depths
+DROP CHANCE: 100%
+APPEARS IN: 
+Radiant Garden - Cavern of Remembrance: Depths
+-------------------
+Lost Illusion
+ENEMY 1: Absent Silhouette
+DROP CHANCE: 100%
+APPEARS IN: Organization XIII Replica data
+-------------------
+Mythril Shard
+ENEMY 1: Mushroom XIII
+DROP CHANCE: 100%
+APPEARS IN: 
+*Only obtained through item synthesis and chests*
+-------------------
+Mythril Stone
+ENEMY 1: Mushroom XIII
+DROP CHANCE: 100%
+APPEARS IN: 
+*Only obtained through item synthesis and chests*
+-------------------
+Mythril Gem
+ENEMY 1: Mushroom XIII
+DROP CHANCE: 100%
+APPEARS IN: 
+*Only obtained through item synthesis and chests*
+-------------------
+Mythril Crystal
+ENEMY 1: Mushroom XIII
+DROP CHANCE: 100%
+APPEARS IN: 
+*Only obtained through item synthesis and chests*

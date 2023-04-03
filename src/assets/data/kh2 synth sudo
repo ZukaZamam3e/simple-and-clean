@@ -1,0 +1,19 @@
+Object: Drop Information
+Prop: MaterialId - number
+Prop: Enemy - string
+Prop: Drop Chance - number
+Prop: World - string	
+Prop: Notes - string
+
+Object: Material
+Prop: Id - number
+Prop: Name - string
+Prop: Drops - Drop Information[]
+
+Object: Recipe
+Prop: RecipeId - number
+Prop: MaterialId - number
+Prop: Quantity - number
+Prop: Exp - number
+
+

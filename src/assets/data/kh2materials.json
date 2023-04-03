@@ -1,0 +1,1756 @@
+[
+  {
+    "MaterialId": 0,
+    "Name": "Blazing Shard",
+    "Rank": "C",
+    "Drops": [
+      {
+        "MaterialId": 0,
+        "Enemy": "Hammer Frame",
+        "Locations": [
+          "Beast\u0027s Castle - Entrance Hall, Secret Passage, The West Wing"
+        ],
+        "DropChance": 10
+      },
+      {
+        "MaterialId": 0,
+        "Enemy": "Minute Bomb ",
+        "Locations": [
+          "Olympus Coliseum - Valley of the Dead, Underworld Caverns: Entrance"
+        ],
+        "DropChance": 6
+      }
+    ],
+    "Image": "blazing.png",
+    "OrderNumber": 1
+  },
+  {
+    "MaterialId": 1,
+    "Name": "Blazing Stone",
+    "Rank": "B",
+    "Drops": [
+      {
+        "MaterialId": 1,
+        "Enemy": "Tornado Step",
+        "Locations": [
+          "Olympus Coliseum - Cave of the Dead: Passage, Underworld Caverns: The Lost Road"
+        ],
+        "DropChance": 8
+      },
+      {
+        "MaterialId": 1,
+        "Enemy": "Cannon Gun",
+        "Locations": [
+          "Land of Dragons - Summit",
+          "Space Paranoids - Canyon, Simulation Hangar"
+        ],
+        "DropChance": 6
+      }
+    ],
+    "Image": "blazing.png",
+    "OrderNumber": 2
+  },
+  {
+    "MaterialId": 2,
+    "Name": "Blazing Gem",
+    "Rank": "A",
+    "Drops": [
+      {
+        "MaterialId": 2,
+        "Enemy": "Fat Bandit",
+        "Locations": [
+          "Agrabah - Agrabah"
+        ],
+        "DropChance": 12
+      },
+      {
+        "MaterialId": 2,
+        "Enemy": "Fiery Globe",
+        "Locations": [
+          "Agrabah - Agrabah, Cave of Wonders: Chasm of Challenges"
+        ],
+        "DropChance": 4
+      }
+    ],
+    "Image": "blazing.png",
+    "OrderNumber": 3
+  },
+  {
+    "MaterialId": 3,
+    "Name": "Blazing Crystal",
+    "Rank": "S",
+    "Drops": [
+      {
+        "MaterialId": 3,
+        "Enemy": "Crimson Jazz",
+        "Locations": [
+          "Beast\u0027s Castle - The West Wing, The West Hall, Entrance Hall, Ballroom, Bridge",
+          "Olympus Coliseum - Cave of the Dead: Entrance, Underworld Caverns: Atrium",
+          "Agrabah - Agrabah, Cave of Wonders: Valley of Stone",
+          "Radiant Garden - Bailey, Corridors"
+        ],
+        "DropChance": 12
+      },
+      {
+        "MaterialId": 3,
+        "Enemy": "Crescendo",
+        "Locations": [
+          "Olympus Coliseum - Cave of the Dead: Passage, Underworld Caverns: The Lost Road"
+        ],
+        "DropChance": 6
+      }
+    ],
+    "Image": "blazing.png",
+    "OrderNumber": 4
+  },
+  {
+    "MaterialId": 4,
+    "Name": "Frost Shard",
+    "Rank": "C",
+    "Drops": [
+      {
+        "MaterialId": 4,
+        "Enemy": "Lance Soldier",
+        "Locations": [
+          "Port Royal - Town, Isla de Muerta: Cave Mouth, Ship Graveyard: Seadrift Row"
+        ],
+        "DropChance": 10
+      },
+      {
+        "MaterialId": 4,
+        "Enemy": "Hook Bat",
+        "Locations": [
+          "Land of Dragons - Village Cave"
+        ],
+        "DropChance": 6
+      }
+    ],
+    "Image": "frost.png",
+    "OrderNumber": 5
+  },
+  {
+    "MaterialId": 5,
+    "Name": "Frost Stone",
+    "Rank": "B",
+    "Drops": [
+      {
+        "MaterialId": 5,
+        "Enemy": "Hot Rod",
+        "Locations": [
+          "Timeless River - Wharf, Building Site, Lilliput"
+        ],
+        "DropChance": 12
+      },
+      {
+        "MaterialId": 5,
+        "Enemy": "Aeroplane ",
+        "Locations": [
+          "Timeless River - Pier, Waterway, Lilliput, Scene of the Fire"
+        ],
+        "DropChance": 8
+      }
+    ],
+    "Image": "frost.png",
+    "OrderNumber": 6
+  },
+  {
+    "MaterialId": 6,
+    "Name": "Frost Gem",
+    "Rank": "A",
+    "Drops": [
+      {
+        "MaterialId": 6,
+        "Enemy": "Fortuneteller ",
+        "Locations": [
+          "Agrabah - Cave of Wonders: Valley of Stone, Cave of Wonders: Chasm of Challenges, Cave of Wonders: Treasure Room"
+        ],
+        "DropChance": 8
+      },
+      {
+        "MaterialId": 6,
+        "Enemy": "Icy Cube",
+        "Locations": [
+          "Agrabah - Cave of Wonders: Entrance, Cave of Wonders: Chasm of Challenges"
+        ],
+        "DropChance": 4
+      }
+    ],
+    "Image": "frost.png",
+    "OrderNumber": 7
+  },
+  {
+    "MaterialId": 7,
+    "Name": "Frost Crystal",
+    "Rank": "S",
+    "Drops": [
+      {
+        "MaterialId": 7,
+        "Enemy": "Living Bone",
+        "Locations": [
+          "The Pride Lands - Battle level 43. -The Savannah, Elephant Graveyard, Wastelands"
+        ],
+        "DropChance": 12
+      }
+    ],
+    "Image": "frost.png",
+    "OrderNumber": 8
+  },
+  {
+    "MaterialId": 8,
+    "Name": "Lightning Shard",
+    "Rank": "C",
+    "Drops": [
+      {
+        "MaterialId": 8,
+        "Enemy": "Bolt Tower",
+        "Locations": [
+          "Land of Dragons - Imperial Square",
+          "The Pride Lands - The Savannah"
+        ],
+        "DropChance": 10
+      },
+      {
+        "MaterialId": 8,
+        "Enemy": "Rapid Thruster",
+        "Locations": [
+          "Land of Dragons - Checkpoint, Village Cave, Ridge, Summit",
+          "Port Royal - Ship Graveyard: Seadrift Keep, Ship Graveyard: Seadrift Row",
+          "The Pride Lands - Peak (Pride Rock level up trick, YAAAY!), Jungle"
+        ],
+        "DropChance": 4
+      }
+    ],
+    "Image": "lightning.png",
+    "OrderNumber": 9
+  },
+  {
+    "MaterialId": 9,
+    "Name": "Lightning Stone",
+    "Rank": "B",
+    "Drops": [
+      {
+        "MaterialId": 9,
+        "Enemy": "Emerald Blues",
+        "Locations": [
+          "Agrabah - Cave of Wonders: Entrance, Cave of Wonders: Valley of Stone, Bazaar"
+        ],
+        "DropChance": 10
+      },
+      {
+        "MaterialId": 9,
+        "Enemy": "Driller Mole",
+        "Locations": [
+          "Olympus Coliseum - Valley of the Dead, Underworld Caverns: Entrance"
+        ],
+        "DropChance": 6
+      }
+    ],
+    "Image": "lightning.png",
+    "OrderNumber": 10
+  },
+  {
+    "MaterialId": 10,
+    "Name": "Lightning Gem",
+    "Rank": "A",
+    "Drops": [
+      {
+        "MaterialId": 10,
+        "Enemy": "Armored Knight",
+        "Locations": [
+          "Port Royal - Isla de Muerta: Cave Mouth, Isla de Muerta: Moonlight Nook, Black Pearl (Ambush)",
+          "Halloween Town - Graveyard, Hinterlands",
+          "The Pride Lands - Wildebeest Valley",
+          "Radiant Garden - Bailey, Restoration Site, Ravine Trail, The Great Maw"
+        ],
+        "DropChance": 12
+      },
+      {
+        "MaterialId": 10,
+        "Enemy": "Surveillance Robot",
+        "Locations": [
+          "Port Royal - Harbor, Town",
+          "Radiant Garden - Restoration Site, Corridors, Castle Gate, The Great Maw",
+          "Space Paranoids - I/O Tower: Hallway, Simulation Hangar"
+        ],
+        "DropChance": 8
+      }
+    ],
+    "Image": "lightning.png",
+    "OrderNumber": 11
+  },
+  {
+    "MaterialId": 11,
+    "Name": "Lightning Crystal",
+    "Rank": "S",
+    "Drops": [
+      {
+        "MaterialId": 11,
+        "Enemy": "Strafer ",
+        "Locations": [
+          "Space Paranoids - Canyon"
+        ],
+        "DropChance": 6
+      },
+      {
+        "MaterialId": 11,
+        "Enemy": "Devastator",
+        "Locations": [
+          "Space Paranoids - Canyon, Dataspace, I/O Tower: Hallway"
+        ],
+        "DropChance": 4
+      }
+    ],
+    "Image": "lightning.png",
+    "OrderNumber": 12
+  },
+  {
+    "MaterialId": 12,
+    "Name": "Lucid Shard",
+    "Rank": "C",
+    "Drops": [
+      {
+        "MaterialId": 12,
+        "Enemy": "Trick Ghost",
+        "Locations": [
+          "Halloween Town - Curly Hill, Hinterlands, Candy Cane Lane"
+        ],
+        "DropChance": 10
+      },
+      {
+        "MaterialId": 12,
+        "Enemy": "Rabid Dog",
+        "Locations": [
+          "Port Royal - Harbor, Isla de Muerta: Moonlight Nook, Ship Graveyard: Seadrift Keep, Black Pearl (Ambush)"
+        ],
+        "DropChance": 6
+      }
+    ],
+    "Image": "lucid.png",
+    "OrderNumber": 13
+  },
+  {
+    "MaterialId": 13,
+    "Name": "Lucid Stone",
+    "Rank": "B",
+    "Drops": [
+      {
+        "MaterialId": 13,
+        "Enemy": "Graveyard",
+        "Locations": [
+          "Halloween Town - Halloween Town Square, Graveyard, Curly Hill"
+        ],
+        "DropChance": 12
+      },
+      {
+        "MaterialId": 13,
+        "Enemy": "Toy Soldier",
+        "Locations": [
+          "Halloween Town - Candy Cane Lane"
+        ],
+        "DropChance": 12
+      },
+      {
+        "MaterialId": 13,
+        "Enemy": "Wight Knight",
+        "Locations": [
+          "Halloween Town - Halloween Town Square"
+        ],
+        "DropChance": 8
+      }
+    ],
+    "Image": "lucid.png",
+    "OrderNumber": 14
+  },
+  {
+    "MaterialId": 14,
+    "Name": "Lucid Gem",
+    "Rank": "A",
+    "Drops": [
+      {
+        "MaterialId": 14,
+        "Enemy": "Bookmaster",
+        "Locations": [
+          "Radiant Garden - Borough",
+          "Space Paranoids - I/O Tower: Hallway"
+        ],
+        "DropChance": 10
+      },
+      {
+        "MaterialId": 14,
+        "Enemy": "Magnum Loader",
+        "Locations": [
+          "Space Paranoids - Dataspace"
+        ],
+        "DropChance": 8
+      }
+    ],
+    "Image": "lucid.png",
+    "OrderNumber": 15
+  },
+  {
+    "MaterialId": 15,
+    "Name": "Lucid Crystal",
+    "Rank": "S",
+    "Drops": [
+      {
+        "MaterialId": 15,
+        "Enemy": "Neoshadow",
+        "Locations": [
+          "Land of Dragons - Encampment, Mountain Trail, Ridge",
+          "Beast\u0027s Castle - Courtyard, Bridge",
+          "Port Royal - Town, Isla de Muerta: Powder Store, Isla de Muerta: Moonlight Nook",
+          "Olympus Coliseum - Cave of the Dead: Passage, Underworld Caverns: The Lost Road",
+          "Agrabah - Agrabah",
+          "Halloween Town - Halloween Town Square, Graveyard, Candy Cane Lane",
+          "The Pride Lands - The Savannah, Elephant Graveyard, Wildebeest Valley, Wastelands, Jungle",
+          "Radiant Garden - Borough, Bailey, Corridors, Castle Gate",
+          "The World That Never Was - Memory\u0027s Skyscraper"
+        ],
+        "DropChance": 8
+      }
+    ],
+    "Image": "lucid.png",
+    "OrderNumber": 16
+  },
+  {
+    "MaterialId": 16,
+    "Name": "Power Shard",
+    "Rank": "C",
+    "Drops": [
+      {
+        "MaterialId": 16,
+        "Enemy": "Large Body ",
+        "Locations": [
+          "Timeless River - Waterway, Building Site, Scene of the Fire",
+          "Beast\u0027s Castle - Ballroom, Secret Passage"
+        ],
+        "DropChance": 12
+      },
+      {
+        "MaterialId": 16,
+        "Enemy": "Creeper Plant",
+        "Locations": [
+          "Halloween Town - Battle level 41. -Hinterlands"
+        ],
+        "DropChance": 8
+      }
+    ],
+    "Image": "power.png",
+    "OrderNumber": 17
+  },
+  {
+    "MaterialId": 17,
+    "Name": "Power Stone",
+    "Rank": "B",
+    "Drops": [
+      {
+        "MaterialId": 17,
+        "Enemy": "Luna Bandit",
+        "Locations": [
+          "Agrabah - Bazaar"
+        ],
+        "DropChance": 8
+      },
+      {
+        "MaterialId": 17,
+        "Enemy": "Silver Rock",
+        "Locations": [
+          "Agrabah - Cave of Wonders: Valley of Stone, Bazaar"
+        ],
+        "DropChance": 6
+      }
+    ],
+    "Image": "power.png",
+    "OrderNumber": 18
+  },
+  {
+    "MaterialId": 18,
+    "Name": "Power Gem",
+    "Rank": "A",
+    "Drops": [
+      {
+        "MaterialId": 18,
+        "Enemy": "Shaman",
+        "Locations": [
+          "The Pride Lands - Wildebeest Valley, Wastelands"
+        ],
+        "DropChance": 10
+      },
+      {
+        "MaterialId": 18,
+        "Enemy": "Aerial Knocker",
+        "Locations": [
+          "The Pride Lands - Jungle"
+        ],
+        "DropChance": 8
+      }
+    ],
+    "Image": "power.png",
+    "OrderNumber": 19
+  },
+  {
+    "MaterialId": 19,
+    "Name": "Power Crystal",
+    "Rank": "S",
+    "Drops": [
+      {
+        "MaterialId": 19,
+        "Enemy": "Morning Star",
+        "Locations": [
+          "Beast\u0027s Castle - The West Hall, Entrance Hall, Ballroom",
+          "Port Royal - Isla de Muerta: Powder Store, Isla de Muerta: Moonlight Nook, Ship Graveyard: Seadrift Keep",
+          "Olympus Coliseum - Cave of the Dead: Entrance, Underworld Caverns: Atrium",
+          "Radiant Garden - Borough, Restoration Site, Castle Gate, Ravine Trail"
+        ],
+        "DropChance": 12
+      }
+    ],
+    "Image": "power.png",
+    "OrderNumber": 20
+  },
+  {
+    "MaterialId": 20,
+    "Name": "Dark Shard",
+    "Rank": "C",
+    "Drops": [
+      {
+        "MaterialId": 20,
+        "Enemy": "Soldier",
+        "Locations": [
+          "Timeless River - Lilliput, Mickey\u0027s House"
+        ],
+        "DropChance": 8
+      },
+      {
+        "MaterialId": 20,
+        "Enemy": "Shadow",
+        "Locations": [
+          "Timeless River - Pier, Waterway, Wharf, Mickey\u0027s House",
+          "The World That Never Was - Fragment Crossing, Memory\u0027s Skyscraper"
+        ],
+        "DropChance": 4
+      }
+    ],
+    "Image": "dark.png",
+    "OrderNumber": 21
+  },
+  {
+    "MaterialId": 21,
+    "Name": "Dark Stone",
+    "Rank": "B",
+    "Drops": [
+      {
+        "MaterialId": 21,
+        "Enemy": "Assault Rider",
+        "Locations": [
+          "Land of Dragons - Palace Gate, Antechamber, Mountain Trail, Village Cave, Summit"
+        ],
+        "DropChance": 12
+      },
+      {
+        "MaterialId": 21,
+        "Enemy": "Nightwalker",
+        "Locations": [
+          "Land of Dragons - Imperial Square, Palace Gate, Mountain Trail, Ridge"
+        ],
+        "DropChance": 10
+      }
+    ],
+    "Image": "dark.png",
+    "OrderNumber": 22
+  },
+  {
+    "MaterialId": 22,
+    "Name": "Dark Gem",
+    "Rank": "A",
+    "Drops": [
+      {
+        "MaterialId": 22,
+        "Enemy": "Gargoyle Knight",
+        "Locations": [
+          "Beast\u0027s Castle - Entrance Hall, The East Wing, Courtyard, Undercroft, The West Hall, The West Wing"
+        ],
+        "DropChance": 10
+      },
+      {
+        "MaterialId": 22,
+        "Enemy": "Gargoyle Warrior",
+        "Locations": [
+          "Beast\u0027s Castle - Entrance Hall, The East Wing, Courtyard, Undercroft, The West Hall, The West Wing"
+        ],
+        "DropChance": 10
+      }
+    ],
+    "Image": "dark.png",
+    "OrderNumber": 23
+  },
+  {
+    "MaterialId": 23,
+    "Name": "Dark Crystal",
+    "Rank": "S",
+    "Drops": [
+      {
+        "MaterialId": 23,
+        "Enemy": "Air Pirate",
+        "Locations": [
+          "Land of Dragons - Encampment, Checkpoint, Village Cave"
+        ],
+        "DropChance": 8
+      }
+    ],
+    "Image": "dark.png",
+    "OrderNumber": 24
+  },
+  {
+    "MaterialId": 24,
+    "Name": "Dense Shard",
+    "Rank": "C",
+    "Drops": [
+      {
+        "MaterialId": 24,
+        "Enemy": "Dragoon",
+        "Locations": [
+          "Beast\u0027s Castle - Entrance Hall, The East Wing, Bridge, Ballroom",
+          "Twilight Town - Tower: Star Chamber, Mansion: Library, Tunnelway",
+          "The World That Never Was - Crooked Ascension"
+        ],
+        "DropChance": 12
+      },
+      {
+        "MaterialId": 24,
+        "Enemy": "Creeper",
+        "Locations": [
+          "The World That Never Was - Naught\u0027s Skyway"
+        ],
+        "DropChance": 8
+      }
+    ],
+    "Image": "dense.png",
+    "OrderNumber": 25
+  },
+  {
+    "MaterialId": 25,
+    "Name": "Dense Stone",
+    "Rank": "B",
+    "Drops": [
+      {
+        "MaterialId": 25,
+        "Enemy": "Sniper",
+        "Locations": [
+          "Land of Dragons - Summit",
+          "Twilight Town - The Tower",
+          "The World That Never Was - Nothing\u0027s Call, Hall of Empty Melodies (lower and upper), Ruin and Creation\u0027s Passage"
+        ],
+        "DropChance": 12
+      }
+    ],
+    "Image": "dense.png",
+    "OrderNumber": 26
+  },
+  {
+    "MaterialId": 26,
+    "Name": "Dense Gem",
+    "Rank": "A",
+    "Drops": [
+      {
+        "MaterialId": 26,
+        "Enemy": "Samurai",
+        "Locations": [
+          "Twilight Town - Tower: Wayward Stairs (bottom section)",
+          "The World That Never Was - Naught\u0027s Skyway, Naught\u0027s Approach"
+        ],
+        "DropChance": 12
+      }
+    ],
+    "Image": "dense.png",
+    "OrderNumber": 27
+  },
+  {
+    "MaterialId": 27,
+    "Name": "Dense Crystal",
+    "Rank": "S",
+    "Drops": [
+      {
+        "MaterialId": 27,
+        "Enemy": "Berserker",
+        "Locations": [
+          "Twilight Town - Tower: Wayward Stairs (Top section)",
+          "The World That Never Was - Naught\u0027s Skyway, Addled Impasse, Naught\u0027s Approach"
+        ],
+        "DropChance": 12
+      }
+    ],
+    "Image": "dense.png",
+    "OrderNumber": 28
+  },
+  {
+    "MaterialId": 28,
+    "Name": "Twilight Shard",
+    "Rank": "C",
+    "Drops": [
+      {
+        "MaterialId": 28,
+        "Enemy": "Gambler",
+        "Locations": [
+          "Port Royal - Black Pearl (Ambush), Isla de Muerta, Moonlight Nook, Isla de Muerta: Treasure Heap, Isla de Muerta: Powder Store, Isla de Muerta: Cave Mouth, Ship Graveyard: Seadrift Keep",
+          "Twilight Town - Tower: Moon Chamber, Mansion: Foyer, Mansion: Dining Room, Underground Concourse",
+          "The World That Never Was - Havoc\u0027s Divide"
+        ],
+        "DropChance": 12
+      },
+      {
+        "MaterialId": 28,
+        "Enemy": "Dusk",
+        "Locations": [
+          "Land of Dragons - Ridge, Summit",
+          "Beast\u0027s Castle - Entrance Hall, Bridge, Ballroom",
+          "Port Royal - Isla de Muerta: Moonlight Nook",
+          "Twilight Town - Tower: Wayward Stairs (all sections), The Tower, Mansion: Foyer, Mansion: Library, Mansion: Basement Corridor, Underground Concourse, Tunnelway",
+          "The World That Never Was - Havoc\u0027s Divide, Addled Impasse"
+        ],
+        "DropChance": 10
+      }
+    ],
+    "Image": "twilight.png",
+    "OrderNumber": 29
+  },
+  {
+    "MaterialId": 29,
+    "Name": "Twilight Stone",
+    "Rank": "B",
+    "Drops": [
+      {
+        "MaterialId": 29,
+        "Enemy": "Dancer",
+        "Locations": [
+          "Twilight Town - Tower: Wayward Stairs (middle section), Mansion: Basement Corridor",
+          "The World That Never Was - Battle level 50. -Naught\u0027s Approach"
+        ],
+        "DropChance": 12
+      }
+    ],
+    "Image": "twilight.png",
+    "OrderNumber": 30
+  },
+  {
+    "MaterialId": 30,
+    "Name": "Twilight Gem",
+    "Rank": "A",
+    "Drops": [
+      {
+        "MaterialId": 30,
+        "Enemy": "Assassin",
+        "Locations": [
+          "The World That Never Was - Hall of Empty Melodies (upper) (it\u0027s before Proof of Existence)"
+        ],
+        "DropChance": 12
+      }
+    ],
+    "Image": "twilight.png",
+    "OrderNumber": 31
+  },
+  {
+    "MaterialId": 31,
+    "Name": "Twilight Crystal",
+    "Rank": "S",
+    "Drops": [
+      {
+        "MaterialId": 31,
+        "Enemy": "Sorcerer",
+        "Locations": [
+          "The World That Never Was - Nothing\u0027s Call, Ruin and Creation\u0027s Passage"
+        ],
+        "DropChance": 12
+      }
+    ],
+    "Image": "twilight.png",
+    "OrderNumber": 32
+  },
+  {
+    "MaterialId": 32,
+    "Name": "Mythril Shard",
+    "Rank": "C",
+    "Drops": [
+      {
+        "MaterialId": 32,
+        "Enemy": "Synthesis",
+        "Locations": [
+          "*Only obtained through item synthesis and chests*"
+        ],
+        "DropChance": 100
+      }
+    ],
+    "Image": "mythril.png",
+    "OrderNumber": 33
+  },
+  {
+    "MaterialId": 33,
+    "Name": "Mythril Stone",
+    "Rank": "B",
+    "Drops": [
+      {
+        "MaterialId": 33,
+        "Enemy": "Synthesis",
+        "Locations": [
+          "*Only obtained through item synthesis and chests*"
+        ],
+        "DropChance": 100
+      }
+    ],
+    "Image": "mythril.png",
+    "OrderNumber": 34
+  },
+  {
+    "MaterialId": 34,
+    "Name": "Mythril Gem",
+    "Rank": "A",
+    "Drops": [
+      {
+        "MaterialId": 34,
+        "Enemy": "Synthesis",
+        "Locations": [
+          "*Only obtained through item synthesis and chests*"
+        ],
+        "DropChance": 100
+      }
+    ],
+    "Image": "mythril.png",
+    "OrderNumber": 35
+  },
+  {
+    "MaterialId": 35,
+    "Name": "Mythril Crystal",
+    "Rank": "S",
+    "Drops": [
+      {
+        "MaterialId": 35,
+        "Enemy": "Synthesis",
+        "Locations": [
+          "*Only obtained through item synthesis and chests*"
+        ],
+        "DropChance": 100
+      }
+    ],
+    "Image": "mythril.png",
+    "OrderNumber": 36
+  },
+  {
+    "MaterialId": 36,
+    "Name": "Bright Shard",
+    "Rank": "C",
+    "Drops": [
+      {
+        "MaterialId": 36,
+        "Enemy": "Creeper Plant",
+        "Locations": [
+          "Halloween Town - Hinterlands"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 36,
+        "Enemy": "Soldier",
+        "Locations": [
+          "Timeless River - Lilliput, Mickey\u0027s House"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 36,
+        "Enemy": "Hook Bat",
+        "Locations": [
+          "Land of Dragons - Village Cave"
+        ],
+        "DropChance": 3
+      },
+      {
+        "MaterialId": 36,
+        "Enemy": "Minute Bomb",
+        "Locations": [
+          "Olympus Coliseum - Valley of the Dead, Underworld Caverns: Entrance"
+        ],
+        "DropChance": 3
+      },
+      {
+        "MaterialId": 36,
+        "Enemy": "Rabid Dog",
+        "Locations": [
+          "Port Royal - Harbor, Isla de Muerta: Moonlight Nook, Ship Graveyard: Seadrift Keep, Black Pearl (Ambush)"
+        ],
+        "DropChance": 3
+      }
+    ],
+    "Image": "bright.png",
+    "OrderNumber": 45
+  },
+  {
+    "MaterialId": 37,
+    "Name": "Bright Stone",
+    "Rank": "B",
+    "Drops": [
+      {
+        "MaterialId": 37,
+        "Enemy": "Aeroplane",
+        "Locations": [
+          "Timeless River - Pier, Waterway, Lilliput, Scene of the Fire"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 37,
+        "Enemy": "Driller Mole",
+        "Locations": [
+          "Olympus Coliseum - Valley of the Dead, Underworld Caverns: Entrance"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 37,
+        "Enemy": "Luna Bandit",
+        "Locations": [
+          "Agrabah - Bazaar"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 37,
+        "Enemy": "Tornado Step",
+        "Locations": [
+          "Olympus Coliseum - Cave of the Dead: Passage, Underworld Caverns: The Lost Road"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 37,
+        "Enemy": "Wight Knight",
+        "Locations": [
+          "Halloween Town - Halloween Town Square"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 37,
+        "Enemy": "Cannon Gun",
+        "Locations": [
+          "Land of Dragons - Summit",
+          "Space Paranoids - Canyon, Simulation Hangar"
+        ],
+        "DropChance": 3
+      },
+      {
+        "MaterialId": 37,
+        "Enemy": "Silver Rock",
+        "Locations": [
+          "Agrabah - Cave of Wonders: Valley of Stone, Bazaar "
+        ],
+        "DropChance": 3
+      }
+    ],
+    "Image": "bright.png",
+    "OrderNumber": 46
+  },
+  {
+    "MaterialId": 38,
+    "Name": "Bright Gem",
+    "Rank": "A",
+    "Drops": [
+      {
+        "MaterialId": 38,
+        "Enemy": "Aerial Knocker",
+        "Locations": [
+          "The Pride Lands - Jungle"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 38,
+        "Enemy": "Magnum Loader",
+        "Locations": [
+          "Space Paranoids - Dataspace"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 38,
+        "Enemy": "Surveillance Robot",
+        "Locations": [
+          "Port Royal - Harbor, Town",
+          "Radiant Garden - Restoration Site, Corridors, Castle Gate, The Great Maw",
+          "Space Paranoids - I/O Tower: Hallway, Simulation Hangar"
+        ],
+        "DropChance": 3
+      }
+    ],
+    "Image": "bright.png",
+    "OrderNumber": 47
+  },
+  {
+    "MaterialId": 39,
+    "Name": "Bright Crystal",
+    "Rank": "S",
+    "Drops": [
+      {
+        "MaterialId": 39,
+        "Enemy": "Air Pirate",
+        "Locations": [
+          "Land of Dragons - Encampment, Checkpoint, Village Cave"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 39,
+        "Enemy": "Neoshadow",
+        "Locations": [
+          "Land of Dragons - Encampment, Mountain Trail, Ridge",
+          "Beast\u0027s Castle - Courtyard, Bridge",
+          "Port Royal - Town, Isla de Muerta: Powder Store, Isla de Muerta: Moonlight Nook",
+          "Olympus Coliseum - Cave of the Dead: Passage, Underworld Caverns: The Lost Road",
+          "Agrabah - Agrabah",
+          "Halloween Town - Halloween Town Square, Graveyard, Candy Cane Lane",
+          "The Pride Lands - The Savannah, Elephant Graveyard, Wildebeest Valley, Wastelands, Jungle",
+          "Radiant Garden - Borough, Bailey, Corridors, Castle Gate",
+          "The World That Never Was - Memory\u0027s Skyscraper"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 39,
+        "Enemy": "Strafer",
+        "Locations": [
+          "Space Paranoids - Canyon"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 39,
+        "Enemy": "Crescendo",
+        "Locations": [
+          "Olympus Coliseum - Cave of the Dead: Passage, Underworld Caverns: The Lost Road"
+        ],
+        "DropChance": 3
+      }
+    ],
+    "Image": "bright.png",
+    "OrderNumber": 48
+  },
+  {
+    "MaterialId": 40,
+    "Name": "Energy Shard",
+    "Rank": "C",
+    "Drops": [
+      {
+        "MaterialId": 40,
+        "Enemy": "Bolt Tower",
+        "Locations": [
+          "Land of Dragons - Imperial Square",
+          "The Pride Lands - The Savannah"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 40,
+        "Enemy": "Gargoyle Knight",
+        "Locations": [
+          "Beast\u0027s Castle - Entrance Hall, The East Wing, Courtyard, Undercroft, The West Hall, The West Wing"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 40,
+        "Enemy": "Gargoyle Warrior",
+        "Locations": [
+          "Beast\u0027s Castle - Entrance Hall, The East Wing, Courtyard, Undercroft, The West Hall, The West Wing"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 40,
+        "Enemy": "Nightwalker",
+        "Locations": [
+          "Land of Dragons - Imperial Square, Palace Gate, Mountain Trail, Ridge"
+        ],
+        "DropChance": 4
+      }
+    ],
+    "Image": "energy.png",
+    "OrderNumber": 49
+  },
+  {
+    "MaterialId": 41,
+    "Name": "Energy Stone",
+    "Rank": "B",
+    "Drops": [
+      {
+        "MaterialId": 41,
+        "Enemy": "Hammer Frame",
+        "Locations": [
+          "Beast\u0027s Castle - Entrance Hall, Secret Passage, The West Wing"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 41,
+        "Enemy": "Lance Soldier",
+        "Locations": [
+          "Port Royal - Town, Isla de Muerta: Cave Mouth, Ship Graveyard: Seadrift Row"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 41,
+        "Enemy": "Trick Ghost",
+        "Locations": [
+          "Halloween Town - Curly Hill, Hinterlands, Candy Cane Lane"
+        ],
+        "DropChance": 4
+      }
+    ],
+    "Image": "energy.png",
+    "OrderNumber": 50
+  },
+  {
+    "MaterialId": 42,
+    "Name": "Energy Gem",
+    "Rank": "A",
+    "Drops": [
+      {
+        "MaterialId": 42,
+        "Enemy": "Emerald Blues",
+        "Locations": [
+          "Land of Dragons - Encampment, Mountain Trail, Village Cave",
+          "Agrabah - Cave of Wonders: Entrance, Cave of Wonders: Valley of Stone, Bazaar"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 42,
+        "Enemy": "Fortuneteller",
+        "Locations": [
+          "Agrabah - Cave of Wonders: Valley of Stone, Cave of Wonders: Chasm of Challenges, Cave of Wonders: Treasure Room"
+        ],
+        "DropChance": 4
+      }
+    ],
+    "Image": "energy.png",
+    "OrderNumber": 51
+  },
+  {
+    "MaterialId": 43,
+    "Name": "Energy Crystal",
+    "Rank": "S",
+    "Drops": [
+      {
+        "MaterialId": 43,
+        "Enemy": "Bookmaster",
+        "Locations": [
+          "Radiant Garden - Borough",
+          "Space Paranoids - I/O Tower: Hallway"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 43,
+        "Enemy": "Shaman",
+        "Locations": [
+          "The Pride Lands - Wildebeest Valley, Wastelands"
+        ],
+        "DropChance": 4
+      }
+    ],
+    "Image": "energy.png",
+    "OrderNumber": 52
+  },
+  {
+    "MaterialId": 44,
+    "Name": "Serenity Shard",
+    "Rank": "C",
+    "Drops": [
+      {
+        "MaterialId": 44,
+        "Enemy": "Assault Rider",
+        "Locations": [
+          "Land of Dragons - Palace Gate, Antechamber, Mountain Trail, Village Cave, Summit"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 44,
+        "Enemy": "Fat Bandit",
+        "Locations": [
+          "Agrabah - Agrabah"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 44,
+        "Enemy": "Graveyard",
+        "Locations": [
+          "Halloween Town - Halloween Town Square, Graveyard, Curly Hill"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 44,
+        "Enemy": "Hot Rod",
+        "Locations": [
+          "Timeless River - Wharf, Building Site, Lilliput"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 44,
+        "Enemy": "Large Body",
+        "Locations": [
+          "Timeless River - Waterway, Building Site, Scene of the Fire",
+          "Beast\u0027s Castle - Ballroom, Secret Passage"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 44,
+        "Enemy": "Toy Soldier",
+        "Locations": [
+          "Halloween Town - Candy Cane Lane"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 44,
+        "Enemy": "Creeper",
+        "Locations": [
+          "The World That Never Was - Naught\u0027s Skyway"
+        ],
+        "DropChance": 2
+      },
+      {
+        "MaterialId": 44,
+        "Enemy": "Bulky Vendor (Capsule Prize Reaction, 100-75% HP)",
+        "Locations": [
+          "*See Bulky Vendor FAQ section*"
+        ],
+        "DropChance": 100
+      }
+    ],
+    "Image": "serenity.png",
+    "OrderNumber": 53
+  },
+  {
+    "MaterialId": 45,
+    "Name": "Serenity Stone",
+    "Rank": "B",
+    "Drops": [
+      {
+        "MaterialId": 45,
+        "Enemy": "Crimson Jazz",
+        "Locations": [
+          "Beast\u0027s Castle - The West Wing, The West Hall, Entrance Hall, Ballroom, Bridge",
+          "Olympus Coliseum - Cave of the Dead: Entrance, Underworld Caverns: Atrium",
+          "Agrabah - Agrabah, Cave of Wonders: Valley of Stone",
+          "Radiant Garden - Bailey, Corridors"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 45,
+        "Enemy": "Devastator",
+        "Locations": [
+          "Space Paranoids - Canyon, Dataspace, I/O Tower: Hallway"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 45,
+        "Enemy": "Living Bone",
+        "Locations": [
+          "The Pride Lands - The Savannah, Elephant Graveyard, Wastelands"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 45,
+        "Enemy": "Morning Star",
+        "Locations": [
+          "Beast\u0027s Castle - The West Hall, Entrance Hall, Ballroom",
+          "Port Royal - Isla de Muerta: Powder Store, Isla de Muerta: Moonlight Nook, Ship Graveyard: Seadrift Keep",
+          "Olympus Coliseum - Cave of the Dead: Entrance, Underworld Caverns: Atrium",
+          "Radiant Garden - Borough, Restoration Site, Castle Gate, Ravine Trail"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 45,
+        "Enemy": "Dusk",
+        "Locations": [
+          "Land of Dragons - Ridge, Summit",
+          "Beast\u0027s Castle - Entrance Hall, Bridge, Ballroom",
+          "Port Royal - Isla de Muerta: Moonlight Nook",
+          "Twilight Town - Tower: Wayward Stairs (all sections), The Tower, Mansion: Foyer, Mansion: Library, Mansion: Basement Corridor, Underground Concourse, Tunnelway",
+          "The World That Never Was - Havoc\u0027s Divide, Addled Impasse"
+        ],
+        "DropChance": 2
+      },
+      {
+        "MaterialId": 45,
+        "Enemy": "Bulky Vendor (Rare Capsule Reaction, 74-50% HP)",
+        "Locations": [
+          "*See Bulky Vendor FAQ section*"
+        ],
+        "DropChance": 100
+      }
+    ],
+    "Image": "serenity.png",
+    "OrderNumber": 54
+  },
+  {
+    "MaterialId": 46,
+    "Name": "Serenity Gem",
+    "Rank": "A",
+    "Drops": [
+      {
+        "MaterialId": 46,
+        "Enemy": "Dancer",
+        "Locations": [
+          "Twilight Town - Tower: Wayward Stairs (middle section), Mansion: Basement Corridor",
+          "The World That Never Was - Naught\u0027s Approach"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 46,
+        "Enemy": "Dragoon",
+        "Locations": [
+          "Beast\u0027s Castle - Entrance Hall, The East Wing, Bridge, Ballroom",
+          "Twilight Town - Tower: Star Chamber, Mansion: Library, Tunnelway",
+          "The World That Never Was - Crooked Ascension"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 46,
+        "Enemy": "Gambler",
+        "Locations": [
+          "Port Royal - Black Pearl (Ambush), Isla de Muerta, Moonlight Nook, Isla de Muerta: Treasure Heap, Isla de Muerta: Powder Store, Isla de Muerta: Cave Mouth, Ship Graveyard: Seadrift Keep",
+          "Twilight Town - Tower: Moon Chamber, Mansion: Foyer, Mansion: Dining Room, Underground Concourse",
+          "The World That Never Was - Havoc\u0027s Divide"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 46,
+        "Enemy": "Sniper",
+        "Locations": [
+          "Land of Dragons - Summit",
+          "Twilight Town - The Tower",
+          "The World That Never Was - Nothing\u0027s Call, Hall of Empty Melodies (lower and upper), Ruin and Creation\u0027s Passage"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 46,
+        "Enemy": "Bulky Vendor (Limited Capsule Reaction, 49-25% HP)",
+        "Locations": [
+          "*See Bulky Vendor FAQ section*"
+        ],
+        "DropChance": 100
+      }
+    ],
+    "Image": "serenity.png",
+    "OrderNumber": 55
+  },
+  {
+    "MaterialId": 47,
+    "Name": "Serenity Crystal",
+    "Rank": "S",
+    "Drops": [
+      {
+        "MaterialId": 47,
+        "Enemy": "Assassin",
+        "Locations": [
+          "The World That Never Was - Hall of Empty Melodies (upper) (it\u0027s before Proof of Existence)"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 47,
+        "Enemy": "Berserker",
+        "Locations": [
+          "Twilight Town - Tower: Wayward Stairs (Top section)",
+          "The World That Never Was - Naught\u0027s Skyway, Addled Impasse, Naught\u0027s Approach"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 47,
+        "Enemy": "Samurai",
+        "Locations": [
+          "Twilight Town - Tower: Wayward Stairs (bottom section)",
+          "The World That Never Was - Naught\u0027s Skyway, Naught\u0027s Approach"
+        ],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 47,
+        "Enemy": "Sorcerer",
+        "Locations": [],
+        "DropChance": 4
+      },
+      {
+        "MaterialId": 47,
+        "Enemy": "Bulky Vendor (Prime Capsule Reaction, 24-1% HP)",
+        "Locations": [
+          "*See Bulky Vendor FAQ section*"
+        ],
+        "DropChance": 100
+      }
+    ],
+    "Image": "serenity.png",
+    "OrderNumber": 56
+  },
+  {
+    "MaterialId": 48,
+    "Name": "Orichalcum",
+    "Rank": "A",
+    "Drops": [
+      {
+        "MaterialId": 48,
+        "Enemy": "Bulky Vendor (All Reactions)",
+        "Locations": [
+          "*See Bulky Vendor FAQ section*"
+        ],
+        "DropChance": 100
+      }
+    ],
+    "Image": "orichalcum.png",
+    "OrderNumber": 59
+  },
+  {
+    "MaterialId": 49,
+    "Name": "Orichalcum+",
+    "Rank": "S",
+    "Drops": [
+      {
+        "MaterialId": 49,
+        "Enemy": "Treasure",
+        "Locations": [
+          "Space Paranoirds - Central Computer Mesa"
+        ],
+        "DropChance": 100
+      },
+      {
+        "MaterialId": 49,
+        "Enemy": "Treasure",
+        "Locations": [
+          "Twilight Town - Sunset Terrace"
+        ],
+        "DropChance": 100
+      },
+      {
+        "MaterialId": 49,
+        "Enemy": "Treasure",
+        "Locations": [
+          "The World That Never Was - The Brink of Despair"
+        ],
+        "DropChance": 100
+      },
+      {
+        "MaterialId": 49,
+        "Enemy": "Prize",
+        "Locations": [
+          "100 Acre Wood - Beat Starry Hill Mini-game"
+        ],
+        "DropChance": 100
+      },
+      {
+        "MaterialId": 49,
+        "Enemy": "Prize",
+        "Locations": [
+          "Atlantica - Clear the song \u0022A New Day is Dawning.\u0022"
+        ],
+        "DropChance": 100
+      },
+      {
+        "MaterialId": 49,
+        "Enemy": "Prize",
+        "Locations": [
+          "Olympus Coliseum - Win the Goddess of Fate Cup."
+        ],
+        "DropChance": 100
+      },
+      {
+        "MaterialId": 49,
+        "Enemy": "Prize",
+        "Locations": [
+          "Moogle Shop. Collect at least one of every material. Once collected, leave shop and re-enter to get."
+        ],
+        "DropChance": 100
+      }
+    ],
+    "Image": "orichalcum+.png",
+    "OrderNumber": 60
+  },
+  {
+    "MaterialId": 50,
+    "Name": "Remembrance Shard",
+    "Rank": "C",
+    "Drops": [
+      {
+        "MaterialId": 50,
+        "Enemy": "Perplex",
+        "Locations": [
+          "Radiant Garden - Cavern of Remembrance"
+        ],
+        "DropChance": 6
+      },
+      {
+        "MaterialId": 50,
+        "Enemy": "Iron Hammer",
+        "Locations": [
+          "Radiant Garden - Cavern of Remembrance"
+        ],
+        "DropChance": 10
+      },
+      {
+        "MaterialId": 50,
+        "Enemy": "Silent Launcher",
+        "Locations": [
+          "Radiant Garden - Cavern of Remembrance"
+        ],
+        "DropChance": 6
+      }
+    ],
+    "Image": "remembrance.png",
+    "OrderNumber": 37
+  },
+  {
+    "MaterialId": 51,
+    "Name": "Remembrance Stone",
+    "Rank": "B",
+    "Drops": [
+      {
+        "MaterialId": 51,
+        "Enemy": "Air Viking",
+        "Locations": [
+          "Radiant Garden - Cavern of Remembrance"
+        ],
+        "DropChance": 6
+      },
+      {
+        "MaterialId": 51,
+        "Enemy": "Magic Phantom",
+        "Locations": [
+          "Radiant Garden - Cavern of Remembrance"
+        ],
+        "DropChance": 10
+      },
+      {
+        "MaterialId": 51,
+        "Enemy": "Lance Warrior",
+        "Locations": [
+          "Radiant Garden - Cavern of Remembrance"
+        ],
+        "DropChance": 10
+      },
+      {
+        "MaterialId": 51,
+        "Enemy": "Lance Warrior",
+        "Locations": [
+          "Radiant Garden - Cavern of Remembrance"
+        ],
+        "DropChance": 10
+      }
+    ],
+    "Image": "remembrance.png",
+    "OrderNumber": 38
+  },
+  {
+    "MaterialId": 52,
+    "Name": "Remembrance Gem",
+    "Rank": "A",
+    "Drops": [
+      {
+        "MaterialId": 52,
+        "Enemy": "Spring Metal",
+        "Locations": [
+          "Radiant Garden - Cavern of Remembrance"
+        ],
+        "DropChance": 10
+      },
+      {
+        "MaterialId": 52,
+        "Enemy": "Runemaster",
+        "Locations": [
+          "Radiant Garden - Cavern of Remembrance"
+        ],
+        "DropChance": 10
+      },
+      {
+        "MaterialId": 52,
+        "Enemy": "Mad Bumper",
+        "Locations": [
+          "Radiant Garden - Cavern of Remembrance"
+        ],
+        "DropChance": 12
+      },
+      {
+        "MaterialId": 52,
+        "Enemy": "Lance Warrior",
+        "Locations": [
+          "Radiant Garden - Cavern of Remembrance"
+        ],
+        "DropChance": 10
+      }
+    ],
+    "Image": "remembrance.png",
+    "OrderNumber": 39
+  },
+  {
+    "MaterialId": 53,
+    "Name": "Remembrance Crystal",
+    "Rank": "S",
+    "Drops": [
+      {
+        "MaterialId": 53,
+        "Enemy": "Reckless",
+        "Locations": [
+          "Radiant Garden - Cavern of Remembrance: Engine Chamber"
+        ],
+        "DropChance": 12
+      }
+    ],
+    "Image": "remembrance.png",
+    "OrderNumber": 40
+  },
+  {
+    "MaterialId": 54,
+    "Name": "Tranquil Shard",
+    "Rank": "C",
+    "Drops": [
+      {
+        "MaterialId": 54,
+        "Enemy": "Mushroom XIII",
+        "Locations": [
+          "*See Mushroom XIII FAQ section*"
+        ],
+        "DropChance": 100
+      }
+    ],
+    "Image": "tranquil.png",
+    "OrderNumber": 41
+  },
+  {
+    "MaterialId": 55,
+    "Name": "Tranquil Stone",
+    "Rank": "B",
+    "Drops": [
+      {
+        "MaterialId": 55,
+        "Enemy": "Mushroom XIII",
+        "Locations": [
+          "*See Mushroom XIII FAQ section*"
+        ],
+        "DropChance": 100
+      }
+    ],
+    "Image": "tranquil.png",
+    "OrderNumber": 42
+  },
+  {
+    "MaterialId": 56,
+    "Name": "Tranquil Gem",
+    "Rank": "A",
+    "Drops": [
+      {
+        "MaterialId": 56,
+        "Enemy": "Mushroom XIII",
+        "Locations": [
+          "*See Mushroom XIII FAQ section*"
+        ],
+        "DropChance": 100
+      }
+    ],
+    "Image": "tranquil.png",
+    "OrderNumber": 43
+  },
+  {
+    "MaterialId": 57,
+    "Name": "Tranquil Crystal",
+    "Rank": "S",
+    "Drops": [
+      {
+        "MaterialId": 57,
+        "Enemy": "Mushroom XIII",
+        "Locations": [
+          "*See Mushroom XIII FAQ section*"
+        ],
+        "DropChance": 100
+      }
+    ],
+    "Image": "tranquil.png",
+    "OrderNumber": 44
+  },
+  {
+    "MaterialId": 58,
+    "Name": "Manifest Illusion",
+    "Rank": "A",
+    "Drops": [
+      {
+        "MaterialId": 58,
+        "Enemy": "Lingering Will",
+        "Locations": [
+          "Disney Castle - Castle"
+        ],
+        "DropChance": 100
+      },
+      {
+        "MaterialId": 58,
+        "Enemy": "Frontier Puzzle",
+        "Locations": [
+          "Journal"
+        ],
+        "DropChance": 100
+      },
+      {
+        "MaterialId": 58,
+        "Enemy": "Cavern of Remembrance: Depths",
+        "Locations": [
+          "Radiant Garden - Cavern of Remembrance: Depths"
+        ],
+        "DropChance": 100
+      }
+    ],
+    "Image": "manifest.png",
+    "OrderNumber": 57
+  },
+  {
+    "MaterialId": 59,
+    "Name": "Lost Illusion",
+    "Rank": "S",
+    "Drops": [
+      {
+        "MaterialId": 59,
+        "Enemy": "Absent Silhouette",
+        "Locations": [],
+        "DropChance": 100
+      }
+    ],
+    "Image": "lost.png",
+    "OrderNumber": 58
+  },
+  {
+    "MaterialId": 60,
+    "Name": "Found Illusion",
+    "Rank": "A",
+    "Drops": [
+      {
+        "MaterialId": 60,
+        "Enemy": "Synthesis",
+        "Locations": [
+          "Synthesis Shop"
+        ],
+        "DropChance": 100
+      }
+    ],
+    "Image": "found.png",
+    "OrderNumber": 61
+  }
+]

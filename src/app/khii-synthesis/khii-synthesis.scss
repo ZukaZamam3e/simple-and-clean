@@ -1,0 +1,911 @@
+page-khii-synthesis {
+    ion-content {
+        //position: relative;
+        // background-color: #ff942e !important;
+        // margin-top: 50px !important;
+        // height: calc(100% - 50px);
+        background: repeating-linear-gradient(
+        0deg,
+        #045804 2px,
+        black 10px,
+        black 10px
+        );
+
+        
+
+    }
+
+    .synthesis_page {
+        // left: 150px;
+        
+        display: flex!important;
+     align-content: center!important;
+     align-items: center!important;
+    }
+
+    .synthesis_recipes_window {
+        background-color: darkblue;
+        color: black;
+        border-radius: 30px;
+        // box-shadow: 5px 10px;
+        //box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);
+        border: 1px solid darkblue;
+	-moz-box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px darkblue;
+	-webkit-box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px darkblue;
+	box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px darkblue;
+	text-shadow:
+		1px 1px 2px rgba(000,000,000,0.7),
+        0px 1px 0px darkblue;
+        max-width: 400px;
+        // max-height: 600px;
+        
+    }
+
+    /* width */
+    .synthesis_recipe_list::-webkit-scrollbar {
+    width: 20px;
+}
+.synthesis_search {
+    position: relative;
+}
+.synthesis_search_box {
+        background-color: rgb(26, 138, 175);
+        color: white;
+        -moz-box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px rgb(26, 138, 175);
+	-webkit-box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px rgb(26, 138, 175);
+	box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+        inset 1px 2px 0px rgb(26, 138, 175);
+        padding-left: 0px !important;
+        font-size: 24px;
+}
+
+/* Track */
+.synthesis_recipe_list::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+    border-radius: 10px;
+}
+ 
+/* Handle */
+.synthesis_recipe_list::-webkit-scrollbar-thumb {
+    background: darkgrey; 
+    border-radius: 10px;
+}
+
+/* Handle on hover */
+.synthesis_recipe_list::-webkit-scrollbar-thumb:hover {
+    background: darkgrey; 
+}
+
+.synthesis_search {
+    height: 30px;
+    width: 375px;
+}
+
+.synthesis_search_box.text-input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: red !important;
+    opacity: 1; /* Firefox */
+}
+
+.text-input::-moz-placeholder {
+    color: lightgray;
+  }
+  
+  .text-input:-ms-input-placeholder {
+    color: lightgray;
+  }
+  
+  .text-input::-webkit-input-placeholder {
+    text-indent: 0;
+    color: lightgray;
+  }
+
+  .synthesis_percent {
+      position: absolute;
+      right: -25px;
+      top: 0px;
+      color: white;
+      text-shadow:
+		1px 1px 2px rgba(000,000,000,0.7),
+        0px 1px 0px transparent;
+        font-size: 24px;
+  }
+
+    .synthesis_recipe_list {
+        margin-top: 35px;
+        padding: 15px;
+        overflow-y: scroll;
+        height: 385px;
+        width: 375px;
+        //margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .synthesis_recipe {
+        padding: 10px;
+        margin-top: 0px;
+        margin-bottom: 8px;
+        margin-left: 15px;
+        margin-right: 15px;
+        border-radius: 5px;
+        background-color: rgb(26, 138, 175);
+        font-size: 24px;
+        color: white;
+        -moz-box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px rgb(26, 138, 175);
+	-webkit-box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px rgb(26, 138, 175);
+	box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px rgb(26, 138, 175);
+        // width: 90%;
+        
+    }
+
+    // .synthesis_row {
+    //     position: relative;
+    //     // color: lightgray !important;
+    // }
+
+    .synthesis_row_acquired {
+        color: #39FF14 !important;
+    }
+
+    .synthesis_row_acquired_box {
+        position: absolute;
+    // border: solid;
+    // border-width: thin;
+    // border-color: #39FF14;
+    // height: 10px;
+    // width: 10px;
+        right: 25px;
+    }
+
+    .meld_slot_corner {
+        position: absolute;
+        height: 16px;
+        top: -1px;
+        right: -1px;
+        border-top: 8px solid darkblue;
+        border-left: 8px solid transparent;
+        border-bottom: 8px solid transparent;
+        border-right: 8px solid darkblue;
+        box-shadow: none;
+    }
+
+    .selected_synthesis_row {
+        border-width: 3px !important;
+        border: solid;
+        border-color: red !important;
+        padding: 7px !important;
+        padding-top: 0px !important;
+        top: -1px;
+        padding-left: 13px !important;
+    }
+
+    .selected_synthesis_row > .synthesis_row_acquired_box {
+        right: 23px !important;
+        top: 0px;
+
+    }
+
+    .meld_slot_corner_selected_red {
+        height: 22px;
+        top: -3px;
+        right: -1px;
+        border-top: 11px solid red;
+        border-left: 11px solid transparent;
+        border-bottom: 11px solid transparent;
+        border-right: 11px solid red;
+    }
+
+    .meld_slot_corner_selected_blue {
+        position: absolute;
+        top: -1px;
+        right: -1px;
+        border-top: 9px solid transparent;
+        border-left: 9px solid rgb(26, 138, 175);
+        border-bottom: 9px solid rgb(26, 138, 175);
+        border-right: 9px solid transparent;
+        color: rgb(26, 138, 175);
+        // width: 14px;
+        height: 18px;
+    }
+
+    .meld_slot_corner_selected_darkblue {
+        position: absolute;
+        top: -8px;
+        right: -8px;
+        border-top: 15px solid darkblue;
+        border-left: 15px solid transparent;
+        border-bottom: 15px solid transparent;
+        border-right: 15px solid darkblue;
+        // width: 14px;
+        height: 30px;
+        box-shadow: none;
+    }
+
+    .recipe_materials {
+        // background-color: darkgreen;
+        position: absolute;
+        top: 16px;
+        left: 450px;
+
+	text-shadow:
+		1px 1px 2px rgba(000,000,000,0.7),
+        0px 1px 0px transparent;
+        max-width: 400px;
+        max-width: 400px;
+        height: 350px;
+        
+        width: 400px;
+    }
+
+    .recipe_materials_top_left_corner {
+        background-color: darkgreen;
+        position: absolute;
+        top: -1px;
+        left: -1px;
+        border-top: 5px solid transparent;
+        border-left: 5px solid transparent;
+        border-bottom: 5px solid darkgreen;
+        border-right: 5px solid darkgreen;
+        // color: rgb(26, 138, 175);
+        width: 10px;
+        height: 5px;
+  background-clip: padding-box;
+    }
+
+    .recipe_materials_top {
+        top: -1px;
+        left: 9px;
+        background-color: darkgreen;
+        position: absolute;
+        height: 10px;
+        width: 390px;
+  border-radius: 0px 8px 0px 0px;
+}
+    .recipe_materials_bottom_right_corner {
+        background-color: darkgreen;
+        position: absolute;
+        bottom: -1px;
+        right: 1px;
+        border-top: 5px solid darkgreen;
+        border-left: 5px solid darkgreen;
+        border-bottom: 5px solid transparent;
+        border-right: 5px solid transparent;
+        // color: rgb(26, 138, 175);
+        width: 10px;
+        height: 5px;
+  background-clip: padding-box;
+    }
+
+    .recipe_materials_bottom {
+        bottom: -1px;
+        left: 0px;
+        background-color: darkgreen;
+        position: absolute;
+        height: 10px;
+        width: 390px;
+        border-radius: 0px 0px 0px 8px;
+    }
+
+    .recipe_materials_middle {
+        position: absolute;
+        background-color: darkgreen;
+        height: 332px;
+        width: 399px;
+        top: 9px;
+        //height: calc(100%-20px);
+    }
+
+    .recipe_material_row {
+        padding: 5px;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-top: 0px;
+        margin-bottom: 3px;
+        margin-left: 15px;
+        margin-right: 15px;
+        border-radius: 5px;
+        background-color: black;
+        font-size: 24px;
+        text-align: left;
+        color: white;
+        position: relative;
+        -moz-box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px black;
+	-webkit-box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px black;
+	box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px black;
+    }
+
+    .selected_material_row {
+        border-width: 1px;
+        border: solid;
+        border-color: red;
+        padding: 2px !important;
+        padding-left: 7px !important;
+        padding-right: 10px !important;
+    }
+
+    .selected_material_row > .recipe_material_row_count {
+        right: 12px !important;
+    }
+
+    .recipe_material_row_count {
+        position: absolute;
+        right: 15px;
+        color: #39FF14;
+    }
+
+    .need_quantity {
+        color: #39FF14;
+        text-align: center; 
+        font-size: 24px;
+    }
+
+    .recipe_material_title {
+        font-size: 24px;
+            text-align: left;
+            color: white;
+        padding: 7px;
+        background-color: rgb(65, 124, 65);
+        margin-left: 15px;
+        margin-right: 15px;
+        border-radius: 4px;
+    }
+
+    .recipe_material_title_exp {
+        position: absolute;
+        right: 30px;
+    }
+
+    .recipe_material_title_rank {
+        color: black;
+        background-color: red;
+        text-align: left;
+        // width: 30px;
+        // height: 30px;
+        border-radius: 4px;
+        padding-left:4px;
+        padding-right:4px;
+    }
+
+    .recipe_material_title_rank_c {
+        background-color: lightgreen;
+    }
+
+    .recipe_material_title_rank_b {
+        background-color: red;
+    }
+
+    .recipe_material_title_rank_s {
+        background-color: yellow;
+    }
+
+    .recipe_material_title_rank_a {
+        background-color: rgb(207, 47, 207);
+    }
+
+    .recipe_card_small {
+        display: none;
+        z-index: -2;
+    }
+
+
+    .recipe_booster_row {
+        position: relative;
+        padding: 5px;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-top: 0px;
+        margin-bottom: 3px;
+        margin-left: 15px;
+        margin-right: 15px;
+        border-radius: 5px;
+        background-color: black;
+        font-size: 24px;
+        text-align: left;
+        color: white;
+        position: relative;
+        -moz-box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px black;
+	-webkit-box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px black;
+	box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px black;
+    }
+
+    .selected_booster_checkbox {
+        position: absolute;
+        right: 15px;
+        top: 8px;
+    }
+
+    .selected_material_row > .selected_booster_checkbox {
+        position: absolute;
+        right: 9px !important;
+        top: 9px !important;
+    }
+
+    .checkbox-md .checkbox-checked {
+        border-color: orange;
+        background-color: orange;
+    }
+
+    .material_drops {
+        overflow-y: scroll;
+        // background-color: darkgreen;
+        position: absolute;
+        background-color: black;
+        top: 500px;
+        left: 15px;
+
+	text-shadow:
+		1px 1px 2px rgba(000,000,000,0.7),
+        0px 1px 0px transparent;
+        height: 350px;
+        
+        width: 835px;
+
+        border-radius: 10px;
+    }
+
+    .drop_row {
+        position: relative;
+        background-color: darkcyan;
+        width: calc(100% - 10px);
+        color: white;
+        margin: 5px;
+        min-height: 40px;
+        padding: 5px;
+        font-size: 24px;
+        border-radius: 10px;
+        text-align: left;
+        min-height: 45px;
+    }
+
+    .drop_row_percentage {
+        position: absolute;
+        right: 5px;
+        top: 2px;
+    }
+
+    .enemy_location {
+        font-size: 15px;
+    }
+
+    .material_drops::-webkit-scrollbar {
+        width: 20px;
+    }
+
+
+    /* Track */
+.material_drops::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey !important; 
+    border-radius: 10px;
+}
+ 
+/* Handle */
+.material_drops::-webkit-scrollbar-thumb {
+    background: darkgrey !important; 
+    border-radius: 10px;
+}
+
+/* Handle on hover */
+.material_drops::-webkit-scrollbar-thumb:hover {
+    background: darkgrey !important; 
+}
+
+    .synthesis_card {
+        background-color: darkblue;
+        color: black;
+        border-radius: 15px;
+        // box-shadow: 5px 10px;
+        //box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);
+        border: 1px solid darkblue;
+	-moz-box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px darkblue;
+	-webkit-box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px darkblue;
+	box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px darkblue;
+	text-shadow:
+		1px 1px 2px rgba(000,000,000,0.7),
+        0px 1px 0px darkblue;
+        max-width: 400px;
+
+        text-align: center;
+        display: table;
+        margin: 0 auto;
+        overflow-y: scroll;
+        width: 45vw;
+        float: right;
+
+        height: 40vh;
+    }
+
+    .recipe_card {
+        position: relative;
+        background-color: darkgreen;
+        color: black;
+        border-radius: 15px;
+        // box-shadow: 5px 10px;
+        //box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);
+        border: 1px solid darkgreen;
+	-moz-box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px darkgreen;
+	-webkit-box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px darkgreen;
+	box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px darkgreen;
+	text-shadow:
+		1px 1px 2px rgba(000,000,000,0.7),
+        0px 1px 0px darkgreen;
+        max-width: 400px;
+
+        text-align: center;
+        display: table;
+        margin: 0 auto;
+        width: 45vw;
+        float: left;
+
+        height: 30vh;
+    }
+
+    .recipe_card_hide {
+        display: table;
+    }
+
+    .booster_card_hide {
+        display: table;
+    }
+
+    .drop_card_hide {
+        display: table;
+    }
+
+    .synthesis_scroll {
+        height: inherit;
+        overflow-y: scroll;
+        border-radius: 15px;
+    }
+
+    .synthesis_scroll::-webkit-scrollbar {
+        -webkit-appearance: none;
+     }
+     
+     .synthesis_scroll::-webkit-scrollbar:vertical {
+        width: 20px;
+     }
+
+    .synthesis_scroll::-webkit-scrollbar-track {
+        box-shadow: inset 0 0 5px grey; 
+        border-radius: 10px;
+    }
+     
+    /* Handle */
+    .synthesis_scroll::-webkit-scrollbar-thumb {
+        background: darkgrey; 
+        border-radius: 10px;
+    }
+    
+    /* Handle on hover */
+    .synthesis_scroll::-webkit-scrollbar-thumb:hover {
+        background: darkgrey; 
+    }
+
+    .drop_scroll {
+        height: inherit;
+        overflow-y: scroll;
+        border-radius: 15px;
+    }
+
+    .drop_scroll::-webkit-scrollbar {
+        width: 20px;
+    }
+
+    .drop_scroll::-webkit-scrollbar-track {
+        box-shadow: inset 0 0 5px grey; 
+        border-radius: 10px;
+    }
+     
+    /* Handle */
+    .drop_scroll::-webkit-scrollbar-thumb {
+        background: darkgrey; 
+        border-radius: 10px;
+    }
+    
+    /* Handle on hover */
+    .drop_scroll::-webkit-scrollbar-thumb:hover {
+        background: darkgrey; 
+    }
+
+    .synthesis_row {
+        position: relative;
+        background-color: rgb(26, 138, 175);
+        color: black;
+        // box-shadow: 5px 10px;
+        //box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);
+        border: 1px solid rgb(26, 138, 175);
+	-moz-box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px rgb(26, 138, 175);
+	-webkit-box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px rgb(26, 138, 175);
+	box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px rgb(26, 138, 175);
+	text-shadow:
+		1px 1px 2px rgba(000,000,000,0.7),
+        0px 1px 0px rgb(26, 138, 175);
+        max-width: 92%;
+        margin-top: 7px;
+        font-size: 24px;
+        height: 35px;
+        border-radius: 5px;
+        color: white;
+        text-align: left;
+        padding-left: 15px;
+        left: 15px;
+        padding-top: 1px;
+        
+        // max-height: 600px;
+    }
+
+    .booster_card {
+        background-color: darkorange;
+        color: black;
+        border-radius: 15px;
+        // box-shadow: 5px 10px;
+        //box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);
+        border: 1px solid darkorange;
+	-moz-box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px darkorange;
+	-webkit-box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px darkorange;
+	box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px darkorange;
+	text-shadow:
+		1px 1px 2px rgba(000,000,000,0.7),
+        0px 1px 0px darkorange;
+        max-width: 400px;
+        width: calc(100% - 20px);
+
+        text-align: center;
+        display: table;
+        margin: auto;
+        overflow-y: scroll;
+        width: 45vw;
+        margin-top: 12px;
+        float: left;
+
+        height: 9vh;
+        max-width: 400px;
+    }
+
+    .drop_card {
+        border-radius: 10px;
+        background-color: black;
+        -moz-box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px black;
+	-webkit-box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px black;
+	box-shadow:
+		0px 1px 1px rgba(000,000,000,0.5),
+		inset 1px 2px 0px black;
+	text-shadow:
+		1px 1px 2px rgba(000,000,000,0.7),
+        0px 1px 0px black;
+        width: calc(100% - 60px);
+        // height: calc(100% - 200px);
+        text-align: center;
+        display: table;
+        // margin: 0px;
+        margin: 0 auto;
+        margin-top: 5px;
+        overflow-y: scroll;
+        max-width: 810px;
+        width: 91vw;
+        height: 35vh;
+        
+    }
+
+
+    .selection_icon {
+        padding-right: 3px;
+    }
+
+    .recipe_col {
+        max-width: 400px;
+    }
+
+    .cancel_selection {
+        display: none;
+    }
+
+    .enemy_img {
+        max-width: 100px;
+        padding-top: 25px;
+        padding-bottom: 10px;
+        padding-right: 25px;
+        right: 20px;
+        bottom: 0px
+    }
+
+    .col_enemy_img {
+        width: 150px;   
+    }
+
+    .col_enemy_info {
+        width: calc(100% - 150px);
+    }
+
+    @media (max-width: 767px) {
+        .cancel_selection {
+            display: inline-block;
+            text-align: center;
+        // margin: 0px;
+        }
+
+        .synthesis_card {
+            width: 85vw;
+            height: 25vh;
+            float: none;
+        }
+
+        .recipe_scroll {
+            height: 25vh;
+        }
+
+        .recipe_card {
+            width: 85vw;
+            float: none;
+            height: auto;
+        }
+
+        .recipe_card_hide {
+            display: none;
+        }
+
+        .booster_card_hide {
+            display: none;
+        }
+
+        .drop_card_hide {
+            display: none;
+        }
+
+        .recipe_col {
+            max-width: none;
+            height: 49vh;
+        }
+
+        .booster_card {
+            width: 85vw;
+            float: none;
+            height: auto;
+        }
+
+        .drop_card {
+            width: 85vw;
+            float: none;
+            max-width: 400px;
+            height: 36vh;
+    }
+
+    .recipe_card_small {
+        display: inline-block;
+    }
+
+    .enemy_img {
+        max-width: 80px;
+    }
+
+    .col_enemy_img {
+        width: 70px;   
+    }
+
+    .col_enemy_info {
+        width: calc(100% - 70px);
+    }
+}
+
+    @media (max-width: 415px) {
+        .scroll-content {
+            padding-top: 0px !important;
+        }
+
+        .synthesis_row {
+            padding-top: 6px;
+            font-size: 17px;
+        }
+
+        
+
+        .recipe_material_title {
+            font-size: 17px;
+        }
+
+        .selected_synthesis_row {
+            padding-top: 5px !important;
+        }
+
+        .need_quantity {
+            font-size: 17px;
+        }
+
+        .recipe_material_row {
+            font-size: 17px;
+        }
+
+        .recipe_booster_row {
+            font-size: 17px;
+        }
+
+        .selected_booster_checkbox {
+            right: 4px;
+            top: 4px;
+        }
+
+        .selected_synthesis_row > .synthesis_row_acquired_box {
+            top: 5px;
+            
+        }
+
+        .drop_row {
+            font-size: 14px;
+        }
+
+        .enemy_img {
+            max-width: 80px;
+        }
+
+        
+
+    }
+
+    @media (min-width: 0px) {
+        .col-sm-12 {
+            -webkit-box-flex: 0;
+            -webkit-flex: 0 0 100%;
+            -ms-flex: 0 0 100%;
+            flex: 0 0 100%;
+            width: 100%;
+            max-width: 100%;
+        }
+    
+}
+    }

@@ -1,0 +1,67 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>Simple and Clean - For all of your Kingdom Hearts Final Mix needs!</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <div class="menu_text">
+    <ion-grid>
+      <ion-row justify-content-center align-items-center>
+        <ion-col col-sm-12 col-md-6 col-lg-6 col-xl-4 *ngFor="let g of games">
+          <!-- <ion-card class="" [ngClass]="{ 'game_card': !g.ComingSoon, 'game_card_comingsoon': g.ComingSoon }"> -->
+            <ion-card class="game_card" [ngClass]="">
+            <!-- <img [ngClass]="{ 'game_card_bg': !g.ComingSoon, 'game_card_bg_comingsoon': g.ComingSoon }"/> -->
+            <img src="../assets/imgs/home/gamebox_6.png" width="375" [ngClass]="{ 'game_card_bg': !g.ComingSoon, 'game_card_bg_comingsoon': g.ComingSoon }" />
+            <img src="{{g.Icon}}" width="375" [ngClass]="{ 'game_img': !g.ComingSoon, 'game_img_comingsoon': g.ComingSoon }" />
+            <div class="page_outer" *ngIf="!g.ComingSoon" text-center>
+                <div class="page_inner">
+                    <div *ngFor="let p of g.Pages" class="page_div">
+                      <button class="page_title" ion-button (click)="openPage(p)">{{p.PageTitle}}</button>
+                    </div>
+                </div>
+            </div>
+            <div class="page_outer_comingsoon" *ngIf="g.ComingSoon" text-center>
+                  Coming Soon!
+                  <img class="keyhole" src="../assets/imgs/home/kh-keyhole.png" width="25"/>
+                  
+              </div>
+            <!-- <div class="game_title"  *ngIf="!g.ComingSoon">
+              <img class="game_img" src={{g.Icon}}/>
+            </div>
+            <div class="game_title_comingsoon" *ngIf="g.ComingSoon">
+                <img class="game_img_comingsoon" src={{g.Icon}}/>
+              </div>
+            <div class="page_outer" *ngIf="!g.ComingSoon">
+                <div class="page_inner">
+                  <div *ngFor="let p of g.Pages" text-center>
+                    <button class="page_title" ion-button (click)="openPage(p)">{{p.PageTitle}}</button>
+                    
+                  </div>
+              </div>
+            </div>
+            <div class="page_outer_comingsoon" *ngIf="g.ComingSoon">
+                <div class="page_inner_text_comingsoon">
+                  Coming Soon!
+                  </div>  
+              <div class="page_inner_comingsoon">
+                  
+                  </div>
+              </div> -->
+            <!-- <div id="div{{cmd.Command}}"class="command" *ngFor="let cmd of g.Collection" (click)="selectCommand(cmd)"
+        [ngClass]="{ selected_command: cmd.Selected }">
+          <img src="./assets/imgs/bbs-melding/{{cmd.Icon}}.png" [ngClass]="{ command_acquired: cmd.Acquired, command_not_acquired: !cmd.Acquired }">
+        </div> -->
+          </ion-card>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+
+
+
+    <!-- <button ion-button secondary menuToggle>Toggle Menu</button> -->
+  </div>
+</ion-content>

@@ -1,0 +1,215 @@
+<ion-header>
+
+    <ion-navbar>
+        <button ion-button menuToggle>
+            <ion-icon name="menu"></ion-icon>
+        </button>
+        <ion-title>Kingdom Hearts 2 Synthesis</ion-title>
+    </ion-navbar>
+    <ion-input class="synthesis_search_box" placeholder="Enter Recipe..." [(ngModel)]="recipeSearch"></ion-input>
+</ion-header>
+
+<ion-content padding (window:resize)="onResize($event)">
+    <ion-grid class="synthesis_grid">
+        <ion-row>
+        </ion-row>
+        <ion-row class="cancel_selection" text-align-center>
+            <div *ngIf="selected.Id !== -1">
+                <button ion-button (click)="unselectRecipe()">
+                    <ion-icon class="selection_icon" name="close"></ion-icon>Recipe
+                </button>
+                <button ion-button (click)="unselectMaterial()" *ngIf="selectedMaterialDecode.MaterialId !== -1">
+                    <ion-icon class="selection_icon" name="close"></ion-icon>Material
+                </button>
+            </div>
+
+        </ion-row>
+        <ion-row>
+            <ion-col class="" col-sm-12 col-md-6 col-lg-6 col-xl-6>
+                <ion-card class="synthesis_card" [@expand]="synthesisAnimation">
+                    <div id="divSynthesisScroll" class="synthesis_scroll">
+
+                        <div id="recipe_id_{{r.Id}}" *ngFor="let r of recipes" class="synthesis_row" (click)="selectRecipe(r)" [ngClass]="{ 'selected_synthesis_row': r.Selected, 'synthesis_row_acquired': r.Acquired }">
+                            {{r.Name}}
+                            <ion-icon *ngIf="!r.Acquired" class="synthesis_row_acquired_box" name="square"></ion-icon>
+                            <ion-icon *ngIf="r.Acquired" class="synthesis_row_acquired_box" name="checkbox"></ion-icon>
+                            <div class="meld_slot_corner" [ngClass]="{ 'meld_slot_corner_selected_red': r.Selected }">
+                            </div>
+                            <!-- <div *ngIf="r.Selected" class="meld_slot_corner_selected_blue">
+                            </div> -->
+                            <div *ngIf="r.Selected" class="meld_slot_corner_selected_darkblue">
+                            </div>
+                        </div>
+                    </div>
+                </ion-card>
+            </ion-col>
+            <ion-col class="recipe_col" col-sm-12 col-md-6 col-lg-6 col-xl-6 [@expand]="recipeAnimation">
+                <ion-card class="recipe_card" [ngClass]="{ 'recipe_card_hide' : selected.Id === -1 }">
+                    <div *ngIf="selected.Id !== -1">
+                        <div class="recipe_material_title">
+                            Item Rank
+                            <span class="recipe_material_title_rank" [ngClass]="{ 'recipe_material_title_rank_a': selected.Rank == 'A', 'recipe_material_title_rank_b': selected.Rank == 'B','recipe_material_title_rank_c': selected.Rank == 'C','recipe_material_title_rank_s': selected.Rank == 'S' }">
+                                {{selected.Rank}}
+                            </span>
+                            <span class="recipe_material_title_exp">
+                                {{selected.Exp}} EXP
+                            </span>
+                        </div>
+                        <div class="need_quantity">
+                            Need/Qunatity
+                        </div>
+                        <div *ngFor="let m of selectedMaterials" class="recipe_material_row" (click)="selectMaterial(m)" [ngClass]="{ 'selected_material_row': m.Selected }">
+                            {{m.MaterialName}}
+                            <span class="recipe_material_row_count">
+                                {{m.CountCeil}}
+                            </span>
+                        </div>
+                    </div>
+                    <div *ngIf="selected.Id === -1">
+                        Select a recipe to see how to make it.
+                    </div>
+
+                </ion-card>
+                <ion-card class="booster_card" [ngClass]="{ 'booster_card_hide' : selected.Id === -1 }">
+                    <div *ngFor="let b of selectedBoosters" class="recipe_booster_row" (click)="selectMaterial(b)" [ngClass]="{ 'selected_material_row': b.Selected }">
+                        {{b.MaterialName}}
+                        <ion-checkbox class="selected_booster_checkbox" [(ngModel)]="b.On" (ionChange)="updateBooster(b)"></ion-checkbox>
+                    </div>
+                </ion-card>
+            </ion-col>
+            <ion-col class="recipe_card_small" col-sm-12 col-md-12 col-lg-12 col-xl-12>
+                <ion-card class="recipe_card" [ngClass]="{ 'recipe_card_hide' : selected.Id === -1 }" [@expand]="recipeSmallAnimation">
+                    <div *ngIf="selected.Id !== -1">
+                        <div class="recipe_material_title">
+                            Item Rank
+                            <span class="recipe_material_title_rank" [ngClass]="{ 'recipe_material_title_rank_a': selected.Rank == 'A', 'recipe_material_title_rank_b': selected.Rank == 'B','recipe_material_title_rank_c': selected.Rank == 'C','recipe_material_title_rank_s': selected.Rank == 'S' }">
+                                {{selected.Rank}}
+                            </span>
+                            <span class="recipe_material_title_exp">
+                                {{selected.Exp}} EXP
+                            </span>
+                        </div>
+                        <div class="need_quantity">
+                            Need/Qunatity
+                        </div>
+                        <div *ngIf="selectedMaterialDecode.MaterialId !== -1" class="recipe_material_row" (click)="selectMaterial(m)">
+                            {{selectedMaterialDecode.Name}}
+                            <span class="recipe_material_row_count">
+                                {{selectedMaterialDecode.Count}}
+                            </span>
+                        </div>
+                    </div>
+                </ion-card>
+            </ion-col>
+            <ion-col class="" col-sm-12 col-md-12 col-lg-12 col-xl-12>
+                <ion-card class="drop_card" [ngClass]="{ 'drop_card_hide' : selectedMaterialDecode.MaterialId === -1 }">
+                    <div class="drop_scroll">
+                        <ion-row *ngFor="let d of selectedMaterialDecode.Drops" class="drop_row">
+                            <ion-col class="col_enemy_img">
+                                <img *ngIf="d.Enemy.indexOf('Bulky') == -1" class="enemy_img" src="./assets/imgs/khii/enemies/{{d.Enemy.trim()}}.png" />
+                                <img *ngIf="d.Enemy.indexOf('Bulky') !== -1" class="enemy_img" src="./assets/imgs/khii/enemies/Bulky Vendor.png" />
+                            </ion-col>
+                            <ion-col class="col_enemy_info">
+                                {{d.Enemy}}
+                                <div class="drop_row_percentage">
+                                    {{d.DropChance}}%
+                                </div>
+                                <div *ngFor="let l of d.Locations" class="enemy_location">
+                                    {{l}}
+            
+                                </div>
+                            </ion-col>
+                        </ion-row>
+                    </div>
+
+                </ion-card>
+            </ion-col>
+        </ion-row>
+    </ion-grid>
+    <!-- <div class="synthesis_recipes_window">
+            <div class="synthesis_search">
+                <ion-input class="synthesis_search_box" placeholder="Enter Recipe..." [(ngModel)]="recipeSearch"></ion-input>
+                <ion-label class="synthesis_percent">{{percentage}}%</ion-label>
+            </div>
+            <div class="synthesis_recipe_list">
+                <div *ngFor="let r of recipes" class="synthesis_row" (click)="selectRecipe(r)">
+                    <div class="synthesis_recipe" [ngClass]="{ 'selected_synthesis_row': r.Selected }">
+                        {{r.Name}}
+                        <ion-icon *ngIf="!r.Acquired" class="synthesis_row_acquired_box" name="square"></ion-icon>
+                        <ion-icon *ngIf="r.Acquired" class="synthesis_row_acquired_box" name="checkbox"></ion-icon>
+                        
+                    </div>
+                    <div class="meld_slot_corner" [ngClass]="{ 'meld_slot_corner_selected_red': r.Selected }">
+                    </div>
+                    <div *ngIf="r.Selected" class="meld_slot_corner_selected_blue">
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="recipe_materials">
+            <div class="recipe_materials_top_left_corner"></div>
+            <div class="recipe_materials_top"></div>
+            <div class="recipe_materials_middle">
+                <div *ngIf="selected.Id != -1">
+                    <div class="recipe_material_title">
+                        Item Rank
+                        <span class="recipe_material_title_rank" [ngClass]="{ 'recipe_material_title_rank_a': selected.Rank == 'A', 'recipe_material_title_rank_b': selected.Rank == 'B','recipe_material_title_rank_c': selected.Rank == 'C','recipe_material_title_rank_s': selected.Rank == 'S' }">
+                            {{selected.Rank}}
+                        </span>
+                        <span class="recipe_material_title_exp">
+                            {{selected.Exp}} EXP
+                        </span>
+                    </div>
+                    <div class="need_quantity">
+                        Need/Qunatity
+                    </div>
+                    <div *ngFor="let m of selectedMaterials" class="recipe_material_row" (click)="selectMaterial(m)" [ngClass]="{ 'selected_material_row': m.Selected }">
+                        {{m.MaterialName}}
+                        <span class="recipe_material_row_count">
+                            {{m.CountCeil}}
+                        </span>
+                    </div>
+                </div>
+            </div>
+            <div class="recipe_materials_bottom_right_corner"></div>
+            <div class="recipe_materials_bottom"></div>
+
+        </div>
+        <div class="recipe_boosters">
+            <div class="recipe_boosters_middle">
+                <div *ngIf="selected.Id != -1">
+                    <div *ngFor="let b of selectedBoosters" class="recipe_booster_row" (click)="selectMaterial(b)" [ngClass]="{ 'selected_material_row': b.Selected }">
+                        {{b.MaterialName}}
+                        <ion-checkbox class="selected_booster_checkbox" [(ngModel)]="b.On" (ionChange)="updateBooster(b)"></ion-checkbox>
+                    </div>
+                </div>
+            </div>
+            <div class="recipe_boosters_bottom_right_corner"></div>
+            <div class="recipe_boosters_bottom"></div>
+
+        </div>
+
+        <div class="material_drops">
+            <div *ngIf="selectedMaterialDecode.MaterialId != -1">
+                <div *ngFor="let d of selectedMaterialDecode.Drops">
+                    <div class="drop_row">
+                        {{d.Enemy}}
+                        <div class="drop_row_percentage">
+                            {{d.DropChance}}%
+                        </div>
+                        <div *ngFor="let l of d.Locations" class="enemy_location">
+                            {{l}}
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div> -->
+</ion-content>
+
+<ion-footer>
+
+</ion-footer>

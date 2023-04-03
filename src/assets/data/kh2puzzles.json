@@ -1,0 +1,1284 @@
+[
+    {
+        "Id": 1,
+        "PieceNumber": 1,
+        "OrderNumber": 11,
+        "Puzzle": "Awakening Puzzle Piece",
+        "World": "Radiant Garden",
+        "Area": "Merlin's house",
+        "Notes": "Above the bed."
+    },
+    {
+        "Id": 2,
+        "PieceNumber": 2,
+        "OrderNumber": 8,
+        "Puzzle": "Awakening Puzzle Piece",
+        "World": "Radiant Garden",
+        "Area": "Marketplace",
+        "Notes": "On a ledge near a shophouse. Accessible from the entrance of the world - you'll be sure not to miss it."
+    },
+    {
+        "Id": 3,
+        "PieceNumber": 3,
+        "OrderNumber": 5,
+        "Puzzle": "Awakening Puzzle Piece",
+        "World": "Radiant Garden",
+        "Area": "Borough",
+        "Notes": "On a wall section near the Bailey."
+    },
+    {
+        "Id": 4,
+        "PieceNumber": 4,
+        "OrderNumber": 6,
+        "Puzzle": "Awakening Puzzle Piece",
+        "World":"Beast’s Castle",
+        "Area": "Undercroft",
+        "Notes": "Top left, back. Accessible by climbing a big pile of furniture."
+    },
+    {
+        "Id": 5,
+        "PieceNumber": 22,
+        "OrderNumber": 10,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Twilight Town",
+        "Area": "Mansion: Foyer",
+        "Notes": "Need LV2 Glide."
+    },
+    {
+        "Id": 6,
+        "PieceNumber": 6,
+        "OrderNumber": 2,
+        "Puzzle": "Awakening Puzzle Piece",
+        "World":"Beast’s Castle",
+        "Area": "The Beast's room",
+        "Notes": "None"
+    },
+    {
+        "Id": 7,
+        "PieceNumber": 7,
+        "OrderNumber": 8,
+        "Puzzle": "Awakening Puzzle Piece",
+        "World":"Beast’s Castle",
+        "Area": "Underground Passage",
+        "Notes": "At highest point."
+    },
+    {
+        "Id": 8,
+        "PieceNumber": 8,
+        "OrderNumber": 7,
+        "Puzzle": "Awakening Puzzle Piece",
+        "World": "The Land of Dragons",
+        "Area": "Ridge",
+        "Notes": "Accessible by riding the air currents and jumping."
+    },
+    {
+        "Id": 9,
+        "PieceNumber": 9,
+        "OrderNumber": 7,
+        "Puzzle": "Awakening Puzzle Piece",
+        "World":"Beast’s Castle",
+        "Area": "Underground Passage",
+        "Notes": "From the entrance, go straight and turn right."
+    },
+    {
+        "Id": 10,
+        "PieceNumber": 10,
+        "OrderNumber": 5,
+        "Puzzle": "Awakening Puzzle Piece",
+        "World":"Beast’s Castle",
+        "Area": "Undercroft",
+        "Notes": "Atop a small pile of furniture."
+    },
+    {
+        "Id": 11,
+        "PieceNumber": 11,
+        "OrderNumber": 8,
+        "Puzzle": "Awakening Puzzle Piece",
+        "World": "The Land of Dragons",
+        "Area": "Ridge",
+        "Notes": "Hidden behind a pile of firearms."
+    },
+    {
+        "Id": 12,
+        "PieceNumber": 12,
+        "OrderNumber": 5,
+        "Puzzle": "Awakening Puzzle Piece",
+        "World": "The Land of Dragons",
+        "Area": "Village",
+        "Notes": "On a haystack behind a house."
+    },
+    {
+        "Id": 13,
+        "PieceNumber": 1,
+        "OrderNumber": 3,
+        "Puzzle": "Heart Puzzle Piece",
+        "World": "Disney Castle",
+        "Area": "Courtyard",
+        "Notes": "Above the bonsai of the trumpet player."
+    },
+    {
+        "Id": 14,
+        "PieceNumber": 2,
+        "OrderNumber": 2,
+        "Puzzle": "Heart Puzzle Piece",
+        "World": "Disney Castle",
+        "Area": "Courtyard",
+        "Notes": "On top of the entrance."
+    },
+    {
+        "Id": 15,
+        "PieceNumber": 3,
+        "OrderNumber": 1,
+        "Puzzle": "Heart Puzzle Piece",
+        "World": "Olympus Coliseum",
+        "Area": "Cave of the Dead: Entrance",
+        "Notes": "None"
+    },
+    {
+        "Id": 16,
+        "PieceNumber": 4,
+        "OrderNumber": 9,
+        "Puzzle": "Heart Puzzle Piece",
+        "World": "Olympus Coliseum",
+        "Area": "Underworld Caverns: Atrium",
+        "Notes": "At the entrance."
+    },
+    {
+        "Id": 17,
+        "PieceNumber": 5,
+        "OrderNumber": 10,
+        "Puzzle": "Heart Puzzle Piece",
+        "World": "Port Royal",
+        "Area": "Isla de Muerta: Powder Store",
+        "Notes": "Found in the cave behind the crates of gun powder."
+    },
+    {
+        "Id": 18,
+        "PieceNumber": 6,
+        "OrderNumber": 7,
+        "Puzzle": "Heart Puzzle Piece",
+        "World": "Radiant Garden",
+        "Area": "Marketplace",
+        "Notes": "On top of Mog's Moogle Shop. Accessible by High Jump (at least LV2)."
+    },
+    {
+        "Id": 19,
+        "PieceNumber": 7,
+        "OrderNumber": 1,
+        "Puzzle": "Heart Puzzle Piece",
+        "World": "Port Royal",
+        "Area": "Rampart",
+        "Notes": "At the opposite end of the Rampart from the save point."
+    },
+    {
+        "Id": 20,
+        "PieceNumber": 8,
+        "OrderNumber": 3,
+        "Puzzle": "Heart Puzzle Piece",
+        "World": "Timeless River",
+        "Area": "Waterway",
+        "Notes": "Left end."
+    },
+    {
+        "Id": 21,
+        "PieceNumber": 9,
+        "OrderNumber": 2,
+        "Puzzle": "Heart Puzzle Piece",
+        "World": "Olympus Coliseum",
+        "Area": "Underworld Caverns: Entrance",
+        "Notes": "None"
+    },
+    {
+        "Id": 22,
+        "PieceNumber": 10,
+        "OrderNumber": 1,
+        "Puzzle": "Heart Puzzle Piece",
+        "World": "The Land of Dragons",
+        "Area": "Encampment",
+        "Notes": "Near the pole on the left side of the pedestal near Capt Li Shang's tent."
+    },
+    {
+        "Id": 23,
+        "PieceNumber": 11,
+        "OrderNumber": 4,
+        "Puzzle": "Heart Puzzle Piece",
+        "World": "The Land of Dragons",
+        "Area": "Village",
+        "Notes": "On a rooftop. It's a pretty low one, so LV1 High Jump is enough for you to be able to get it."
+    },
+    {
+        "Id": 24,
+        "PieceNumber": 12,
+        "OrderNumber": 4,
+        "Puzzle": "Heart Puzzle Piece",
+        "World":"Beast’s Castle",
+        "Area": "West Wing",
+        "Notes": "By the staircase. Please don't confuse this with the West Hall - it's the WEST WING."
+    },
+    {
+        "Id": 25,
+        "PieceNumber": 1,
+        "OrderNumber": 3,
+        "Puzzle": "Duality Puzzle Piece",
+        "World": "Atlantica",
+        "Area": "Undersea Courtyard",
+        "Notes": "Under the ledge to the left of the save point."
+    },
+    {
+        "Id": 26,
+        "PieceNumber": 2,
+        "OrderNumber": 3,
+        "Puzzle": "Duality Puzzle Piece",
+        "World": "Halloween Town",
+        "Area": "Hinterlands",
+        "Notes": "Behind the Christmas Town tree."
+    },
+    {
+        "Id": 27,
+        "PieceNumber": 3,
+        "OrderNumber": 5,
+        "Puzzle": "Duality Puzzle Piece",
+        "World": "Disney Castle",
+        "Area": "Gummi Hangar",
+        "Notes": "Above the archway. Need LV3 High Jump."
+    },
+    {
+        "Id": 28,
+        "PieceNumber": 4,
+        "OrderNumber": 9,
+        "Puzzle": "Duality Puzzle Piece",
+        "World": "Port Royal",
+        "Area": "Isla de Muerta: Powder Store",
+        "Notes": "Hidden behind one of the crates of gun powder."
+    },
+    {
+        "Id": 29,
+        "PieceNumber": 5,
+        "OrderNumber": 1,
+        "Puzzle": "Duality Puzzle Piece",
+        "World": "Agrabah",
+        "Area": "Agrabah (Main area of the town)",
+        "Notes": "Above a stand near the entrance to the Palace Gates."
+    },
+    {
+        "Id": 30,
+        "PieceNumber": 6,
+        "OrderNumber": 6,
+        "Puzzle": "Duality Puzzle Piece",
+        "World": "Olympus Coliseum",
+        "Area": "Underworld Caverns: The Lost Road",
+        "Notes": "By the exit towards the Atrium. Instead of going straight in, stray off a little to the right."
+    },
+    {
+        "Id": 31,
+        "PieceNumber": 7,
+        "OrderNumber": 4,
+        "Puzzle": "Duality Puzzle Piece",
+        "World": "Radiant Garden",
+        "Area": "Bailey",
+        "Notes": "On the stairs to the Restoration Site."
+    },
+    {
+        "Id": 32,
+        "PieceNumber": 8,
+        "OrderNumber": 1,
+        "Puzzle": "Duality Puzzle Piece",
+        "World": "Halloween Town",
+        "Area": "Halloween Town Square",
+        "Notes": "Stand on the metal grate and you will be hit by a jet of green water. This will propel you high enough to get the puzzle piece."
+    },
+    {
+        "Id": 33,
+        "PieceNumber": 9,
+        "OrderNumber": 1,
+        "Puzzle": "Duality Puzzle Piece",
+        "World": "Timeless River",
+        "Area": "Pier",
+        "Notes": "Above the tree upon entering. Need LV2 High Jump."
+    },
+    {
+        "Id": 34,
+        "PieceNumber": 10,
+        "OrderNumber": 4,
+        "Puzzle": "Duality Puzzle Piece",
+        "World": "Olympus Coliseum",
+        "Area": "Underworld Caverns: The Lock",
+        "Notes": "At the back of the lock."
+    },
+    {
+        "Id": 35,
+        "PieceNumber": 11,
+        "OrderNumber": 3,
+        "Puzzle": "Duality Puzzle Piece",
+        "World": "Port Royal",
+        "Area": "Town",
+        "Notes": "Near the first set of exploding crates of gunpowder upon entry."
+    },
+    {
+        "Id": 36,
+        "PieceNumber": 12,
+        "OrderNumber": 4,
+        "Puzzle": "Duality Puzzle Piece",
+        "World": "Disney Castle",
+        "Area": "Courtyard",
+        "Notes": "Near the bonsai cutting of the trombone player is a tall hedge. Jump from the top of that hedge to get puzzle piece."
+    },
+    {
+        "Id": 37,
+        "PieceNumber": 32,
+        "OrderNumber": 11,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Twilight Town",
+        "Area": "Mansion: Foyer"
+    },
+    {
+        "Id": 38,
+        "PieceNumber": 2,
+        "OrderNumber": 6,
+        "Puzzle": "Frontier Puzzle Piece",
+        "World": "Halloween Town",
+        "Area": "Santa's House",
+        "Notes": "On top of the dresser."
+    },
+    {
+        "Id": 39,
+        "PieceNumber": 3,
+        "OrderNumber": 2,
+        "Puzzle": "Frontier Puzzle Piece",
+        "World": "Agrabah",
+        "Area": "Agrabah",
+        "Notes": "Behind a stall near exit to the Bazaar. Need to destroy the stand."
+    },
+    {
+        "Id": 40,
+        "PieceNumber": 4,
+        "OrderNumber": 3,
+        "Puzzle": "Frontier Puzzle Piece",
+        "World": "Radiant Garden",
+        "Area": "Postern",
+        "Notes": "Above the doorway to the Corridors. Need LV2 High Jump and LV1 Aerial Dodge."
+    },
+    {
+        "Id": 41,
+        "PieceNumber": 31,
+        "OrderNumber": 14,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Twilight Town",
+        "Area": "Mansion: Pod Room"
+    },
+    {
+        "Id": 42,
+        "PieceNumber": 6,
+        "OrderNumber": 2,
+        "Puzzle": "Frontier Puzzle Piece",
+        "World": "Timeless River",
+        "Area": "Pier",
+        "Notes": "On the Pier next to the river."
+    },
+    {
+        "Id": 43,
+        "PieceNumber": 7,
+        "OrderNumber": 4,
+        "Puzzle": "Frontier Puzzle Piece",
+        "World": "Port Royal",
+        "Area": "Town",
+        "Notes": "Above exploding gunpowder crates. Need LV2 High Jump."
+    },
+    {
+        "Id": 44,
+        "PieceNumber": 8,
+        "OrderNumber": 3,
+        "Puzzle": "Frontier Puzzle Piece",
+        "World": "The Land of Dragons",
+        "Area": "Mountain Trail",
+        "Notes": "Above a giant boulder after the entering. Need LV2 High Jump and LV1 Aerial Dodge."
+    },
+    {
+        "Id": 45,
+        "PieceNumber": 9,
+        "OrderNumber": 3,
+        "Puzzle": "Frontier Puzzle Piece",
+        "World": "Agrabah",
+        "Area": "Bazaar",
+        "Notes": "Go through the middle entrance to the Bazaar and there will be a stand with a puzzle piece behind it. Destroy the stand to get it."
+    },
+    {
+        "Id": 46,
+        "PieceNumber": 10,
+        "OrderNumber": 8,
+        "Puzzle": "Frontier Puzzle Piece",
+        "World": "Agrabah",
+        "Area": "Cave of Wonders: Valley of Stone",
+        "Notes": "Inside the first chamber and on top of a lone pillar."
+    },
+    {
+        "Id": 47,
+        "PieceNumber": 11,
+        "OrderNumber": 1,
+        "Puzzle": "Frontier Puzzle Piece",
+        "World": "Atlantica",
+        "Area": "Triton's Throne",
+        "Notes": "On one side of his throne."
+    },
+    {
+        "Id": 48,
+        "PieceNumber": 12,
+        "OrderNumber": 2,
+        "Puzzle": "Frontier Puzzle Piece",
+        "World": "Atlantica",
+        "Area": "Triton's Throne",
+        "Notes": "On one side of his throne."
+    },
+    {
+        "Id": 49,
+        "PieceNumber": 1,
+        "OrderNumber": 7,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Pride Lands",
+        "Area": "Wastelands",
+        "Notes": "First puzzle piece on trail."
+    },
+    {
+        "Id": 50,
+        "PieceNumber": 2,
+        "OrderNumber": 4,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Pride Lands",
+        "Area": "Gnu Valley",
+        "Notes": "Left from the entrance behind a rock column."
+    },
+    {
+        "Id": 51,
+        "PieceNumber": 3,
+        "OrderNumber": 8,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Pride Lands",
+        "Area": "Wastelands",
+        "Notes": "Second puzzle piece on trail."
+    },
+    {
+        "Id": 52,
+        "PieceNumber": 4,
+        "OrderNumber": 10,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Pride Lands",
+        "Area": "Oasis",
+        "Notes": "Dash off of the waterfall basin and simultaneously jump to get piece. Can be difficult. Put a finger on both circle and square."
+    },
+    {
+        "Id": 53,
+        "PieceNumber": 5,
+        "OrderNumber": 2,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Radiant Garden",
+        "Area": "Postern",
+        "Notes": "On the steps going down and around the central area."
+    },
+    {
+        "Id": 54,
+        "PieceNumber": 6,
+        "OrderNumber": 6,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Agrabah",
+        "Area": "Cave of Wonders: Treasure Room",
+        "Notes": "To the left of the entrance and hidden behind a pile of treasure."
+    },
+    {
+        "Id": 55,
+        "PieceNumber": 7,
+        "OrderNumber": 2,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "100 Acre Wood",
+        "Area": "Pooh Bear's House",
+        "Notes": "Above his house. Need LV2 High Jump"
+    },
+    {
+        "Id": 56,
+        "PieceNumber": 8,
+        "OrderNumber": 6,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "The Land of Dragons",
+        "Area": "Village",
+        "Notes": "Above the awning above the Moogle Shop. Need LV2 High Jump and LV2 Aerial Dodge."
+    },
+    {
+        "Id": 57,
+        "PieceNumber": 9,
+        "OrderNumber": 9,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "The Land of Dragons",
+        "Area": "Throne Room",
+        "Notes": "Left side of the room. Need LV2 High Jump and Aerial Dodge."
+    },
+    {
+        "Id": 58,
+        "PieceNumber": 10,
+        "OrderNumber": 9,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Agrabah",
+        "Area": "Cave of Wonders: Chasm of Challenges",
+        "Notes": "In mid air while falling down to the next level."
+    },
+    {
+        "Id": 59,
+        "PieceNumber": 11,
+        "OrderNumber": 10,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Agrabah",
+        "Area": "Cave of Wonders: Chasm of Challenges",
+        "Notes": "In mid air while falling down to the next level."
+    },
+    {
+        "Id": 60,
+        "PieceNumber": 12,
+        "OrderNumber": 4,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Halloween Town",
+        "Area": "Yuletide Hill",
+        "Notes": "Behind the Halloween Town tree."
+    },
+    {
+        "Id": 61,
+        "PieceNumber": 13,
+        "OrderNumber": 5,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "100 Acre Wood",
+        "Area": "Kanga's House",
+        "Notes": "On top of cardboard boxes."
+    },
+    {
+        "Id": 62,
+        "PieceNumber": 14,
+        "OrderNumber": 1,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "100 Acre Wood",
+        "Area": "Starry Hill",
+        "Notes": "Need LV2 High Jump and LV2 Aerial Dodge."
+    },
+    {
+        "Id": 63,
+        "PieceNumber": 15,
+        "OrderNumber": 10,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "The Land of Dragons",
+        "Area": "Throne Room",
+        "Notes": "Right side of the room. Need LV3 Glide."
+    },
+    {
+        "Id": 64,
+        "PieceNumber": 16,
+        "OrderNumber": 1,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Disney Castle",
+        "Area": "Colonnade",
+        "Notes": "Need LV2 High Jump, LV2 Aerial Dodge and attack."
+    },
+    {
+        "Id": 65,
+        "PieceNumber": 17,
+        "OrderNumber": 4,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "The World That Never Was",
+        "Area": "Naught's Skyway",
+        "Notes": "Need Glide Level 3."
+    },
+    {
+        "Id": 66,
+        "PieceNumber": 18,
+        "OrderNumber": 2,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Pride Lands",
+        "Area": "The King's Den",
+        "Notes": "Jump off of the small rock."
+    },
+    {
+        "Id": 67,
+        "PieceNumber": 19,
+        "OrderNumber": 3,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "100 Acre Wood",
+        "Area": "Rabbit's House",
+        "Notes": "On the cabbage patch."
+    },
+    {
+        "Id": 68,
+        "PieceNumber": 20,
+        "OrderNumber": 6,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "100 Acre Wood",
+        "Area": "Spookey Cave",
+        "Notes": "Across from first treasure chest."
+    },
+    {
+        "Id": 69,
+        "PieceNumber": 21,
+        "OrderNumber": 5,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Halloween Town",
+        "Area": "Santa's House",
+        "Notes": "On the counter top."
+    },
+    {
+        "Id": 70,
+        "PieceNumber": 24,
+        "OrderNumber": 12,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Twilight Town",
+        "Area": "Mansion: White Room"
+    },
+    {
+        "Id": 71,
+        "PieceNumber": 23,
+        "OrderNumber": 13,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Twilight Town",
+        "Area": "Mansion: Computer Room"
+    },
+    {
+        "Id": 72,
+        "PieceNumber": 24,
+        "OrderNumber": 10,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Radiant Garden",
+        "Area": "Heartless Manufactory"
+    },
+    {
+        "Id": 73,
+        "PieceNumber": 25,
+        "OrderNumber": 5,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Olympus Coliseum",
+        "Area": "Cave of the Dead: Passage",
+        "Notes": "Use skateboard or Glide to reach it."
+    },
+    {
+        "Id": 74,
+        "PieceNumber": 26,
+        "OrderNumber": 4,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "100 Acre Wood",
+        "Area": "Piglet's House",
+        "Notes": "On a tree stump."
+    },
+    {
+        "Id": 75,
+        "PieceNumber": 28,
+        "OrderNumber": 1,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Twilight Town",
+        "Area": "Market Street",
+        "Notes": "Need LV2 Glide and LV2 Aerial Dodge."
+    },
+    {
+        "Id": 76,
+        "PieceNumber": 1,
+        "OrderNumber": 4,
+        "Puzzle": "Frontier Puzzle Piece",
+        "World": "Twilight Town",
+        "Area": "Station Plaza",
+        "Notes": "To the right of the doors to the station in the northeast corner."
+    },
+    {
+        "Id": 77,
+        "PieceNumber": 29,
+        "OrderNumber": 5,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Agrabah",
+        "Area": "Cave of Wonders: Entrance",
+        "Notes": "Behind tiger head."
+    },
+    {
+        "Id": 78,
+        "PieceNumber": 30,
+        "OrderNumber": 6,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Pride Lands",
+        "Area": "Elephant Graveyard",
+        "Notes": "Dash off of the big ledge in the middle."
+    },
+    {
+        "Id": 79,
+        "PieceNumber": 2,
+        "OrderNumber": 7,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Twilight Town",
+        "Area": "Sunset Hill",
+        "Notes": "Jump off the top of the hill."
+    },
+    {
+        "Id": 80,
+        "PieceNumber": 13,
+        "OrderNumber": 8,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Twilight Town",
+        "Area": "Sunset Hill",
+        "Notes": "On bench next to the mini clock tower."
+    },
+    {
+        "Id": 81,
+        "PieceNumber": 33,
+        "OrderNumber": 12,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Port Royal",
+        "Area": "Ship Graveyard: Jetsam Keep",
+        "Notes": "In the wreckage that has a hole through it."
+    },
+    {
+        "Id": 82,
+        "PieceNumber": 34,
+        "OrderNumber": 3,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Olympus Coliseum",
+        "Area": "Underworld Caverns: Entrance",
+        "Notes": "Need Aerial Dodge to get piece hidden behind the pillar."
+    },
+    {
+        "Id": 83,
+        "PieceNumber": 35,
+        "OrderNumber": 14,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Agrabah",
+        "Area": "Sandswept Ruins",
+        "Notes": "Underneath the second arch."
+    },
+    {
+        "Id": 84,
+        "PieceNumber": 36,
+        "OrderNumber": 7,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Port Royal",
+        "Area": "Black Pearl: Captain's Stateroom"
+    },
+    {
+        "Id": 85,
+        "PieceNumber": 37,
+        "OrderNumber": 11,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Agrabah",
+        "Area": "Cave of Wonders: Chasm of Challenges",
+        "Notes": "Fall on it to get it."
+    },
+    {
+        "Id": 86,
+        "PieceNumber": 38,
+        "OrderNumber": 1,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Space Paranoids",
+        "Area": "Canyon",
+        "Notes": "On the top ledge in area with the computer."
+    },
+    {
+        "Id": 87,
+        "PieceNumber": 39,
+        "OrderNumber": 6,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Port Royal",
+        "Area": "Black Pearl",
+        "Notes": "Need LV2 Aerial Dodge to reach it."
+    },
+    {
+        "Id": 88,
+        "PieceNumber": 40,
+        "OrderNumber": 8,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Olympus Coliseum",
+        "Area": "Underworld Caverns: The Lost Road",
+        "Notes": "Need LV2 High Jump and Aerial Dodge. On the second column."
+    },
+    {
+        "Id": 89,
+        "PieceNumber": 41,
+        "OrderNumber": 12,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Agrabah",
+        "Area": "Sandswept Ruins",
+        "Notes": "On broken bridge to the tower."
+    },
+    {
+        "Id": 90,
+        "PieceNumber": 42,
+        "OrderNumber": 5,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Pride Lands",
+        "Area": "Elephant Graveyard",
+        "Notes": "In the small alcove."
+    },
+    {
+        "Id": 91,
+        "PieceNumber": 43,
+        "OrderNumber": 3,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World":"Beast’s Castle",
+        "Area": "West Hall",
+        "Notes": "Need LV2 High Jump and Aerial Dodge. In front of the statue's face."
+    },
+    {
+        "Id": 92,
+        "PieceNumber": 44,
+        "OrderNumber": 7,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Halloween Town",
+        "Area": "Shipping and Receiving",
+        "Notes": "Above entrance."
+    },
+    {
+        "Id": 93,
+        "PieceNumber": 45,
+        "OrderNumber": 5,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Port Royal",
+        "Area": "Black Pearl",
+        "Notes": "On the stern."
+    },
+    {
+        "Id": 94,
+        "PieceNumber": 46,
+        "OrderNumber": 7,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Olympus Coliseum",
+        "Area": "Underworld Caverns: The Lost Road",
+        "Notes": "Need LV2 High Jump and Aerial Dodge. On the first column."
+    },
+    {
+        "Id": 95,
+        "PieceNumber": 47,
+        "OrderNumber": 9,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Pride Lands",
+        "Area": "Jungle",
+        "Notes": "Jump off the ledge."
+    },
+    {
+        "Id": 96,
+        "PieceNumber": 48,
+        "OrderNumber": 3,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Pride Lands",
+        "Area": "Gnu Valley",
+        "Notes": "Under the tree near the entrance to the Wastelands."
+    },
+    {
+        "Id": 97,
+        "PieceNumber": 1,
+        "OrderNumber": 20,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Radiant Garden",
+        "Area": "Cavern of Remembrance: Mineshaft",
+        "Notes": "In the area with yellow colored orbs. Need LV3 Aerial Dodge."
+    },
+    {
+        "Id": 98,
+        "PieceNumber": 7,
+        "OrderNumber": 6,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Twilight Town",
+        "Area": "Sunset Terrace",
+        "Notes": "On top of lone building near the track."
+    },
+    {
+        "Id": 99,
+        "PieceNumber": 3,
+        "OrderNumber": 3,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Space Paranoids",
+        "Area": "Solar Sailer"
+    },
+    {
+        "Id": 100,
+        "PieceNumber": 4,
+        "OrderNumber": 6,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Radiant Garden",
+        "Area": "Borough",
+        "Notes": "Need LV3 High Jump. Atop the building across from Merlin's House."
+    },
+    {
+        "Id": 101,
+        "PieceNumber": 5,
+        "OrderNumber": 8,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Port Royal",
+        "Area": "Ship Graveyard: Interceptor's Hold"
+    },
+    {
+        "Id": 102,
+        "PieceNumber": 6,
+        "OrderNumber": 13,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Radiant Garden",
+        "Area": "Cavern of Remembrance: Depths",
+        "Notes": "Need Aerial Dodge. On a ledge under the door to the Mineshaft."
+    },
+    {
+        "Id": 103,
+        "PieceNumber": 8,
+        "OrderNumber": 5,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Twilight Town",
+        "Area": "Sunset Terrace",
+        "Notes": "At the top waterfall. Need LV2 High Jump and LV2 Aerial Dodge."
+    },
+    {
+        "Id": 104,
+        "PieceNumber": 10,
+        "OrderNumber": 9,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Twilight Town",
+        "Area": "The Old Mansion",
+        "Notes": "Need Glide and LV2 Aerial Dodge. Atop column."
+    },
+    {
+        "Id": 105,
+        "PieceNumber": 9,
+        "OrderNumber": 14,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Radiant Garden",
+        "Area": "Cavern of Remembrance: Depths",
+        "Notes": "Need High Jump. On the column in the middle of the room."
+    },
+    {
+        "Id": 106,
+        "PieceNumber": 15,
+        "OrderNumber": 15,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Twilight Town",
+        "Area": "The Tower",
+        "Notes": "Need High Jump. Jump off of the staircase leading up to the tower."
+    },
+    {
+        "Id": 107,
+        "PieceNumber": 11,
+        "OrderNumber": 7,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "The World That Never Was",
+        "Area": "Ruin and Creation's Passage",
+        "Notes": "Need LV3 Glide. Above the entrance."
+    },
+    {
+        "Id": 108,
+        "PieceNumber": 12,
+        "OrderNumber": 12,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Radiant Garden",
+        "Area": "Bailey (Destroyed)",
+        "Notes": "Need LV3 Aerial Dodge"
+    },
+    {
+        "Id": 109,
+        "PieceNumber": 5,
+        "OrderNumber": 16,
+        "Puzzle": "Awakening Puzzle Piece",
+        "World": "Twilight Town",
+        "Area": "Tower: Wardrobe",
+        "Notes": "This one is acquired once Sora has obtained his new clothes from the Three Good Fairies."
+    },
+    {
+        "Id": 110,
+        "PieceNumber": 14,
+        "OrderNumber": 15,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Radiant Garden",
+        "Area": "Cavern of Remembrance: Mining Area",
+        "Notes": "On the top of the middle mining drill near an air vent."
+    },
+    {
+        "Id": 111,
+        "PieceNumber": 22,
+        "OrderNumber": 17,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Twilight Town",
+        "Area": "Tower: Wardrobe"
+    },
+    {
+        "Id": 112,
+        "PieceNumber": 16,
+        "OrderNumber": 16,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Radiant Garden",
+        "Area": "Cavern of Remembrance: Mining Area",
+        "Notes": "Need LV2 High Jump and LV2 Aerial Dodge to jump on to platform. Then use the air vent to reach a higher moving platform."
+    },
+    {
+        "Id": 113,
+        "PieceNumber": 17,
+        "OrderNumber": 6,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "The World That Never Was",
+        "Area": "Ruin and Creation's Passage",
+        "Notes": "Need LV2 Glide. Above the second to last platform."
+    },
+    {
+        "Id": 114,
+        "PieceNumber": 18,
+        "OrderNumber": 12,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Agrabah",
+        "Area": "Sandswept Ruins",
+        "Notes": "Under the first arch."
+    },
+    {
+        "Id": 115,
+        "PieceNumber": 19,
+        "OrderNumber": 18,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Radiant Garden",
+        "Area": "Cavern of Remembrance: Mining Area",
+        "Notes": "Need Glide or LV3 Aerial Dodge. Under the ledge with Map treasure chest."
+    },
+    {
+        "Id": 116,
+        "PieceNumber": 20,
+        "OrderNumber": 3,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "The World That Never Was",
+        "Area": "Twilight's View",
+        "Notes": "Need LV2 Glide."
+    },
+    {
+        "Id": 117,
+        "PieceNumber": 21,
+        "OrderNumber": 2,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Halloween Town",
+        "Area": "Curly Hill",
+        "Notes": "Need LV2 Glide."
+    },
+    {
+        "Id": 118,
+        "PieceNumber": 5,
+        "OrderNumber": 3,
+        "Puzzle": "Frontier Puzzle Piece",
+        "World": "Twilight Town",
+        "Area": "Tram Common",
+        "Notes": "On top of the northernmost building's rooftop."
+    },
+    {
+        "Id": 119,
+        "PieceNumber": 23,
+        "OrderNumber": 7,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Agrabah",
+        "Area": "Cave of Wonders: Treasure Room",
+        "Notes": "Need LV3 High Jump. Atop the pile of gold to the right of the entrance."
+    },
+    {
+        "Id": 120,
+        "PieceNumber": 27,
+        "OrderNumber": 2,
+        "Puzzle": "Daylight Puzzle Piece",
+        "World": "Twilight Town",
+        "Area": "Tram Common",
+        "Notes": "Ride the tram to reach it on the Synthesis shop roof."
+    },
+    {
+        "Id": 121,
+        "PieceNumber": 25,
+        "OrderNumber": 8,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Halloween Town",
+        "Area": "Christmas Town: Shipping and Receiving",
+        "Notes": "Need LV2 Aerial Dodge or use skateboard"
+    },
+    {
+        "Id": 122,
+        "PieceNumber": 26,
+        "OrderNumber": 2,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "The World That Never Was",
+        "Area": "Crooked Ascension"
+    },
+    {
+        "Id": 123,
+        "PieceNumber": 27,
+        "OrderNumber": 17,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Radiant Garden",
+        "Area": "Cavern of Remembrance: Mining Area",
+        "Notes": "On the top of the highest mining drill."
+    },
+    {
+        "Id": 124,
+        "PieceNumber": 28,
+        "OrderNumber": 9,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World":"Beast’s Castle",
+        "Area": "Bridge"
+    },
+    {
+        "Id": 125,
+        "PieceNumber": 29,
+        "OrderNumber": 1,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Pride Lands",
+        "Area": "Pride Rock",
+        "Notes": "Jump off the side of Pride Rock."
+    },
+    {
+        "Id": 126,
+        "PieceNumber": 30,
+        "OrderNumber": 19,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Radiant Garden",
+        "Area": "Cavern of Remembrance: Mineshaft",
+        "Notes": "Need LV1 Quick Run Level 1 and LV2 Aerial Dodge. In the area with blue orbs."
+    },
+    {
+        "Id": 127,
+        "PieceNumber": 31,
+        "OrderNumber": 18,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Twilight Town",
+        "Area": "Tunnelway",
+        "Notes": "By waterfall"
+    },
+    {
+        "Id": 128,
+        "PieceNumber": 32,
+        "OrderNumber": 23,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Radiant Garden",
+        "Area": "Cavern of Remembrance: Mineshaft",
+        "Notes": "Need LV3 Glide. In the area with white orbs."
+    },
+    {
+        "Id": 129,
+        "PieceNumber": 33,
+        "OrderNumber": 11,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Port Royal",
+        "Area": "Ship Graveyard: Jetsam Keep",
+        "Notes": "Attack anchor to get behind it."
+    },
+    {
+        "Id": 130,
+        "PieceNumber": 34,
+        "OrderNumber": 5,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "The World That Never Was",
+        "Area": "Proof of Existence"
+    },
+    {
+        "Id": 131,
+        "PieceNumber": 35,
+        "OrderNumber": 1,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "The World That Never Was",
+        "Area": "Memory's Skyscraper"
+    },
+    {
+        "Id": 132,
+        "PieceNumber": 36,
+        "OrderNumber": 22,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Radiant Garden",
+        "Area": "Cavern or Remembrance: Mineshaft",
+        "Notes": "Need LV3 Glide. In the area with white orbs."
+    },
+    {
+        "Id": 133,
+        "PieceNumber": 37,
+        "OrderNumber": 1,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World":"Beast’s Castle",
+        "Area": "Entrance Hall",
+        "Notes": "Need Glide and Aerial Dodge."
+    },
+    {
+        "Id": 134,
+        "PieceNumber": 38,
+        "OrderNumber": 19,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Twilight Town",
+        "Area": "Underground Concourse"
+    },
+    {
+        "Id": 135,
+        "PieceNumber": 39,
+        "OrderNumber": 13,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Port Royal",
+        "Area": "Ship Graveyard: Seadrift Row",
+        "Notes": "In the broken crow's nest."
+    },
+    {
+        "Id": 136,
+        "PieceNumber": 40,
+        "OrderNumber": 21,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Radiant Garden",
+        "Area": "Cavern of Remembrance: Mineshaft",
+        "Notes": "Need LV3 Glide. First piece in the area with white orbs."
+    },
+    {
+        "Id": 137,
+        "PieceNumber": 41,
+        "OrderNumber": 4,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Agrabah",
+        "Area": "Bazaar",
+        "Notes": "Need LV2 High Jump. Jump off one of the booths."
+    },
+    {
+        "Id": 138,
+        "PieceNumber": 42,
+        "OrderNumber": 2,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Port Royal",
+        "Area": "Harbor",
+        "Notes": "Need LV3 Aerial Dodge and LV2 Glide."
+    },
+    {
+        "Id": 139,
+        "PieceNumber": 43,
+        "OrderNumber": 2,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "The Land of Dragons",
+        "Area": "Encampment",
+        "Notes": "Need LV2 Glide."
+    },
+    {
+        "Id": 140,
+        "PieceNumber": 44,
+        "OrderNumber": 2,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Space Paranoids",
+        "Area": "Canyon",
+        "Notes": "Need LV2 Glide."
+    },
+    {
+        "Id": 141,
+        "PieceNumber": 45,
+        "OrderNumber": 20,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Twilight Town",
+        "Area": "Underground Concourse",
+        "Notes": "Above the pit area."
+    },
+    {
+        "Id": 142,
+        "PieceNumber": 46,
+        "OrderNumber": 4,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Space Paranoids",
+        "Area": "Central Core",
+        "Notes": "On the other side of entrance."
+    },
+    {
+        "Id": 143,
+        "PieceNumber": 47,
+        "OrderNumber": 9,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Radiant Garden",
+        "Area": "Corridors",
+        "Notes": "Need LV3 High Jump."
+    },
+    {
+        "Id": 144,
+        "PieceNumber": 48,
+        "OrderNumber": 1,
+        "Puzzle": "Sunset Puzzle Piece",
+        "World": "Radiant Garden",
+        "Area": "Ansem's Study",
+        "Notes": "Behind the closed door that leads to the Heartless Manufactory"
+    }
+]
